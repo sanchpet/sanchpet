@@ -1,9 +1,11 @@
 ### Hi there 👑
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchpet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchpet&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=8" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&custom_title=Stats" />
+</a>
 
 <!--
 **ad-petrov/ad-petrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
