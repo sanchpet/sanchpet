@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&custom_title=Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" />
 </a>
 
 <!--
