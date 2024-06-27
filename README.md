@@ -18,7 +18,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana%20&%20Loki-1a1b27?&logo=grafana&logoColor=white)
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-1a1b27?&logo=VictoriaMetrics&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-1a1b27?&logo=prometheus&logoColor=white)
-### Code:
+### Scripting & Programming
 ![Bash](https://img.shields.io/badge/Bash-1a1b27?&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1a1b27?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-1a1b27?logo=csharp&logoColor=white)
