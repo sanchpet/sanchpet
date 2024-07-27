@@ -21,7 +21,10 @@
 ### Scripting & Programming
 ![Bash](https://img.shields.io/badge/Bash-1a1b27?&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1a1b27?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1a1b27?logo=csharp&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-1a1b27?logo=perl&logoColor=white)
+![Php](https://img.shields.io/badge/Php-1a1b27?logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1a1b27?logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1a1b27?logo=sharp&logoColor=white)
 ### AWS
 ![MinIO S3](https://img.shields.io/badge/MinIO%20S3-1a1b27?&logo=minio&logoColor=white)
 ### Basic
