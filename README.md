@@ -1,4 +1,4 @@
-### Hi there 👑
+### Welcome to my GitHub page! 
 
 <a href="">
   <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=8" />
