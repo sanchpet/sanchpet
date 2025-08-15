@@ -8,18 +8,12 @@
     <a align="center" href="https://github.com/ellerbrock/open-source-badges/"><img align="center" alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
     <a align="center" href="https://t.me/sanchpet"><img align="center" alt="Telegram"src="https://img.shields.io/badge/telegram-1a1b27?&logo=telegram&logoColor=white"width="8%"></a>
     <a align="center""><img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=sanchpet&style=plastic&color=1a1b27"width="10%"></a>
-    <a align="center""><img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/sanchpet?style=plastic&color=1a1b27"width="6%"></a>
-    <a align="center""><img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/sanchpet?style=plastic&color=1a1b27"width="6%"></a>
-                                                                        
+    <a align="center""><img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/sanchpet?style=plastic&color=1a1b27"width="6%"></a>                            
 </p>
 
 Hi, welcome to my GitHub profile!
 
 Briefly, I can define myself as DevOps engineer and just a curious person.
-
-
-
-
 
 ## GitHub statistics
 
