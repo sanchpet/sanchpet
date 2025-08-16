@@ -1,4 +1,4 @@
-&lt;h1 align=&#34;center&#34;&gt;Aleksandr Petrov - @sanchpet&lt;/h1&gt;
+&#34;&lt;h1 align=&#34;center&#34;&gt;Aleksandr Petrov - @sanchpet&lt;/h1&gt;
 
 &lt;img align=&#34;right&#34; src=&#34;https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViNXNseGdka2ZhMTJxbDI3ZXd3a2xoaDZhbjgxOGdpejZpbnU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif&#34; width=&#34;33%&#34; alt=&#34;work&#34;&gt; 
 
@@ -32,7 +32,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
   &lt;img align=&#34;center&#34; src=&#34;https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=12&#34; width=&#34;34%&#34;/&gt;&lt;/a&gt;
 &lt;a href=&#34;&#34;&gt;
   &lt;img align=&#34;center&#34; src=&#34;https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=percentile&amp;custom_title=Stats&#34; width=&#34;65%&#34;/&gt;
-&lt;/a&gt;
+&lt;/a&gt;&#34;
 
 ## My stack
 
