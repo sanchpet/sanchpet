@@ -1,4 +1,4 @@
-{{`"<h1 align="center">Aleksandr Petrov - @sanchpet</h1>
+<h1 align="center">Aleksandr Petrov - @sanchpet</h1>
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViNXNseGdka2ZhMTJxbDI3ZXd3a2xoaDZhbjgxOGdpejZpbnU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="33%" alt="work"> 
 
@@ -32,7 +32,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
   <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
 <a href="">
   <img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
-</a>"`}}
+</a>
 
 ## My stack
 
