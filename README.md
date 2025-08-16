@@ -124,4 +124,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 - [Ishuachka](https://github.com/Ishuachka)
 - [TheMelbine](https://github.com/TheMelbine)
 
+## Contribution graph
+<img alt="github-snake" src="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake.svg" />
+
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
