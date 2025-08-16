@@ -1,24 +1,24 @@
-&#34;&lt;h1 align=&#34;center&#34;&gt;Aleksandr Petrov - @sanchpet&lt;/h1&gt;
+<h1 align="center">Aleksandr Petrov - @sanchpet</h1>
 
-&lt;img align=&#34;right&#34; src=&#34;https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViNXNseGdka2ZhMTJxbDI3ZXd3a2xoaDZhbjgxOGdpejZpbnU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif&#34; width=&#34;33%&#34; alt=&#34;work&#34;&gt; 
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViNXNseGdka2ZhMTJxbDI3ZXd3a2xoaDZhbjgxOGdpejZpbnU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="33%" alt="work"> 
 
-&lt;h4 align=&#34;center&#34;&gt;👨‍💻 DevOps Engineer | ✍️ Writer&lt;/h4&gt;
+<h4 align="center">👨‍💻 DevOps Engineer | ✍️ Writer</h4>
 
-&lt;p align=&#34;center&#34;&gt;
-    &lt;a align=&#34;center&#34; href=&#34;https://github.com/ellerbrock/open-source-badges/&#34;&gt;
-        &lt;img align=&#34;center&#34; alt=&#34;Open Source Love&#34; src=&#34;https://badges.frapsoft.com/os/v1/open-source.svg?v=103&#34;width=&#34;12%&#34;&gt;&lt;/a&gt;
-    &lt;a align=&#34;center&#34; href=&#34;https://t.me/sanchpet&#34;&gt;
-        &lt;img align=&#34;center&#34; alt=&#34;Telegram&#34; src=&#34;https://img.shields.io/badge/telegram-1a1b27?&amp;logo=telegram&amp;logoColor=white&#34; width=&#34;10%&#34;&gt;&lt;/a&gt;
-    &lt;a align=&#34;center&#34; href=&#34;https://www.linkedin.com/in/sanchpet/&#34;&gt;
-        &lt;img align=&#34;center&#34; alt=&#34;LinkedIn&#34; src=&#34;https://img.shields.io/badge/LinkedIn-1a1b27?&amp;logo=inspire&amp;logoColor=white&#34; width=&#34;10%&#34;/&gt;&lt;/a&gt;
-    &lt;a align=&#34;center&#34; href=&#34;https://www.linkedin.com/in/sanchpet/&#34;&gt;
-        &lt;img align=&#34;center&#34; alt=&#34;My Website&#34; src=&#34;https://img.shields.io/badge/Website-1a1b27?&amp;logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDY0IDY0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlPSIjZmZmZmZmIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMzkuOTMsNTUuNzJBMjQuODYsMjQuODYsMCwxLDEsNTYuODYsMzIuMTVhMzcuMjQsMzcuMjQsMCwwLDEtLjczLDYiLz48cGF0aCBkPSJNMzcuODYsNTEuMUE0Nyw0NywwLDAsMSwzMiw1Ni43Ii8&#43;PHBhdGggZD0iTTMyLDdBMzQuMTQsMzQuMTQsMCwwLDEsNDMuNTcsMzBhMzQuMDcsMzQuMDcsMCwwLDEsLjA5LDQuODUiLz48cGF0aCBkPSJNMzIsN0EzNC4wOSwzNC4wOSwwLDAsMCwyMC4zMSwzMi40NmMwLDE2LjIsNy4yOCwyMSwxMS42NiwyNC4yNCIvPjxsaW5lIHgxPSIxMC4zNyIgeTE9IjE5LjkiIHgyPSI1My43NSIgeTI9IjE5LjkiLz48bGluZSB4MT0iMzIiIHkxPSI2Ljk5IiB4Mj0iMzIiIHkyPSI1Ni43Ii8&#43;PGxpbmUgeDE9IjExLjA1IiB5MT0iNDUuNDgiIHgyPSIzNy4wNCIgeTI9IjQ1LjQ4Ii8&#43;PGxpbmUgeDE9IjcuMTQiIHkxPSIzMi40NiIgeDI9IjU2Ljg2IiB5Mj0iMzEuODUiLz48cGF0aCBkPSJNNTMuNTcsNTcsNTgsNTIuNTZsLTgtOCw0LjU1LTIuOTFhLjM4LjM4LDAsMCwwLS4xMi0uN0wzOS4xNCwzNy4zN2EuMzkuMzksMCwwLDAtLjQ2LjQ2TDQyLDUzLjQxYS4zOS4zOSwwLDAsMCwuNzEuMTNMNDUuNTcsNDlaIi8&#43;PC9zdmc&#43;&amp;logoColor=white&#34; width=&#34;10%&#34; /&gt;&lt;/a&gt;
-    &lt;a align=&#34;center&#34;&#34;&gt;
-        &lt;img align=&#34;center&#34; alt=&#34;Profile views&#34; src=&#34;https://komarev.com/ghpvc/?username=sanchpet&amp;style=plastic&amp;color=1a1b27&#34; width=&#34;12%&#34;&gt;&lt;/a&gt;
-    &lt;a align=&#34;center&#34;&#34;&gt;
-        &lt;img align=&#34;center&#34; alt=&#34;GitHub stars&#34; src=&#34;https://img.shields.io/github/stars/sanchpet?style=plastic&amp;color=1a1b27&#34; width=&#34;7%&#34;&gt;
-    &lt;/a&gt;                            
-&lt;/p&gt;
+<p align="center">
+    <a align="center" href="https://github.com/ellerbrock/open-source-badges/">
+        <img align="center" alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" width="12%"></a>
+    <a align="center" href="https://t.me/sanchpet">
+        <img align="center" alt="Telegram" src="https://img.shields.io/badge/telegram-1a1b27?&logo=telegram&logoColor=white" width="10%"></a>
+    <a align="center" href="https://www.linkedin.com/in/sanchpet/">
+        <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1a1b27?&logo=inspire&logoColor=white" width="10%"/></a>
+    <a align="center" href="https://www.linkedin.com/in/sanchpet/">
+        <img align="center" alt="My Website" src="https://img.shields.io/badge/Website-1a1b27?&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDY0IDY0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlPSIjZmZmZmZmIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMzkuOTMsNTUuNzJBMjQuODYsMjQuODYsMCwxLDEsNTYuODYsMzIuMTVhMzcuMjQsMzcuMjQsMCwwLDEtLjczLDYiLz48cGF0aCBkPSJNMzcuODYsNTEuMUE0Nyw0NywwLDAsMSwzMiw1Ni43Ii8+PHBhdGggZD0iTTMyLDdBMzQuMTQsMzQuMTQsMCwwLDEsNDMuNTcsMzBhMzQuMDcsMzQuMDcsMCwwLDEsLjA5LDQuODUiLz48cGF0aCBkPSJNMzIsN0EzNC4wOSwzNC4wOSwwLDAsMCwyMC4zMSwzMi40NmMwLDE2LjIsNy4yOCwyMSwxMS42NiwyNC4yNCIvPjxsaW5lIHgxPSIxMC4zNyIgeTE9IjE5LjkiIHgyPSI1My43NSIgeTI9IjE5LjkiLz48bGluZSB4MT0iMzIiIHkxPSI2Ljk5IiB4Mj0iMzIiIHkyPSI1Ni43Ii8+PGxpbmUgeDE9IjExLjA1IiB5MT0iNDUuNDgiIHgyPSIzNy4wNCIgeTI9IjQ1LjQ4Ii8+PGxpbmUgeDE9IjcuMTQiIHkxPSIzMi40NiIgeDI9IjU2Ljg2IiB5Mj0iMzEuODUiLz48cGF0aCBkPSJNNTMuNTcsNTcsNTgsNTIuNTZsLTgtOCw0LjU1LTIuOTFhLjM4LjM4LDAsMCwwLS4xMi0uN0wzOS4xNCwzNy4zN2EuMzkuMzksMCwwLDAtLjQ2LjQ2TDQyLDUzLjQxYS4zOS4zOSwwLDAsMCwuNzEuMTNMNDUuNTcsNDlaIi8+PC9zdmc+&logoColor=white" width="10%" /></a>
+    <a align="center">
+        <img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=sanchpet&style=plastic&color=1a1b27" width="12%"></a>
+    <a align="center">
+        <img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/sanchpet?style=plastic&color=1a1b27" width="7%">
+    </a>                            
+</p>
 
 Hi, welcome to my GitHub profile! 👋
 
@@ -28,11 +28,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ## GitHub statistics
 
-&lt;a href=&#34;&#34;&gt;
-  &lt;img align=&#34;center&#34; src=&#34;https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=12&#34; width=&#34;34%&#34;/&gt;&lt;/a&gt;
-&lt;a href=&#34;&#34;&gt;
-  &lt;img align=&#34;center&#34; src=&#34;https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=percentile&amp;custom_title=Stats&#34; width=&#34;65%&#34;/&gt;
-&lt;/a&gt;&#34;
+<a href="">
+  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
+<a href="">
+  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
+</a>
 
 ## My stack
 
