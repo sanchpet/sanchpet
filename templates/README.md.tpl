@@ -112,6 +112,12 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 {{- end}}
 
 ## Contribution graph
-<img alt="github-snake" src="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake.svg" />
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sanchpet/sanchpet/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
