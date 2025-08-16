@@ -83,14 +83,14 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website (v1.0) (today)
+- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (today)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 day ago)
 - [sanchpet/my_docker_stack](https://github.com/sanchpet/my_docker_stack) - My Docker Compose stack with nginx server and web services (1 week ago)
 - [sanchpet/sanchpet-infra](https://github.com/sanchpet/sanchpet-infra) -  (2 weeks ago)
 
 ### 🌱 My latest projects
 
-- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website (v1.0)
+- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website 
 - [sanchpet/sanchpet-infra](https://github.com/sanchpet/sanchpet-infra) - 
 - [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform
 - [sanchpet/nginx-lua-docker](https://github.com/sanchpet/nginx-lua-docker) - Training purpose
