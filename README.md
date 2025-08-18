@@ -83,8 +83,8 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (today)
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (2 days ago)
+- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (1 day ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (3 days ago)
 - [sanchpet/my_docker_stack](https://github.com/sanchpet/my_docker_stack) - My Docker Compose stack with nginx server and web services (1 week ago)
 - [sanchpet/sanchpet-infra](https://github.com/sanchpet/sanchpet-infra) -  (3 weeks ago)
 
@@ -98,7 +98,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
-- [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 days ago)
+- [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 days ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 week ago)
 - [Sangita add profile](https://github.com/sanchpet/hawtdawg-all-ears/pull/2) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 week ago)
 - [Addison add faqs](https://github.com/sanchpet/hawtdawg-all-ears/pull/1) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 week ago)
@@ -110,11 +110,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run? (today)
-- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (1 day ago)
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (2 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
-- [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it&#39;s helping thousands of learners, practitioners, and professionals every day in their DevOps journey. (2 days ago)
+- [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run? (1 day ago)
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (2 days ago)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service. (3 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
+- [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it&#39;s helping thousands of learners, practitioners, and professionals every day in their DevOps journey. (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
