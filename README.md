@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It&#39;s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. (today)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀 (1 day ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane (1 day ago)
 - [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run? (2 days ago)
-- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
