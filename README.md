@@ -91,11 +91,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🌱 My latest projects
 
+- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops)
 - [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website 
 - [sanchpet/sanchpet-infra](https://github.com/sanchpet/sanchpet-infra) - 
 - [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform
 - [sanchpet/nginx-lua-docker](https://github.com/sanchpet/nginx-lua-docker) - Training purpose
-- [sanchpet/dbaas-api](https://github.com/sanchpet/dbaas-api) - Demo repository
 
 ### 🔨 My recent Pull Requests
 
