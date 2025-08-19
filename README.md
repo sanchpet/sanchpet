@@ -83,11 +83,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (today)
 - [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform (1 day ago)
 - [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (2 days ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (4 days ago)
 - [sanchpet/my_docker_stack](https://github.com/sanchpet/my_docker_stack) - My Docker Compose stack with nginx server and web services (1 week ago)
-- [sanchpet/sanchpet-infra](https://github.com/sanchpet/sanchpet-infra) -  (3 weeks ago)
 
 ### 🌱 My latest projects
 
