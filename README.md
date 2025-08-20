@@ -83,10 +83,10 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (today)
-- [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform (1 day ago)
-- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (2 days ago)
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (4 days ago)
+- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (1 day ago)
+- [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform (2 days ago)
+- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (3 days ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (5 days ago)
 - [sanchpet/my_docker_stack](https://github.com/sanchpet/my_docker_stack) - My Docker Compose stack with nginx server and web services (1 week ago)
 
 ### 🌱 My latest projects
@@ -99,11 +99,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
-- [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (4 days ago)
+- [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (5 days ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 week ago)
 - [Sangita add profile](https://github.com/sanchpet/hawtdawg-all-ears/pull/2) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 week ago)
 - [Addison add faqs](https://github.com/sanchpet/hawtdawg-all-ears/pull/1) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 week ago)
-- [new branch](https://github.com/sanchpet/working-with-remotes/pull/1) on [sanchpet/working-with-remotes](https://github.com/sanchpet/working-with-remotes) (1 week ago)
+- [new branch](https://github.com/sanchpet/working-with-remotes/pull/1) on [sanchpet/working-with-remotes](https://github.com/sanchpet/working-with-remotes) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It&#39;s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. (today)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀 (1 day ago)
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane (1 day ago)
-- [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run? (2 days ago)
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It&#39;s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. (1 day ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀 (2 days ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane (2 days ago)
+- [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run? (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
