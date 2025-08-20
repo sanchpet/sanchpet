@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [timeweb-cloud/twc](https://github.com/timeweb-cloud/twc) - Timeweb Cloud Command Line Interface (today)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (today)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (today)
 - [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (today)
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (today)
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (today)
 
 ### 👯 Check out some of my recent followers
 
