@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP (today)
 - [timeweb-cloud/twc](https://github.com/timeweb-cloud/twc) - Timeweb Cloud Command Line Interface (1 day ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (1 day ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 day ago)
 - [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (1 day ago)
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
