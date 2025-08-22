@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (today)
 - [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP (1 day ago)
 - [timeweb-cloud/twc](https://github.com/timeweb-cloud/twc) - Timeweb Cloud Command Line Interface (2 days ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (2 days ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 days ago)
-- [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
