@@ -83,7 +83,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (today)
+- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (1 day ago)
 - [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform (1 week ago)
 - [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (1 week ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 week ago)
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (3 days ago)
-- [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP (4 days ago)
-- [timeweb-cloud/twc](https://github.com/timeweb-cloud/twc) - Timeweb Cloud Command Line Interface (5 days ago)
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (5 days ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (5 days ago)
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (4 days ago)
+- [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP (5 days ago)
+- [timeweb-cloud/twc](https://github.com/timeweb-cloud/twc) - Timeweb Cloud Command Line Interface (6 days ago)
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (6 days ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
