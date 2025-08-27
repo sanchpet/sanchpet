@@ -83,7 +83,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (1 day ago)
+- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (2 days ago)
 - [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform (1 week ago)
 - [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (1 week ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 week ago)
@@ -103,7 +103,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 weeks ago)
 - [Sangita add profile](https://github.com/sanchpet/hawtdawg-all-ears/pull/2) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (2 weeks ago)
 - [Addison add faqs](https://github.com/sanchpet/hawtdawg-all-ears/pull/1) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (2 weeks ago)
-- [new branch](https://github.com/sanchpet/working-with-remotes/pull/1) on [sanchpet/working-with-remotes](https://github.com/sanchpet/working-with-remotes) (2 weeks ago)
+- [new branch](https://github.com/sanchpet/working-with-remotes/pull/1) on [sanchpet/working-with-remotes](https://github.com/sanchpet/working-with-remotes) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (today)
-- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (4 days ago)
-- [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP (5 days ago)
-- [timeweb-cloud/twc](https://github.com/timeweb-cloud/twc) - Timeweb Cloud Command Line Interface (6 days ago)
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (6 days ago)
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (1 day ago)
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (5 days ago)
+- [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP (6 days ago)
+- [timeweb-cloud/twc](https://github.com/timeweb-cloud/twc) - Timeweb Cloud Command Line Interface (1 week ago)
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
