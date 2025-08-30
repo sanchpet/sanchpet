@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [mihaild/telegram-lesswrong-translation](https://github.com/mihaild/telegram-lesswrong-translation) -  (today)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (1 day ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (1 day ago)
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang (1 day ago)
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto (2 days ago)
-- [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
