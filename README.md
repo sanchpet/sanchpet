@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [Civil/github2telegram](https://github.com/Civil/github2telegram) - Bot that can send notification of new releases to Telegram (today)
-- [mihaild/telegram-lesswrong-translation](https://github.com/mihaild/telegram-lesswrong-translation) -  (2 days ago)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (3 days ago)
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (3 days ago)
-- [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang (3 days ago)
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (today)
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (today)
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale. (today)
+- [yandex-cloud-examples/yc-terraformer](https://github.com/yandex-cloud-examples/yc-terraformer) - Инструмент для создания Terraform манифестов (HCL) для существующих ресурсов в Yandex Cloud. (today)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (today)
 
 ### 👯 Check out some of my recent followers
 
