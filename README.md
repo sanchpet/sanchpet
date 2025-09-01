@@ -99,11 +99,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
+- [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (today)
 - [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 weeks ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 weeks ago)
 - [Sangita add profile](https://github.com/sanchpet/hawtdawg-all-ears/pull/2) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (3 weeks ago)
 - [Addison add faqs](https://github.com/sanchpet/hawtdawg-all-ears/pull/1) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (3 weeks ago)
-- [new branch](https://github.com/sanchpet/working-with-remotes/pull/1) on [sanchpet/working-with-remotes](https://github.com/sanchpet/working-with-remotes) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
