@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [Civil/github2telegram](https://github.com/Civil/github2telegram) - Bot that can send notification of new releases to Telegram (today)
 - [mihaild/telegram-lesswrong-translation](https://github.com/mihaild/telegram-lesswrong-translation) -  (2 days ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (3 days ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (3 days ago)
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang (3 days ago)
-- [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
