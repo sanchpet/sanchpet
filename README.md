@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (today)
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not. (1 day ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 day ago)
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (1 day ago)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale. (1 day ago)
-- [yandex-cloud-examples/yc-terraformer](https://github.com/yandex-cloud-examples/yc-terraformer) - Инструмент для создания Terraform манифестов (HCL) для существующих ресурсов в Yandex Cloud. (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
