@@ -119,11 +119,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👯 Check out some of my recent followers
 
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [akhrtnv](https://github.com/akhrtnv)
 - [XiaomingX](https://github.com/XiaomingX)
 - [sarahofai](https://github.com/sarahofai)
 - [igare4eg](https://github.com/igare4eg)
+- [cenax-0](https://github.com/cenax-0)
 
 ## Contribution graph
 <div style="text-align: center;">
