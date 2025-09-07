@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker) - Friend Tracker: An Obsidian plugin to effortlessly manage your personal connections. Keep track of important dates like birthdays, anniversaries, and milestones, while logging meaningful interactions with friends, family, and colleagues—all within your favorite note-taking app. (today)
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian (3 days ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (5 days ago)
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not. (6 days ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (6 days ago)
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
