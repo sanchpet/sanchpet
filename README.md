@@ -83,11 +83,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (5 days ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (6 days ago)
 - [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself. (1 week ago)
 - [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (1 week ago)
 - [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform (2 weeks ago)
-- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (2 weeks ago)
+- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (3 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -99,7 +99,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
-- [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (5 days ago)
+- [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (6 days ago)
 - [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 weeks ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [Sangita add profile](https://github.com/sanchpet/hawtdawg-all-ears/pull/2) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 month ago)
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian (2 days ago)
-- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (4 days ago)
-- [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not. (5 days ago)
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (5 days ago)
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (5 days ago)
+- [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian (3 days ago)
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (5 days ago)
+- [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not. (6 days ago)
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (6 days ago)
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
