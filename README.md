@@ -83,19 +83,19 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (today)
+- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (today)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 week ago)
 - [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself. (2 weeks ago)
 - [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (2 weeks ago)
-- [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform (3 weeks ago)
-- [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (3 weeks ago)
 
 ### 🌱 My latest projects
 
+- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this.
 - [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself.
 - [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops)
 - [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website 
-- [sanchpet/sanchpet-infra](https://github.com/sanchpet/sanchpet-infra) - 
-- [sanchpet/terraform-devopstrain-playground](https://github.com/sanchpet/terraform-devopstrain-playground) - Some experiments with Terraform
 
 ### 🔨 My recent Pull Requests
 
