@@ -83,8 +83,8 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (2 days ago)
-- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 days ago)
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (3 days ago)
+- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (3 days ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 week ago)
 - [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself. (2 weeks ago)
 - [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (2 weeks ago)
@@ -100,7 +100,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 ### 🔨 My recent Pull Requests
 
 - [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 week ago)
-- [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (4 weeks ago)
+- [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [Sangita add profile](https://github.com/sanchpet/hawtdawg-all-ears/pull/2) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 month ago)
 - [Addison add faqs](https://github.com/sanchpet/hawtdawg-all-ears/pull/1) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 month ago)
@@ -111,8 +111,8 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [brainfair/awesome-flux-crds](https://github.com/brainfair/awesome-flux-crds) - This repository contains Custom Resource Definitions (CRDs) from popular Kubernetes operators installed via FluxCD v2. (2 days ago)
-- [buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker) - Friend Tracker: An Obsidian plugin to effortlessly manage your personal connections. Keep track of important dates like birthdays, anniversaries, and milestones, while logging meaningful interactions with friends, family, and colleagues—all within your favorite note-taking app. (6 days ago)
+- [brainfair/awesome-flux-crds](https://github.com/brainfair/awesome-flux-crds) - This repository contains Custom Resource Definitions (CRDs) from popular Kubernetes operators installed via FluxCD v2. (3 days ago)
+- [buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker) - Friend Tracker: An Obsidian plugin to effortlessly manage your personal connections. Keep track of important dates like birthdays, anniversaries, and milestones, while logging meaningful interactions with friends, family, and colleagues—all within your favorite note-taking app. (1 week ago)
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian (1 week ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 week ago)
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not. (1 week ago)
