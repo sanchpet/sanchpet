@@ -111,10 +111,10 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [Swfuse/devops-interview](https://github.com/Swfuse/devops-interview) - Сборник вопросов и ответов на собеседования на должность системного администратора, девопса (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [Swfuse/devops-interview](https://github.com/Swfuse/devops-interview) - Сборник вопросов и ответов на собеседования на должность системного администратора, девопса (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [brainfair/awesome-flux-crds](https://github.com/brainfair/awesome-flux-crds) - This repository contains Custom Resource Definitions (CRDs) from popular Kubernetes operators installed via FluxCD v2. (1 week ago)
-- [buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker) - Friend Tracker: An Obsidian plugin to effortlessly manage your personal connections. Keep track of important dates like birthdays, anniversaries, and milestones, while logging meaningful interactions with friends, family, and colleagues—all within your favorite note-taking app. (1 week ago)
+- [buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker) - Friend Tracker: An Obsidian plugin to effortlessly manage your personal connections. Keep track of important dates like birthdays, anniversaries, and milestones, while logging meaningful interactions with friends, family, and colleagues—all within your favorite note-taking app. (2 weeks ago)
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
