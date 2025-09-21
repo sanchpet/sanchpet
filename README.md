@@ -83,11 +83,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, but naming is just a common joke in our circle. (today)
 - [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (1 week ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 week ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (2 weeks ago)
 - [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself. (3 weeks ago)
-- [sanchpet/terraform-yandex-practicum-playground](https://github.com/sanchpet/terraform-yandex-practicum-playground) - Repo only serves educational purposes and is used as playground for Yandex Cloud course (https://yandex.cloud/ru/training/for-devops) (3 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API (today)
 - [Swfuse/devops-interview](https://github.com/Swfuse/devops-interview) - Сборник вопросов и ответов на собеседования на должность системного администратора, девопса (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [brainfair/awesome-flux-crds](https://github.com/brainfair/awesome-flux-crds) - This repository contains Custom Resource Definitions (CRDs) from popular Kubernetes operators installed via FluxCD v2. (1 week ago)
 - [buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker) - Friend Tracker: An Obsidian plugin to effortlessly manage your personal connections. Keep track of important dates like birthdays, anniversaries, and milestones, while logging meaningful interactions with friends, family, and colleagues—all within your favorite note-taking app. (2 weeks ago)
-- [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
