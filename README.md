@@ -102,8 +102,8 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 - [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 weeks ago)
 - [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
-- [Sangita add profile](https://github.com/sanchpet/hawtdawg-all-ears/pull/2) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 month ago)
-- [Addison add faqs](https://github.com/sanchpet/hawtdawg-all-ears/pull/1) on [sanchpet/hawtdawg-all-ears](https://github.com/sanchpet/hawtdawg-all-ears) (1 month ago)
+- [Update README.md](https://github.com/ch4t5ky/ch4t5ky/pull/1) on [ch4t5ky/ch4t5ky](https://github.com/ch4t5ky/ch4t5ky) (1 year ago)
+- [Update Dockerfiles for golang 1.22](https://github.com/PacktPublishing/A-Developer-s-Essential-Guide-to-Docker-Compose/pull/10) on [PacktPublishing/A-Developer-s-Essential-Guide-to-Docker-Compose](https://github.com/PacktPublishing/A-Developer-s-Essential-Guide-to-Docker-Compose) (1 year ago)
 
 ### 📓 Gists I wrote
 
