@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [config-syncer/config-syncer](https://github.com/config-syncer/config-syncer) - 🛡️ Kubernetes Config Syncer (previously kubed) (today)
 - [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API (2 days ago)
 - [Swfuse/devops-interview](https://github.com/Swfuse/devops-interview) - Сборник вопросов и ответов на собеседования на должность системного администратора, девопса (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [brainfair/awesome-flux-crds](https://github.com/brainfair/awesome-flux-crds) - This repository contains Custom Resource Definitions (CRDs) from popular Kubernetes operators installed via FluxCD v2. (1 week ago)
-- [buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker) - Friend Tracker: An Obsidian plugin to effortlessly manage your personal connections. Keep track of important dates like birthdays, anniversaries, and milestones, while logging meaningful interactions with friends, family, and colleagues—all within your favorite note-taking app. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
