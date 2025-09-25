@@ -83,11 +83,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 days ago)
-- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (2 days ago)
-- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (1 week ago)
+- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (3 days ago)
+- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (3 days ago)
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (2 weeks ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (3 weeks ago)
-- [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself. (3 weeks ago)
+- [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself. (4 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [MathiasReker/Java-CI-CD](https://github.com/MathiasReker/Java-CI-CD) - This is an example of building a CI/CD pipeline using GitHub actions. :white_check_mark::octocat::whale2: (today)
-- [config-syncer/config-syncer](https://github.com/config-syncer/config-syncer) - 🛡️ Kubernetes Config Syncer (previously kubed) (1 day ago)
-- [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API (3 days ago)
-- [Swfuse/devops-interview](https://github.com/Swfuse/devops-interview) - Сборник вопросов и ответов на собеседования на должность системного администратора, девопса (5 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [MathiasReker/Java-CI-CD](https://github.com/MathiasReker/Java-CI-CD) - This is an example of building a CI/CD pipeline using GitHub actions. :white_check_mark::octocat::whale2: (1 day ago)
+- [config-syncer/config-syncer](https://github.com/config-syncer/config-syncer) - 🛡️ Kubernetes Config Syncer (previously kubed) (2 days ago)
+- [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API (4 days ago)
+- [Swfuse/devops-interview](https://github.com/Swfuse/devops-interview) - Сборник вопросов и ответов на собеседования на должность системного администратора, девопса (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
