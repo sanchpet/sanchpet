@@ -120,7 +120,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 ### 👯 Check out some of my recent followers
 
 - [gberdyshev](https://github.com/gberdyshev)
-- [akhrtnv](https://github.com/akhrtnv)
+- [akemoon](https://github.com/akemoon)
 - [XiaomingX](https://github.com/XiaomingX)
 - [sarahofai](https://github.com/sarahofai)
 - [igare4eg](https://github.com/igare4eg)
