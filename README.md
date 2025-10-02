@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (today)
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. (1 day ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (2 days ago)
 - [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (2 days ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (2 days ago)
-- [MathiasReker/Java-CI-CD](https://github.com/MathiasReker/Java-CI-CD) - This is an example of building a CI/CD pipeline using GitHub actions. :white_check_mark::octocat::whale2: (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
