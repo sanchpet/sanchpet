@@ -83,9 +83,9 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (3 days ago)
+- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (4 days ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 week ago)
-- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (2 weeks ago)
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (3 weeks ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 month ago)
 - [sanchpet/terraform-ci-cd-example-yandex-cloud](https://github.com/sanchpet/terraform-ci-cd-example-yandex-cloud) - Example on how to set up CI/CD for Terraform code. Mostly as docs for myself. (1 month ago)
 
@@ -99,7 +99,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
-- [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (3 days ago)
+- [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (4 days ago)
 - [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
@@ -111,10 +111,10 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. (today)
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 day ago)
-- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (1 day ago)
-- [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (1 day ago)
+- [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. (1 day ago)
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (2 days ago)
+- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (2 days ago)
+- [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (2 days ago)
 - [MathiasReker/Java-CI-CD](https://github.com/MathiasReker/Java-CI-CD) - This is an example of building a CI/CD pipeline using GitHub actions. :white_check_mark::octocat::whale2: (1 week ago)
 
 ### 👯 Check out some of my recent followers
