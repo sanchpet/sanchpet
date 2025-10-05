@@ -83,7 +83,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (1 week ago)
+- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (today)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 week ago)
 - [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (3 weeks ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 month ago)
@@ -99,11 +99,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
+- [feat: new trigger words](https://github.com/sanchpet/churkabot-tg/pull/2) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (today)
 - [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (1 week ago)
 - [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
-- [Update README.md](https://github.com/ch4t5ky/ch4t5ky/pull/1) on [ch4t5ky/ch4t5ky](https://github.com/ch4t5ky/ch4t5ky) (1 year ago)
 
 ### 📓 Gists I wrote
 
