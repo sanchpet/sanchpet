@@ -99,11 +99,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
+- [Add new case 06 for Observability and Karma](https://github.com/inview-club/devops-cases/pull/7) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (today)
 - [feat: new trigger words](https://github.com/sanchpet/churkabot-tg/pull/2) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (1 day ago)
 - [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (1 week ago)
 - [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
-- [1 move old cases into repo](https://github.com/inview-club/devops-cases/pull/2) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 
 ### 📓 Gists I wrote
 
