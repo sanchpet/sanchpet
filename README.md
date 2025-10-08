@@ -119,11 +119,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👯 Check out some of my recent followers
 
-- [kairos1205](https://github.com/kairos1205)
 - [gberdyshev](https://github.com/gberdyshev)
 - [akemoon](https://github.com/akemoon)
 - [XiaomingX](https://github.com/XiaomingX)
 - [sarahofai](https://github.com/sarahofai)
+- [igare4eg](https://github.com/igare4eg)
 
 ## Contribution graph
 <div style="text-align: center;">
