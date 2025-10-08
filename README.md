@@ -83,11 +83,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (today)
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 day ago)
-- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 day ago)
-- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (2 days ago)
-- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (2 days ago)
+- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 day ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (2 days ago)
+- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 days ago)
+- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (3 days ago)
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -99,8 +99,8 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
-- [Add new case 06 for Observability and Karma](https://github.com/inview-club/devops-cases/pull/7) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 day ago)
-- [feat: new trigger words](https://github.com/sanchpet/churkabot-tg/pull/2) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (2 days ago)
+- [Add new case 06 for Observability and Karma](https://github.com/inview-club/devops-cases/pull/7) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 days ago)
+- [feat: new trigger words](https://github.com/sanchpet/churkabot-tg/pull/2) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (3 days ago)
 - [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (1 week ago)
 - [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [Add diagrams to cases &amp; add current cases to main README](https://github.com/inview-club/devops-cases/pull/3) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (today)
-- [gradle/docker-gradle](https://github.com/gradle/docker-gradle) - Docker images with Gradle (1 day ago)
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (1 day ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (4 days ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (5 days ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 day ago)
+- [gradle/docker-gradle](https://github.com/gradle/docker-gradle) - Docker images with Gradle (2 days ago)
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (2 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (5 days ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
