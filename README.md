@@ -122,8 +122,8 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 - [BEPb](https://github.com/BEPb)
 - [gberdyshev](https://github.com/gberdyshev)
 - [akemoon](https://github.com/akemoon)
-- [XiaomingX](https://github.com/XiaomingX)
 - [sarahofai](https://github.com/sarahofai)
+- [igare4eg](https://github.com/igare4eg)
 
 ## Contribution graph
 <div style="text-align: center;">
