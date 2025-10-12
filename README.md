@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [terraform-yc-modules/terraform-yc-vpc](https://github.com/terraform-yc-modules/terraform-yc-vpc) -  (today)
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts (4 days ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (5 days ago)
 - [gradle/docker-gradle](https://github.com/gradle/docker-gradle) - Docker images with Gradle (6 days ago)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (6 days ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
