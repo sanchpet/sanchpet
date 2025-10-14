@@ -83,7 +83,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 day ago)
+- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (today)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 week ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (1 week ago)
 - [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (1 week ago)
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [robertdebock/terraform-provider-orbstack](https://github.com/robertdebock/terraform-provider-orbstack) - Manage OrbStack Linux machines and settings in Terraform using the `orb` CLI. (today)
 - [terraform-yc-modules/terraform-yc-vpc](https://github.com/terraform-yc-modules/terraform-yc-vpc) -  (2 days ago)
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts (6 days ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 week ago)
 - [gradle/docker-gradle](https://github.com/gradle/docker-gradle) - Docker images with Gradle (1 week ago)
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
