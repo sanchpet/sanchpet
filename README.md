@@ -120,10 +120,10 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 ### 👯 Check out some of my recent followers
 
 - [gberdyshev](https://github.com/gberdyshev)
-- [akemoon](https://github.com/akemoon)
 - [sarahofai](https://github.com/sarahofai)
 - [igare4eg](https://github.com/igare4eg)
 - [cenax-0](https://github.com/cenax-0)
+- [Analistarjx](https://github.com/Analistarjx)
 
 ## Contribution graph
 <div style="text-align: center;">
