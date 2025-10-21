@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
+- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code. (today)
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (2 days ago)
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. (2 days ago)
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter (2 days ago)
 - [robertdebock/terraform-provider-orbstack](https://github.com/robertdebock/terraform-provider-orbstack) - Manage OrbStack Linux machines and settings in Terraform using the `orb` CLI. (1 week ago)
-- [terraform-yc-modules/terraform-yc-vpc](https://github.com/terraform-yc-modules/terraform-yc-vpc) -  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
