@@ -83,7 +83,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 day ago)
+- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (2 days ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 weeks ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (2 weeks ago)
 - [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (2 weeks ago)
@@ -99,7 +99,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
-- [bugfix: replace outdated zone &#43; change subnet names](https://github.com/pauljamm/yc-terraform-modules/pull/1) on [pauljamm/yc-terraform-modules](https://github.com/pauljamm/yc-terraform-modules) (6 days ago)
+- [bugfix: replace outdated zone &#43; change subnet names](https://github.com/pauljamm/yc-terraform-modules/pull/1) on [pauljamm/yc-terraform-modules](https://github.com/pauljamm/yc-terraform-modules) (1 week ago)
 - [Add new case 06 for Observability and Karma](https://github.com/inview-club/devops-cases/pull/7) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 weeks ago)
 - [feat: new trigger words](https://github.com/sanchpet/churkabot-tg/pull/2) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (2 weeks ago)
 - [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (3 weeks ago)
@@ -111,10 +111,10 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (1 day ago)
-- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. (1 day ago)
-- [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter (1 day ago)
-- [robertdebock/terraform-provider-orbstack](https://github.com/robertdebock/terraform-provider-orbstack) - Manage OrbStack Linux machines and settings in Terraform using the `orb` CLI. (6 days ago)
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (2 days ago)
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. (2 days ago)
+- [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter (2 days ago)
+- [robertdebock/terraform-provider-orbstack](https://github.com/robertdebock/terraform-provider-orbstack) - Manage OrbStack Linux machines and settings in Terraform using the `orb` CLI. (1 week ago)
 - [terraform-yc-modules/terraform-yc-vpc](https://github.com/terraform-yc-modules/terraform-yc-vpc) -  (1 week ago)
 
 ### 👯 Check out some of my recent followers
