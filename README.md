@@ -83,7 +83,7 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (5 days ago)
+- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (6 days ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 weeks ago)
 - [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Repository with cases of club (2 weeks ago)
 - [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (2 weeks ago)
@@ -111,11 +111,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### ⭐ Recent Stars
 
-- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (today)
-- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (today)
-- [grpc/grpc](https://github.com/grpc/grpc) - C&#43;&#43; based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (today)
-- [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python (2 days ago)
-- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code. (3 days ago)
+- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (1 day ago)
+- [grpc/grpc](https://github.com/grpc/grpc) - C&#43;&#43; based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (1 day ago)
+- [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python (3 days ago)
+- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code. (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
