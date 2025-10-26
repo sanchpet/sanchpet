@@ -24,7 +24,9 @@ Hi, welcome to my GitHub profile! 👋
 
 Briefly, I can define myself as DevOps engineer and just a curious person.
 
-If you want to know more about me, you are more than welcome on my [Website](https://sanch.pet).
+If you want to know more about me, you are more than welcome on my [website](https://sanch.pet).
+
+Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the project that my ex-colleagues from ITMO and I are building to help novice engineers gain experience. 
 
 ## GitHub statistics
 
@@ -103,7 +105,6 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 - [bugfix: replace outdated zone &#43; change subnet names](https://github.com/pauljamm/yc-terraform-modules/pull/1) on [pauljamm/yc-terraform-modules](https://github.com/pauljamm/yc-terraform-modules) (1 week ago)
 - [Add new case 06 for Observability and Karma](https://github.com/inview-club/devops-cases/pull/7) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 weeks ago)
 - [feat: new trigger words](https://github.com/sanchpet/churkabot-tg/pull/2) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (3 weeks ago)
-- [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (4 weeks ago)
 
 ### 📓 Gists I wrote
 
