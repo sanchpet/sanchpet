@@ -99,11 +99,11 @@ If you want to know more about me, you are more than welcome on my [Website](htt
 
 ### 🔨 My recent Pull Requests
 
+- [case: add n8n-ollama (07) case](https://github.com/inview-club/devops-cases/pull/8) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (today)
 - [bugfix: replace outdated zone &#43; change subnet names](https://github.com/pauljamm/yc-terraform-modules/pull/1) on [pauljamm/yc-terraform-modules](https://github.com/pauljamm/yc-terraform-modules) (1 week ago)
 - [Add new case 06 for Observability and Karma](https://github.com/inview-club/devops-cases/pull/7) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 weeks ago)
 - [feat: new trigger words](https://github.com/sanchpet/churkabot-tg/pull/2) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (3 weeks ago)
 - [feat: message answering, more logs, admin selection](https://github.com/sanchpet/churkabot-tg/pull/1) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (4 weeks ago)
-- [docs: add links to new case &#43; small animation](https://github.com/inview-club/devops-cases/pull/5) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 
 ### 📓 Gists I wrote
 
