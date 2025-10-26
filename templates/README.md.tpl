@@ -24,7 +24,9 @@ Hi, welcome to my GitHub profile! 👋
 
 Briefly, I can define myself as DevOps engineer and just a curious person.
 
-If you want to know more about me, you are more than welcome on my [Website](https://sanch.pet).
+If you want to know more about me, you are more than welcome on my [website](https://sanch.pet).
+
+Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the project that my ex-colleagues from ITMO and I are building to help novice engineers gain experience. 
 
 ## GitHub statistics
 
