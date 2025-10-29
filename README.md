@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (today)
 - [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 day ago)
 - [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 day ago)
 - [case: add n8n-ollama (07) case](https://github.com/inview-club/devops-cases/pull/8) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 days ago)
 - [bugfix: replace outdated zone &#43; change subnet names](https://github.com/pauljamm/yc-terraform-modules/pull/1) on [pauljamm/yc-terraform-modules](https://github.com/pauljamm/yc-terraform-modules) (2 weeks ago)
-- [Add new case 06 for Observability and Karma](https://github.com/inview-club/devops-cases/pull/7) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
