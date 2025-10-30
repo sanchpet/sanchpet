@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (today)
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. (2 days ago)
 - [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (6 days ago)
 - [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (6 days ago)
 - [grpc/grpc](https://github.com/grpc/grpc) - C&#43;&#43; based gRPC (C&#43;&#43;, Python, Ruby, Objective-C, PHP, C#) (6 days ago)
-- [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
