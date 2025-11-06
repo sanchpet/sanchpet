@@ -113,8 +113,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins) - Repository for out-of-tree scheduler plugins based on scheduler framework. (4 days ago)
-- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (6 days ago)
+- [kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins) - Repository for out-of-tree scheduler plugins based on scheduler framework. (5 days ago)
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (1 week ago)
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (1 week ago)
