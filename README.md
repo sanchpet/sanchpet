@@ -86,7 +86,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (2 weeks ago)
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (4 weeks ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (1 month ago)
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 month ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 month ago)
 - [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (1 month ago)
@@ -102,8 +102,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 🔨 My recent Pull Requests
 
 - [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (4 weeks ago)
-- [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (4 weeks ago)
-- [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (4 weeks ago)
+- [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
+- [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [case: add n8n-ollama (07) case](https://github.com/inview-club/devops-cases/pull/8) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [bugfix: replace outdated zone &#43; change subnet names](https://github.com/pauljamm/yc-terraform-modules/pull/1) on [pauljamm/yc-terraform-modules](https://github.com/pauljamm/yc-terraform-modules) (1 month ago)
 
@@ -115,7 +115,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights. (1 week ago)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3 (1 week ago)
-- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (1 week ago)
+- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (2 weeks ago)
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. (2 weeks ago)
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content (2 weeks ago)
 
