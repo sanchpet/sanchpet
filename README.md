@@ -101,7 +101,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (4 weeks ago)
+- [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (1 month ago)
 - [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
 - [case: add n8n-ollama (07) case](https://github.com/inview-club/devops-cases/pull/8) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
@@ -109,7 +109,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 📓 Gists I wrote
 
-- [Telegram message template for Alertmanager &amp; how to add it to your receiver in alertmanager.yml](https://gist.github.com/7641275a42243d3667b3146c5402be40) (1 year ago)
+- [Telegram message template for Alertmanager &amp; how to add it to your receiver in alertmanager.yml](https://gist.github.com/7641275a42243d3667b3146c5402be40) (2 years ago)
 
 ### ⭐ Recent Stars
 
