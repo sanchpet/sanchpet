@@ -86,7 +86,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/sanch.pet](https://github.com/sanchpet/sanch.pet) - Repo for publishing my personal website  (1 month ago)
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (1 month ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (2 months ago)
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (2 months ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 months ago)
 - [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle. (2 months ago)
@@ -102,8 +102,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 🔨 My recent Pull Requests
 
 - [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (1 month ago)
-- [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
-- [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
+- [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
+- [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 - [case: add n8n-ollama (07) case](https://github.com/inview-club/devops-cases/pull/8) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 - [bugfix: replace outdated zone &#43; change subnet names](https://github.com/pauljamm/yc-terraform-modules/pull/1) on [pauljamm/yc-terraform-modules](https://github.com/pauljamm/yc-terraform-modules) (2 months ago)
 
