@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (today)
 - [feat: add star history to readme](https://github.com/inview-club/devops-cases/pull/47) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (today)
 - [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (2 months ago)
 - [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 - [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
-- [case: add n8n-ollama (07) case](https://github.com/inview-club/devops-cases/pull/8) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 
 ### 📓 Gists I wrote
 
