@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (today)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The &#34;Geek&#39;s Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc. (2 days ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (2 days ago)
 - [aarnphm/aarnphm.github.io](https://github.com/aarnphm/aarnphm.github.io) -  (1 week ago)
 - [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. (2 weeks ago)
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
