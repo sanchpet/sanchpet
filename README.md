@@ -85,11 +85,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (1 day ago)
-- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (1 day ago)
-- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 day ago)
-- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (2 days ago)
-- [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (4 days ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (2 days ago)
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (2 days ago)
+- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 days ago)
+- [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (3 days ago)
+- [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -101,8 +101,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 day ago)
-- [feat: add star history to readme](https://github.com/inview-club/devops-cases/pull/47) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 day ago)
+- [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 days ago)
+- [feat: add star history to readme](https://github.com/inview-club/devops-cases/pull/47) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 days ago)
 - [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (2 months ago)
 - [docs: add instructions on how to send a solution](https://github.com/inview-club/devops-cases/pull/14) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 - [chore: add folders for solutions](https://github.com/inview-club/devops-cases/pull/13) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The &#34;Geek&#39;s Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc. (1 day ago)
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 day ago)
+- [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The &#34;Geek&#39;s Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc. (2 days ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (2 days ago)
 - [aarnphm/aarnphm.github.io](https://github.com/aarnphm/aarnphm.github.io) -  (1 week ago)
-- [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. (1 week ago)
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus (1 week ago)
+- [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out. (2 weeks ago)
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
