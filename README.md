@@ -85,11 +85,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (today)
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 day ago)
-- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (1 week ago)
 - [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (1 week ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 week ago)
-- [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (1 week ago)
+- [inview-club/devops-cases](https://github.com/inview-club/devops-cases) - Practical DevOps cases for learning automation, infrastructure management, and continuous delivery (1 week ago)
 
 ### 🌱 My latest projects
 
