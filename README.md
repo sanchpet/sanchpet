@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (today)
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases&#39; dump (1 week ago)
 - [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (1 week ago)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The &#34;Geek&#39;s Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc. (1 week ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 week ago)
-- [aarnphm/aarnphm.github.io](https://github.com/aarnphm/aarnphm.github.io) -  (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
