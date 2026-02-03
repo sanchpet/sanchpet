@@ -101,7 +101,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [docs: update documentation](https://github.com/TantorLabs/pg_anon/pull/79) on [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) (2 weeks ago)
+- [docs: update documentation](https://github.com/TantorLabs/pg_anon/pull/79) on [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) (3 weeks ago)
 - [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 weeks ago)
 - [feat: add star history to readme](https://github.com/inview-club/devops-cases/pull/47) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (3 weeks ago)
 - [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (3 months ago)
@@ -113,8 +113,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (1 week ago)
-- [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases&#39; dump (2 weeks ago)
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (2 weeks ago)
+- [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases&#39; dump (3 weeks ago)
 - [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (3 weeks ago)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The &#34;Geek&#39;s Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc. (3 weeks ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (3 weeks ago)
