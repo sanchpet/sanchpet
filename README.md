@@ -86,7 +86,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (3 weeks ago)
-- [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (4 weeks ago)
+- [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (1 month ago)
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 month ago)
 - [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (1 month ago)
 - [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 month ago)
@@ -113,7 +113,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (3 weeks ago)
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (4 weeks ago)
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases&#39; dump (1 month ago)
 - [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (1 month ago)
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The &#34;Geek&#39;s Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc. (1 month ago)
