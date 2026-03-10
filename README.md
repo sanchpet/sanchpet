@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [cherts/anylink](https://github.com/cherts/anylink) - AnyLink is an enterprise-level remote office SSL VPN software that can support multiple people using it online at the same time. Developed based on the openconnect protocol and drawing on the development ideas of ocserv, it is fully compatible with the AnyConnect client. (today)
+- [itruslan/rundeck-yc-scheduler](https://github.com/itruslan/rundeck-yc-scheduler) - Custom Rundeck Docker image with a built-in plugin for scheduled start/stop of Yandex Cloud resources. (today)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 days ago)
 - [dimonier/FPF](https://github.com/dimonier/FPF) - First Principle Framework (6 days ago)
 - [devops-interviews/devops-interview-questions](https://github.com/devops-interviews/devops-interview-questions) - DevOps Interview Questions (6 days ago)
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (1 month ago)
-- [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) - A tool for anonymizing PostgreSQL and MySQL databases&#39; dump (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
