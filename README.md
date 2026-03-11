@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [Update variables.tf - kafka versions](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/64) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (today)
 - [fix(redis-user): fix password check and change condition on whether to create a user from password to user_name](https://github.com/terraform-yacloud-modules/terraform-yandex-redis/pull/72) on [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) (1 day ago)
 - [docs: update documentation](https://github.com/TantorLabs/pg_anon/pull/79) on [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) (1 month ago)
 - [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 - [feat: add star history to readme](https://github.com/inview-club/devops-cases/pull/47) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
-- [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (4 months ago)
 
 ### 📓 Gists I wrote
 
