@@ -88,8 +88,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (1 month ago)
 - [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (1 month ago)
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 month ago)
-- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (1 month ago)
-- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (1 month ago)
+- [sanchpet/flux-head](https://github.com/sanchpet/flux-head) - This repository provides the initial setup for FluxCD v2 and integrates additional repositories. Full credits to https://github.com/brainfair/awesome-flux-head as a source for this. (2 months ago)
+- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration (2 months ago)
 
 ### 🌱 My latest projects
 
@@ -101,10 +101,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(redis-user): fix password check and change condition on whether to create a user from password to user_name](https://github.com/terraform-yacloud-modules/terraform-yandex-redis/pull/72) on [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) (today)
+- [fix(redis-user): fix password check and change condition on whether to create a user from password to user_name](https://github.com/terraform-yacloud-modules/terraform-yandex-redis/pull/72) on [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) (1 day ago)
 - [docs: update documentation](https://github.com/TantorLabs/pg_anon/pull/79) on [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) (1 month ago)
-- [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
-- [feat: add star history to readme](https://github.com/inview-club/devops-cases/pull/47) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (1 month ago)
+- [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
+- [feat: add star history to readme](https://github.com/inview-club/devops-cases/pull/47) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 - [Bring more options to the default configuration template](https://github.com/geerlingguy/ansible-role-haproxy/pull/61) on [geerlingguy/ansible-role-haproxy](https://github.com/geerlingguy/ansible-role-haproxy) (4 months ago)
 
 ### 📓 Gists I wrote
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [cherts/anylink](https://github.com/cherts/anylink) - AnyLink is an enterprise-level remote office SSL VPN software that can support multiple people using it online at the same time. Developed based on the openconnect protocol and drawing on the development ideas of ocserv, it is fully compatible with the AnyConnect client. (today)
-- [itruslan/rundeck-yc-scheduler](https://github.com/itruslan/rundeck-yc-scheduler) - Custom Rundeck Docker image with a built-in plugin for scheduled start/stop of Yandex Cloud resources. (today)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 days ago)
-- [dimonier/FPF](https://github.com/dimonier/FPF) - First Principle Framework (6 days ago)
-- [devops-interviews/devops-interview-questions](https://github.com/devops-interviews/devops-interview-questions) - DevOps Interview Questions (6 days ago)
+- [cherts/anylink](https://github.com/cherts/anylink) - AnyLink is an enterprise-level remote office SSL VPN software that can support multiple people using it online at the same time. Developed based on the openconnect protocol and drawing on the development ideas of ocserv, it is fully compatible with the AnyConnect client. (1 day ago)
+- [itruslan/rundeck-yc-scheduler](https://github.com/itruslan/rundeck-yc-scheduler) - Custom Rundeck Docker image with a built-in plugin for scheduled start/stop of Yandex Cloud resources. (1 day ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 days ago)
+- [dimonier/FPF](https://github.com/dimonier/FPF) - First Principle Framework (1 week ago)
+- [devops-interviews/devops-interview-questions](https://github.com/devops-interviews/devops-interview-questions) - DevOps Interview Questions (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
