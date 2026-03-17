@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [[prometheus-operator-crds] Fix typo in comments for values.yaml (scrapeconfigs)](https://github.com/prometheus-community/helm-charts/pull/6741) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix(variables): fix kafka versions &#43; fix null checks with ternary operators](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/65) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (6 days ago)
 - [Update variables.tf - kafka versions](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/64) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (6 days ago)
 - [fix(redis-user): fix password check and change condition on whether to create a user from password to user_name](https://github.com/terraform-yacloud-modules/terraform-yandex-redis/pull/72) on [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) (1 week ago)
 - [docs: update documentation](https://github.com/TantorLabs/pg_anon/pull/79) on [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) (2 months ago)
-- [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 
 ### 📓 Gists I wrote
 
