@@ -85,8 +85,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) - Terraform module to manage Redis resources within the Yandex.Cloud (5 days ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (5 days ago)
+- [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) - Terraform module to manage Redis resources within the Yandex.Cloud (6 days ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (6 days ago)
 - [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (1 month ago)
 - [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4. (1 month ago)
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others (1 month ago)
@@ -101,9 +101,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(variables): fix kafka versions &#43; fix null checks with ternary operators](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/65) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (5 days ago)
-- [Update variables.tf - kafka versions](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/64) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (5 days ago)
-- [fix(redis-user): fix password check and change condition on whether to create a user from password to user_name](https://github.com/terraform-yacloud-modules/terraform-yandex-redis/pull/72) on [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) (6 days ago)
+- [fix(variables): fix kafka versions &#43; fix null checks with ternary operators](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/65) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (6 days ago)
+- [Update variables.tf - kafka versions](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/64) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (6 days ago)
+- [fix(redis-user): fix password check and change condition on whether to create a user from password to user_name](https://github.com/terraform-yacloud-modules/terraform-yandex-redis/pull/72) on [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) (1 week ago)
 - [docs: update documentation](https://github.com/TantorLabs/pg_anon/pull/79) on [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) (2 months ago)
 - [Case: add 08 case (k8s-keycloak-oidc)](https://github.com/inview-club/devops-cases/pull/48) on [inview-club/devops-cases](https://github.com/inview-club/devops-cases) (2 months ago)
 
@@ -113,8 +113,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [cherts/anylink](https://github.com/cherts/anylink) - AnyLink is an enterprise-level remote office SSL VPN software that can support multiple people using it online at the same time. Developed based on the openconnect protocol and drawing on the development ideas of ocserv, it is fully compatible with the AnyConnect client. (6 days ago)
-- [itruslan/rundeck-yc-scheduler](https://github.com/itruslan/rundeck-yc-scheduler) - Custom Rundeck Docker image with a built-in plugin for scheduled start/stop of Yandex Cloud resources. (6 days ago)
+- [cherts/anylink](https://github.com/cherts/anylink) - AnyLink is an enterprise-level remote office SSL VPN software that can support multiple people using it online at the same time. Developed based on the openconnect protocol and drawing on the development ideas of ocserv, it is fully compatible with the AnyConnect client. (1 week ago)
+- [itruslan/rundeck-yc-scheduler](https://github.com/itruslan/rundeck-yc-scheduler) - Custom Rundeck Docker image with a built-in plugin for scheduled start/stop of Yandex Cloud resources. (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [dimonier/FPF](https://github.com/dimonier/FPF) - First Principle Framework (1 week ago)
 - [devops-interviews/devops-interview-questions](https://github.com/devops-interviews/devops-interview-questions) - DevOps Interview Questions (1 week ago)
