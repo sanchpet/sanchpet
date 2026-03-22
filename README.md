@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [itlabsio/external-dns-yandexcloud-webhook](https://github.com/itlabsio/external-dns-yandexcloud-webhook) -  (today)
+- [ailev/FPF](https://github.com/ailev/FPF) - First Principle Framework (today)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (today)
 - [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 day ago)
 - [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (1 day ago)
-- [cherts/anylink](https://github.com/cherts/anylink) - AnyLink is an enterprise-level remote office SSL VPN software that can support multiple people using it online at the same time. Developed based on the openconnect protocol and drawing on the development ideas of ocserv, it is fully compatible with the AnyConnect client. (1 week ago)
-- [itruslan/rundeck-yc-scheduler](https://github.com/itruslan/rundeck-yc-scheduler) - Custom Rundeck Docker image with a built-in plugin for scheduled start/stop of Yandex Cloud resources. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
