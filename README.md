@@ -85,10 +85,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 day ago)
+- [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (today)
 - [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (1 day ago)
+- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) - Terraform module to manage Redis resources within the Yandex.Cloud (1 week ago)
 
 ### 🌱 My latest projects
