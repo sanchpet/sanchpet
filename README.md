@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook (today)
 - [itlabsio/external-dns-yandexcloud-webhook](https://github.com/itlabsio/external-dns-yandexcloud-webhook) -  (3 days ago)
-- [ailev/FPF](https://github.com/ailev/FPF) - First Principle Framework (3 days ago)
+- [ailev/FPF](https://github.com/ailev/FPF) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (3 days ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (3 days ago)
-- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
