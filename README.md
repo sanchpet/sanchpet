@@ -85,9 +85,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (3 days ago)
-- [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (4 days ago)
-- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (4 days ago)
+- [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (4 days ago)
+- [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (5 days ago)
+- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) - Terraform module to manage Redis resources within the Yandex.Cloud (2 weeks ago)
 
@@ -101,9 +101,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (3 days ago)
-- [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (4 days ago)
-- [feature: add license](https://github.com/itruslan/homelab-infra/pull/1) on [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) (4 days ago)
+- [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (4 days ago)
+- [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (5 days ago)
+- [feature: add license](https://github.com/itruslan/homelab-infra/pull/1) on [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) (5 days ago)
 - [[prometheus-operator-crds] Fix typo in comments for values.yaml (scrapeconfigs)](https://github.com/prometheus-community/helm-charts/pull/6741) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [fix(variables): fix kafka versions &#43; fix null checks with ternary operators](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/65) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (2 weeks ago)
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
-- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook (today)
-- [itlabsio/external-dns-yandexcloud-webhook](https://github.com/itlabsio/external-dns-yandexcloud-webhook) -  (3 days ago)
-- [ailev/FPF](https://github.com/ailev/FPF) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (3 days ago)
-- [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (3 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 day ago)
+- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook (1 day ago)
+- [itlabsio/external-dns-yandexcloud-webhook](https://github.com/itlabsio/external-dns-yandexcloud-webhook) -  (4 days ago)
+- [ailev/FPF](https://github.com/ailev/FPF) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (4 days ago)
+- [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
