@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (today)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 day ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (6 days ago)
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook (6 days ago)
 - [itlabsio/external-dns-yandexcloud-webhook](https://github.com/itlabsio/external-dns-yandexcloud-webhook) -  (1 week ago)
-- [ailev/FPF](https://github.com/ailev/FPF) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
