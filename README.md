@@ -89,7 +89,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 week ago)
 - [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (2 weeks ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (3 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -105,7 +105,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (1 week ago)
 - [feature: add license](https://github.com/itruslan/homelab-infra/pull/1) on [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) (1 week ago)
 - [[prometheus-operator-crds] Fix typo in comments for values.yaml (scrapeconfigs)](https://github.com/prometheus-community/helm-charts/pull/6741) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [fix(variables): fix kafka versions &#43; fix null checks with ternary operators](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/65) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (2 weeks ago)
+- [fix(variables): fix kafka versions &#43; fix null checks with ternary operators](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/65) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
@@ -113,10 +113,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (today)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 day ago)
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (6 days ago)
-- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook (6 days ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (1 day ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 week ago)
+- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook (1 week ago)
 - [itlabsio/external-dns-yandexcloud-webhook](https://github.com/itlabsio/external-dns-yandexcloud-webhook) -  (1 week ago)
 
 ### 👯 Check out some of my recent followers
