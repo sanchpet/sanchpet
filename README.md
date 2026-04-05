@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (1 week ago)
+- [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (2 weeks ago)
 - [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (2 weeks ago)
 - [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
@@ -101,7 +101,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (1 week ago)
+- [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (2 weeks ago)
 - [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (2 weeks ago)
 - [feature: add license](https://github.com/itruslan/homelab-infra/pull/1) on [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) (2 weeks ago)
 - [[prometheus-operator-crds] Fix typo in comments for values.yaml (scrapeconfigs)](https://github.com/prometheus-community/helm-charts/pull/6741) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. (1 day ago)
-- [evgeniy-kharchenko/The-Way-of-DevOps](https://github.com/evgeniy-kharchenko/The-Way-of-DevOps) - Проект посвящённый развитию в DevOps направлении (2 days ago)
-- [bytebase/terraform-provider-bytebase](https://github.com/bytebase/terraform-provider-bytebase) - Terraform Bytebase provider  (3 days ago)
-- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (3 days ago)
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (4 days ago)
+- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. (2 days ago)
+- [evgeniy-kharchenko/The-Way-of-DevOps](https://github.com/evgeniy-kharchenko/The-Way-of-DevOps) - Проект посвящённый развитию в DevOps направлении (3 days ago)
+- [bytebase/terraform-provider-bytebase](https://github.com/bytebase/terraform-provider-bytebase) - Terraform Bytebase provider  (4 days ago)
+- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (4 days ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
