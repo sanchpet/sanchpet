@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. (2 days ago)
-- [evgeniy-kharchenko/The-Way-of-DevOps](https://github.com/evgeniy-kharchenko/The-Way-of-DevOps) - Проект посвящённый развитию в DevOps направлении (3 days ago)
-- [bytebase/terraform-provider-bytebase](https://github.com/bytebase/terraform-provider-bytebase) - Terraform Bytebase provider  (4 days ago)
-- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (4 days ago)
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (5 days ago)
+- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. (3 days ago)
+- [evgeniy-kharchenko/The-Way-of-DevOps](https://github.com/evgeniy-kharchenko/The-Way-of-DevOps) - Проект посвящённый развитию в DevOps направлении (4 days ago)
+- [bytebase/terraform-provider-bytebase](https://github.com/bytebase/terraform-provider-bytebase) - Terraform Bytebase provider  (5 days ago)
+- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (5 days ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
