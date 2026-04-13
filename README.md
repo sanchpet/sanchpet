@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. (1 week ago)
 - [evgeniy-kharchenko/The-Way-of-DevOps](https://github.com/evgeniy-kharchenko/The-Way-of-DevOps) - Проект посвящённый развитию в DevOps направлении (1 week ago)
 - [bytebase/terraform-provider-bytebase](https://github.com/bytebase/terraform-provider-bytebase) - Terraform Bytebase provider  (1 week ago)
 - [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (1 week ago)
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World&#39;s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
