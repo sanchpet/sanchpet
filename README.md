@@ -123,9 +123,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [TimothyZhang7](https://github.com/TimothyZhang7)
 - [AlexYrlv](https://github.com/AlexYrlv)
-- [forexample-u](https://github.com/forexample-u)
 - [CommanderCRM](https://github.com/CommanderCRM)
 - [gberdyshev](https://github.com/gberdyshev)
+- [sarahofai](https://github.com/sarahofai)
 
 ## Contribution graph
 <div style="text-align: center;">
