@@ -101,7 +101,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(disk): add snapshot_id support for secondary disks](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/pull/118) on [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) (today)
+- [feat(disk): add snapshot_id support for secondary disks](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/pull/118) on [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) (1 day ago)
 - [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (1 month ago)
 - [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (1 month ago)
 - [feature: add license](https://github.com/itruslan/homelab-infra/pull/1) on [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) (1 month ago)
@@ -116,7 +116,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters (1 week ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. (2 weeks ago)
-- [evgeniy-kharchenko/The-Way-of-DevOps](https://github.com/evgeniy-kharchenko/The-Way-of-DevOps) - Проект посвящённый развитию в DevOps направлении (2 weeks ago)
+- [evgeniy-kharchenko/The-Way-of-DevOps](https://github.com/evgeniy-kharchenko/The-Way-of-DevOps) - Проект посвящённый развитию в DevOps направлении (3 weeks ago)
 - [bytebase/terraform-provider-bytebase](https://github.com/bytebase/terraform-provider-bytebase) - Terraform Bytebase provider  (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
