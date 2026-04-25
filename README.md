@@ -101,7 +101,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(disk): add snapshot_id support for secondary disks](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/pull/118) on [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) (2 days ago)
+- [feat(disk): add snapshot_id support for secondary disks](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/pull/118) on [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) (3 days ago)
 - [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (1 month ago)
 - [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (1 month ago)
 - [feature: add license](https://github.com/itruslan/homelab-infra/pull/1) on [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) (1 month ago)
