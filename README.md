@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (today)
+- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/69) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (today)
 - [feat(disk): add snapshot_id support for secondary disks](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/pull/118) on [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) (5 days ago)
 - [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (1 month ago)
 - [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (1 month ago)
-- [feature: add license](https://github.com/itruslan/homelab-infra/pull/1) on [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) (1 month ago)
-- [[prometheus-operator-crds] Fix typo in comments for values.yaml (scrapeconfigs)](https://github.com/prometheus-community/helm-charts/pull/6741) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 month ago)
 
 ### 📓 Gists I wrote
 
