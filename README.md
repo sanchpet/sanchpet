@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (4 days ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (5 days ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (1 month ago)
 - [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 month ago)
 - [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (1 month ago)
@@ -101,8 +101,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (4 days ago)
-- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/69) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (4 days ago)
+- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (5 days ago)
+- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/69) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (5 days ago)
 - [feat(disk): add snapshot_id support for secondary disks](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/pull/118) on [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) (1 week ago)
 - [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (1 month ago)
 - [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (1 month ago)
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (today)
-- [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum: (today)
-- [nateherkai/token-dashboard](https://github.com/nateherkai/token-dashboard) - See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight. (today)
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (2 days ago)
-- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings. (3 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
+- [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum: (1 day ago)
+- [nateherkai/token-dashboard](https://github.com/nateherkai/token-dashboard) - See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight. (1 day ago)
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (3 days ago)
+- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings. (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
