@@ -85,11 +85,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (today)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (1 week ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (1 month ago)
-- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 month ago)
 - [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (1 month ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
+- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 month ago)
 
 ### 🌱 My latest projects
 
@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/405) on [andrcuns/charts](https://github.com/andrcuns/charts) (today)
+- [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/404) on [andrcuns/charts](https://github.com/andrcuns/charts) (today)
 - [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (1 week ago)
 - [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/69) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (1 week ago)
 - [feat(disk): add snapshot_id support for secondary disks](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/pull/118) on [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) (1 week ago)
-- [feature: add license](https://github.com/itruslan/homelab-gitops/pull/1) on [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) (1 month ago)
-- [feature: add license](https://github.com/itruslan/terraform-modules/pull/1) on [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) (1 month ago)
 
 ### 📓 Gists I wrote
 
