@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (today)
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager (1 day ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes (4 days ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
