@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [ci: build amd64 and arm64 on native runners in parallel](https://github.com/sanchpet/docker-envsubst/pull/2) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (today)
 - [feat: add project tooling and CI](https://github.com/sanchpet/docker-envsubst/pull/1) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (today)
 - [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/405) on [andrcuns/charts](https://github.com/andrcuns/charts) (3 days ago)
 - [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/404) on [andrcuns/charts](https://github.com/andrcuns/charts) (3 days ago)
 - [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (1 week ago)
-- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/69) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (1 week ago)
 
 ### 📓 Gists I wrote
 
