@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (4 days ago)
+- [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (5 days ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (2 weeks ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (1 month ago)
@@ -101,8 +101,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [ci: build amd64 and arm64 on native runners in parallel](https://github.com/sanchpet/docker-envsubst/pull/2) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (4 days ago)
-- [feat: add project tooling and CI](https://github.com/sanchpet/docker-envsubst/pull/1) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (4 days ago)
+- [ci: build amd64 and arm64 on native runners in parallel](https://github.com/sanchpet/docker-envsubst/pull/2) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (5 days ago)
+- [feat: add project tooling and CI](https://github.com/sanchpet/docker-envsubst/pull/1) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (5 days ago)
 - [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/405) on [andrcuns/charts](https://github.com/andrcuns/charts) (1 week ago)
 - [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/404) on [andrcuns/charts](https://github.com/andrcuns/charts) (1 week ago)
 - [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (2 weeks ago)
@@ -113,9 +113,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (5 days ago)
-- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager (6 days ago)
-- [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (6 days ago)
+- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (6 days ago)
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager (1 week ago)
+- [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 week ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes (1 week ago)
 
