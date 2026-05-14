@@ -85,19 +85,19 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (today)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (6 days ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (2 weeks ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (1 month ago)
-- [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (1 month ago)
 
 ### 🌱 My latest projects
 
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch
 - [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4.
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others
+- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV
 - [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle.
-- [sanchpet/flux-infra](https://github.com/sanchpet/flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2. Full credits to https://github.com/brainfair/awesome-flux-infra for the inspiration
 
 ### 🔨 My recent Pull Requests
 
