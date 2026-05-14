@@ -89,7 +89,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (2 weeks ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (1 month ago)
-- [itruslan/terraform-modules](https://github.com/itruslan/terraform-modules) -  (1 month ago)
+- [itruslan/homelab-infra](https://github.com/itruslan/homelab-infra) -  (1 month ago)
 
 ### 🌱 My latest projects
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (today)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (today)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 week ago)
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager (1 week ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 week ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
