@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (today)
+- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (1 day ago)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (1 week ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (2 weeks ago)
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (1 day ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
-- [sernote/audit-prompt-caching](https://github.com/sernote/audit-prompt-caching) -  (1 day ago)
-- [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (1 day ago)
-- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (2 days ago)
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (2 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 days ago)
+- [sernote/audit-prompt-caching](https://github.com/sernote/audit-prompt-caching) -  (2 days ago)
+- [TantorLabs/pg_anon](https://github.com/TantorLabs/pg_anon) - Anonymization tool for PostgreSQL  (2 days ago)
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
