@@ -50,7 +50,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ![Bash](https://img.shields.io/badge/Bash-1a1b27?&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/RHEL%2FDeb--like-1a1b27?&logo=linux&logoColor=white)
 
-### I have some exeprience in
+### I have some experience in
 
 ![Flux](https://img.shields.io/badge/Flux-1a1b27?&logo=flux&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-1a1b27?&logo=argo&logoColor=white)
