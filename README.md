@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (4 days ago)
+- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (5 days ago)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (2 weeks ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (2 weeks ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (3 weeks ago)
@@ -113,10 +113,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (today)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (3 days ago)
-- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock: (5 days ago)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 day ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (4 days ago)
+- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock: (6 days ago)
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (1 week ago)
 
 ### 👯 Check out some of my recent followers
