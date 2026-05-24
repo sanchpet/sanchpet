@@ -121,11 +121,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👯 Check out some of my recent followers
 
+- [lkud3](https://github.com/lkud3)
 - [lafrej8962-design](https://github.com/lafrej8962-design)
 - [TimothyZhang7](https://github.com/TimothyZhang7)
 - [AlexYrlv](https://github.com/AlexYrlv)
 - [CommanderCRM](https://github.com/CommanderCRM)
-- [gberdyshev](https://github.com/gberdyshev)
 
 ## Contribution graph
 <div style="text-align: center;">
