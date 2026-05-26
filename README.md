@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin (today)
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (today)
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (3 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (6 days ago)
-- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock: (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
