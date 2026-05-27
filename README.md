@@ -88,7 +88,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (1 week ago)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (2 weeks ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (3 weeks ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (4 weeks ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (1 month ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (2 months ago)
 
 ### 🌱 My latest projects
@@ -105,7 +105,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [feat: add project tooling and CI](https://github.com/sanchpet/docker-envsubst/pull/1) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (2 weeks ago)
 - [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/405) on [andrcuns/charts](https://github.com/andrcuns/charts) (3 weeks ago)
 - [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/404) on [andrcuns/charts](https://github.com/andrcuns/charts) (3 weeks ago)
-- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (4 weeks ago)
+- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (1 month ago)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin (today)
-- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (today)
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (3 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (6 days ago)
+- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin (1 day ago)
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (1 day ago)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (4 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
