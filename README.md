@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [shareAI-lab/claw0](https://github.com/shareAI-lab/claw0) - 0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch (today)
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin (1 day ago)
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (1 day ago)
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (4 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
-- [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
