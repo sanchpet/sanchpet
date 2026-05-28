@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (today)
 - [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 day ago)
 - [shareAI-lab/claw0](https://github.com/shareAI-lab/claw0) - 0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch (1 day ago)
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin (2 days ago)
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (2 days ago)
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
