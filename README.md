@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(update): update.sh затирает личный day-rhythm-config.yaml при апдейте](https://github.com/TserenTserenov/FMT-exocortex-template/pull/152) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (today)
+- [feat: синхронизация, восстановление и NL-restore памяти exocortex (closes #125)](https://github.com/TserenTserenov/FMT-exocortex-template/pull/151) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (today)
 - [ci: build amd64 and arm64 on native runners in parallel](https://github.com/sanchpet/docker-envsubst/pull/2) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (3 weeks ago)
 - [feat: add project tooling and CI](https://github.com/sanchpet/docker-envsubst/pull/1) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (3 weeks ago)
 - [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/405) on [andrcuns/charts](https://github.com/andrcuns/charts) (3 weeks ago)
-- [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/404) on [andrcuns/charts](https://github.com/andrcuns/charts) (3 weeks ago)
-- [fix: remove deprecated fileds, fix default for segment_bytes in topics](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/pull/70) on [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) (1 month ago)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift (today)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault. (2 days ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 days ago)
 - [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (5 days ago)
-- [shareAI-lab/claw0](https://github.com/shareAI-lab/claw0) - 0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
