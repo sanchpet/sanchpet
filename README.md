@@ -93,11 +93,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🌱 My latest projects
 
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My dotfiles managed with chezmoi
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch
 - [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4.
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others
 - [sanchpet/cv](https://github.com/sanchpet/cv) - My CV
-- [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) - Telegram bot to have fun with my online friends. No offence to any nation, the naming is just a common joke in our circle.
 
 ### 🔨 My recent Pull Requests
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (today)
 - [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift (2 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (4 days ago)
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault. (4 days ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (6 days ago)
-- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
