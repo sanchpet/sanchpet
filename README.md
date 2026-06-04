@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My dotfiles managed with chezmoi (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi, mise &amp; brew (today)
 - [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (2 weeks ago)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (3 weeks ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 month ago)
@@ -93,7 +93,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🌱 My latest projects
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My dotfiles managed with chezmoi
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi, mise &amp; brew
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch
 - [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4.
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained. (today)
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (today)
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (today)
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (today)
 - [dckms/system-architecture](https://github.com/dckms/system-architecture) - Distributed Collaborative Knowledge Management System for System Architecture (today)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 day ago)
-- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift (3 days ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (5 days ago)
-- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault. (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
