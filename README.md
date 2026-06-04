@@ -87,7 +87,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (2 weeks ago)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (3 weeks ago)
-- [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (4 weeks ago)
+- [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 month ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (1 month ago)
 - [itruslan/homelab-gitops](https://github.com/itruslan/homelab-gitops) -  (2 months ago)
 
@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(update): update.sh затирает личный day-rhythm-config.yaml при апдейте](https://github.com/TserenTserenov/FMT-exocortex-template/pull/152) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (2 days ago)
-- [feat: синхронизация, восстановление и NL-restore памяти exocortex (closes #125)](https://github.com/TserenTserenov/FMT-exocortex-template/pull/151) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (2 days ago)
+- [fix(update): update.sh затирает личный day-rhythm-config.yaml при апдейте](https://github.com/TserenTserenov/FMT-exocortex-template/pull/152) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (3 days ago)
+- [feat: синхронизация, восстановление и NL-restore памяти exocortex (closes #125)](https://github.com/TserenTserenov/FMT-exocortex-template/pull/151) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (3 days ago)
 - [ci: build amd64 and arm64 on native runners in parallel](https://github.com/sanchpet/docker-envsubst/pull/2) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (3 weeks ago)
 - [feat: add project tooling and CI](https://github.com/sanchpet/docker-envsubst/pull/1) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (3 weeks ago)
-- [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/405) on [andrcuns/charts](https://github.com/andrcuns/charts) (4 weeks ago)
+- [feat(buildkit-service): configurable liveness/readiness probe parameters](https://github.com/andrcuns/charts/pull/405) on [andrcuns/charts](https://github.com/andrcuns/charts) (1 month ago)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (today)
-- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift (2 days ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (4 days ago)
-- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault. (4 days ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (6 days ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 day ago)
+- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift (3 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (5 days ago)
+- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault. (5 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
