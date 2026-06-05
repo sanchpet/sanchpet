@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi, mise &amp; brew (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi, mise &amp; brew (today)
 - [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (2 weeks ago)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (4 weeks ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 month ago)
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (today)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (today)
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained. (1 day ago)
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (1 day ago)
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (1 day ago)
-- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit (1 day ago)
-- [dckms/system-architecture](https://github.com/dckms/system-architecture) - Distributed Collaborative Knowledge Management System for System Architecture (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
