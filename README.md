@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi, mise &amp; brew (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (2 weeks ago)
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch (4 weeks ago)
 - [andrcuns/charts](https://github.com/andrcuns/charts) - Helm Charts (1 month ago)
@@ -93,7 +93,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🌱 My latest projects
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi, mise &amp; brew
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc.
 - [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) - Minimal Docker image with envsubst — 743 KB static binary on scratch
 - [sanchpet/devops-jedi-compendium](https://github.com/sanchpet/devops-jedi-compendium) - Codebase for the DevOps Jedi Compendium — a living, lore‑flavoured DevOps knowledge garden built with Quartz 4.
 - [sanchpet/treasures](https://github.com/sanchpet/treasures) - Useful files that I want to keep track of: templates, best practices and others
