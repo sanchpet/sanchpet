@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [registry: add claudeline](https://github.com/jdx/mise/pull/10281) on [jdx/mise](https://github.com/jdx/mise) (today)
+- [feat: add lexfrei/claudeline](https://github.com/aquaproj/aqua-registry/pull/55083) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (today)
 - [Add mise installation instructions for dust](https://github.com/bootandy/dust/pull/579) on [bootandy/dust](https://github.com/bootandy/dust) (4 days ago)
 - [fix(update): update.sh затирает личный day-rhythm-config.yaml при апдейте](https://github.com/TserenTserenov/FMT-exocortex-template/pull/152) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
 - [feat: синхронизация, восстановление и NL-restore памяти exocortex (closes #125)](https://github.com/TserenTserenov/FMT-exocortex-template/pull/151) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
-- [ci: build amd64 and arm64 on native runners in parallel](https://github.com/sanchpet/docker-envsubst/pull/2) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (1 month ago)
-- [feat: add project tooling and CI](https://github.com/sanchpet/docker-envsubst/pull/1) on [sanchpet/docker-envsubst](https://github.com/sanchpet/docker-envsubst) (1 month ago)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (today)
 - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (today)
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes (today)
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (today)
 - [oVirt/ovirt-engine](https://github.com/oVirt/ovirt-engine) - The oVirt Engine virtualization manager (1 day ago)
-- [okd-project/okd](https://github.com/okd-project/okd) - The self-managing, auto-upgrading, Kubernetes distribution for everyone (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
