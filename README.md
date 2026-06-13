@@ -85,10 +85,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (3 days ago)
-- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (5 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (4 days ago)
+- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (6 days ago)
 - [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (3 weeks ago)
 
 ### 🌱 My latest projects
@@ -101,8 +101,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [registry: add claudeline](https://github.com/jdx/mise/pull/10281) on [jdx/mise](https://github.com/jdx/mise) (3 days ago)
-- [feat: add lexfrei/claudeline](https://github.com/aquaproj/aqua-registry/pull/55083) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (3 days ago)
+- [registry: add claudeline](https://github.com/jdx/mise/pull/10281) on [jdx/mise](https://github.com/jdx/mise) (4 days ago)
+- [feat: add lexfrei/claudeline](https://github.com/aquaproj/aqua-registry/pull/55083) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (4 days ago)
 - [Add mise installation instructions for dust](https://github.com/bootandy/dust/pull/579) on [bootandy/dust](https://github.com/bootandy/dust) (1 week ago)
 - [fix(update): update.sh затирает личный day-rhythm-config.yaml при апдейте](https://github.com/TserenTserenov/FMT-exocortex-template/pull/152) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
 - [feat: синхронизация, восстановление и NL-restore памяти exocortex (closes #125)](https://github.com/TserenTserenov/FMT-exocortex-template/pull/151) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (1 day ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (2 days ago)
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic (2 days ago)
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 days ago)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (3 days ago)
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (2 days ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 days ago)
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic (3 days ago)
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (3 days ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
