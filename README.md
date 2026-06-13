@@ -85,8 +85,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
 - [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (4 days ago)
 - [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (6 days ago)
