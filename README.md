@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool. (today)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (today)
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (2 days ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 days ago)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic (3 days ago)
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (3 days ago)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
