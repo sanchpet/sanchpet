@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [docs(apps): 3x-ui README (hostPort, panel access, config caveat)](https://github.com/sanchpet/homelab/pull/7) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [fix(apps): rename service to xui-panel (DNS-1035) &#43; squash-merge rule](https://github.com/sanchpet/homelab/pull/6) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [refactor(apps): 3x-ui hostPort &#43; ClusterIP (drop hostNetwork)](https://github.com/sanchpet/homelab/pull/5) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(apps): 3x-ui (Xray panel) for the vpn namespace](https://github.com/sanchpet/homelab/pull/4) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [docs(runbook): MTU/PMTUD blackhole to the cluster API](https://github.com/sanchpet/homelab/pull/3) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [docs: GitOps structure (canonical &#43; Kustomize Components)](https://github.com/sanchpet/homelab/pull/2) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [ci &#43; pre-commit: green CI and quality gates](https://github.com/sanchpet/homelab/pull/1) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [registry: add claudeline](https://github.com/jdx/mise/pull/10281) on [jdx/mise](https://github.com/jdx/mise) (5 days ago)
 
 ### 📓 Gists I wrote
 
