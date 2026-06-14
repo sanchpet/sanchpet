@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [docs(apps): 3x-ui subscriptions behind the Gateway (Reverse Proxy URI)](https://github.com/sanchpet/homelab/pull/12) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(infra): switch sub cert to Let&#39;s Encrypt prod](https://github.com/sanchpet/homelab/pull/11) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [docs(workflow): do not self-merge — wait for owner review](https://github.com/sanchpet/homelab/pull/10) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(infra&#43;apps): sub endpoint behind NGF Gateway &#43; Let&#39;s Encrypt](https://github.com/sanchpet/homelab/pull/9) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(infra): cert-manager &#43; NGINX Gateway Fabric &#43; Gateway API CRDs](https://github.com/sanchpet/homelab/pull/8) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [docs(apps): 3x-ui README (hostPort, panel access, config caveat)](https://github.com/sanchpet/homelab/pull/7) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(apps): rename service to xui-panel (DNS-1035) &#43; squash-merge rule](https://github.com/sanchpet/homelab/pull/6) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [refactor(apps): 3x-ui hostPort &#43; ClusterIP (drop hostNetwork)](https://github.com/sanchpet/homelab/pull/5) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(apps): 3x-ui (Xray panel) for the vpn namespace](https://github.com/sanchpet/homelab/pull/4) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (today)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (today)
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (today)
+- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (today)
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (today)
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io (today)
-- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming (today)
-- [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. (today)
-- [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) -  (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
