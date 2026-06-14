@@ -86,10 +86,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (4 days ago)
-- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (6 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (5 days ago)
+- [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -101,9 +101,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [ci &#43; pre-commit: green CI and quality gates](https://github.com/sanchpet/homelab/pull/1) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [registry: add claudeline](https://github.com/jdx/mise/pull/10281) on [jdx/mise](https://github.com/jdx/mise) (4 days ago)
-- [feat: add lexfrei/claudeline](https://github.com/aquaproj/aqua-registry/pull/55083) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (4 days ago)
+- [ci &#43; pre-commit: green CI and quality gates](https://github.com/sanchpet/homelab/pull/1) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [registry: add claudeline](https://github.com/jdx/mise/pull/10281) on [jdx/mise](https://github.com/jdx/mise) (5 days ago)
+- [feat: add lexfrei/claudeline](https://github.com/aquaproj/aqua-registry/pull/55083) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (5 days ago)
 - [Add mise installation instructions for dust](https://github.com/bootandy/dust/pull/579) on [bootandy/dust](https://github.com/bootandy/dust) (1 week ago)
 - [fix(update): update.sh затирает личный day-rhythm-config.yaml при апдейте](https://github.com/TserenTserenov/FMT-exocortex-template/pull/152) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) -  (today)
-- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL (today)
-- [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool. (today)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (today)
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (2 days ago)
+- [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) -  (1 day ago)
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL (1 day ago)
+- [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool. (1 day ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 day ago)
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
