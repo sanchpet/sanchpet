@@ -86,8 +86,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (6 days ago)
 - [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (1 week ago)
 
@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [docs(anylink): capture DPI-throttle limitation (RU→this VPS)](https://github.com/sanchpet/homelab/pull/17) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [docs(anylink): Keenetic OpenConnect README &#43; MTU/DPD fix](https://github.com/sanchpet/homelab/pull/16) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(infra): stakater Reloader (auto-restart on secret/config change)](https://github.com/sanchpet/homelab/pull/15) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [chore(apps): set anylink admin_pass (SOPS)](https://github.com/sanchpet/homelab/pull/14) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(apps): anylink (OpenConnect VPN) via app-template &#43; SOPS](https://github.com/sanchpet/homelab/pull/13) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [refactor(flux): infra layers crds -&gt; controllers -&gt; configs](https://github.com/sanchpet/homelab/pull/31) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(germany): apps — 3x-ui &#43; anylink &#43; gost](https://github.com/sanchpet/homelab/pull/30) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(germany): GitOps scaffold &#43; infrastructure (ips-ger-vps)](https://github.com/sanchpet/homelab/pull/29) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [chore: remove OpenVPN (ovpn-admin) — failed experiment](https://github.com/sanchpet/homelab/pull/28) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [fix(ovpn-admin): hostNetwork (single NAT) &#43; Recreate &#43; firewall UI](https://github.com/sanchpet/homelab/pull/27) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (today)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (1 day ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 day ago)
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (1 day ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 day ago)
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
