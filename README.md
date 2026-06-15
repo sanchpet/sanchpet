@@ -86,9 +86,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (5 days ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (6 days ago)
 - [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (1 week ago)
 
 ### 🌱 My latest projects
@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [docs(apps): 3x-ui subscriptions behind the Gateway (Reverse Proxy URI)](https://github.com/sanchpet/homelab/pull/12) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(infra): switch sub cert to Let&#39;s Encrypt prod](https://github.com/sanchpet/homelab/pull/11) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [docs(workflow): do not self-merge — wait for owner review](https://github.com/sanchpet/homelab/pull/10) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(infra&#43;apps): sub endpoint behind NGF Gateway &#43; Let&#39;s Encrypt](https://github.com/sanchpet/homelab/pull/9) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(infra): cert-manager &#43; NGINX Gateway Fabric &#43; Gateway API CRDs](https://github.com/sanchpet/homelab/pull/8) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [docs(anylink): capture DPI-throttle limitation (RU→this VPS)](https://github.com/sanchpet/homelab/pull/17) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [docs(anylink): Keenetic OpenConnect README &#43; MTU/DPD fix](https://github.com/sanchpet/homelab/pull/16) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(infra): stakater Reloader (auto-restart on secret/config change)](https://github.com/sanchpet/homelab/pull/15) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [chore(apps): set anylink admin_pass (SOPS)](https://github.com/sanchpet/homelab/pull/14) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(apps): anylink (OpenConnect VPN) via app-template &#43; SOPS](https://github.com/sanchpet/homelab/pull/13) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (today)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (today)
-- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (today)
-- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (today)
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (today)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (1 day ago)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 day ago)
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (1 day ago)
+- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 day ago)
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
