@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [chore: exclude generated Flux YAML from Linguist stats](https://github.com/sanchpet/homelab/pull/36) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [chore: add .gitattributes (LF &#43; count YAML in Linguist)](https://github.com/sanchpet/homelab/pull/35) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(terraform): manage 3x-ui panels via threexui provider (WP-043)](https://github.com/sanchpet/homelab/pull/34) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [chore(germany): anylink admin password = USA](https://github.com/sanchpet/homelab/pull/33) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [refactor(k8s): group overlays under clusters/, drop infra base/](https://github.com/sanchpet/homelab/pull/32) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [refactor(flux): infra layers crds -&gt; controllers -&gt; configs](https://github.com/sanchpet/homelab/pull/31) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(germany): apps — 3x-ui &#43; anylink &#43; gost](https://github.com/sanchpet/homelab/pull/30) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(germany): GitOps scaffold &#43; infrastructure (ips-ger-vps)](https://github.com/sanchpet/homelab/pull/29) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
