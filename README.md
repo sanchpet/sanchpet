@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(terraform): YC state-backend bootstrap (Terraform) &#43; tooling, conventions, docs](https://github.com/sanchpet/homelab/pull/37) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [chore: exclude generated Flux YAML from Linguist stats](https://github.com/sanchpet/homelab/pull/36) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [chore: add .gitattributes (LF &#43; count YAML in Linguist)](https://github.com/sanchpet/homelab/pull/35) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [feat(terraform): manage 3x-ui panels via threexui provider (WP-043)](https://github.com/sanchpet/homelab/pull/34) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [chore(germany): anylink admin password = USA](https://github.com/sanchpet/homelab/pull/33) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [refactor(k8s): group overlays under clusters/, drop infra base/](https://github.com/sanchpet/homelab/pull/32) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies (today)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 day ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (2 days ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (2 days ago)
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (2 days ago)
-- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
