@@ -85,7 +85,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (3 days ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 week ago)
@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(settings): restart panel when subscription server settings change](https://github.com/batonogov/terraform-provider-threexui/pull/292) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (today)
 - [feat: sweb-ru-vps monitoring cluster &#43; vpn-watch (RU reachability vantage)](https://github.com/sanchpet/homelab/pull/39) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(terraform): SOPS-encrypted 3x-ui client list (ger panel config)](https://github.com/sanchpet/homelab/pull/38) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(terraform): YC state-backend bootstrap (Terraform) &#43; tooling, conventions, docs](https://github.com/sanchpet/homelab/pull/37) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [chore: exclude generated Flux YAML from Linguist stats](https://github.com/sanchpet/homelab/pull/36) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
-- [chore: add .gitattributes (LF &#43; count YAML in Linguist)](https://github.com/sanchpet/homelab/pull/35) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 
 ### 📓 Gists I wrote
 
