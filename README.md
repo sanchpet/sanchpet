@@ -85,9 +85,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (2 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (3 days ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 week ago)
 - [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) - Exocortex template: fork &amp; deploy your AI-powered personal knowledge system with Claude Code (1 week ago)
 
@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(terraform): YC state-backend bootstrap (Terraform) &#43; tooling, conventions, docs](https://github.com/sanchpet/homelab/pull/37) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [chore: exclude generated Flux YAML from Linguist stats](https://github.com/sanchpet/homelab/pull/36) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [chore: add .gitattributes (LF &#43; count YAML in Linguist)](https://github.com/sanchpet/homelab/pull/35) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(terraform): manage 3x-ui panels via threexui provider (WP-043)](https://github.com/sanchpet/homelab/pull/34) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [chore(germany): anylink admin password = USA](https://github.com/sanchpet/homelab/pull/33) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(terraform): YC state-backend bootstrap (Terraform) &#43; tooling, conventions, docs](https://github.com/sanchpet/homelab/pull/37) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [chore: exclude generated Flux YAML from Linguist stats](https://github.com/sanchpet/homelab/pull/36) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
+- [chore: add .gitattributes (LF &#43; count YAML in Linguist)](https://github.com/sanchpet/homelab/pull/35) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
+- [feat(terraform): manage 3x-ui panels via threexui provider (WP-043)](https://github.com/sanchpet/homelab/pull/34) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
+- [chore(germany): anylink admin password = USA](https://github.com/sanchpet/homelab/pull/33) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -113,11 +113,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies (today)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 day ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (2 days ago)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (2 days ago)
-- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (2 days ago)
+- [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies (1 day ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (2 days ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (3 days ago)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (3 days ago)
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
