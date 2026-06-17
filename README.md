@@ -101,11 +101,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: sweb-ru-vps monitoring cluster &#43; vpn-watch (RU reachability vantage)](https://github.com/sanchpet/homelab/pull/39) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(terraform): SOPS-encrypted 3x-ui client list (ger panel config)](https://github.com/sanchpet/homelab/pull/38) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(terraform): YC state-backend bootstrap (Terraform) &#43; tooling, conventions, docs](https://github.com/sanchpet/homelab/pull/37) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [chore: exclude generated Flux YAML from Linguist stats](https://github.com/sanchpet/homelab/pull/36) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 - [chore: add .gitattributes (LF &#43; count YAML in Linguist)](https://github.com/sanchpet/homelab/pull/35) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
-- [feat(terraform): manage 3x-ui panels via threexui provider (WP-043)](https://github.com/sanchpet/homelab/pull/34) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 
 ### 📓 Gists I wrote
 
