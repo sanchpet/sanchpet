@@ -9,20 +9,17 @@
         <img align="center" alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" width="12%"></a>
     <a align="center" href="https://t.me/sanchpet">
         <img align="center" alt="Telegram" src="https://img.shields.io/badge/telegram-1a1b27?&logo=telegram&logoColor=white" width="10%"></a>
-    <a align="center" href="https://www.linkedin.com/in/sanchpet/">
-        <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1a1b27?&logo=inspire&logoColor=white" width="10%"/></a>
     <a align="center" href="https://sanch.pet">
         <img align="center" alt="My Website" src="https://img.shields.io/badge/Website-1a1b27?&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDY0IDY0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlPSIjZmZmZmZmIiBmaWxsPSJub25lIj48cGF0aCBkPSJNMzkuOTMsNTUuNzJBMjQuODYsMjQuODYsMCwxLDEsNTYuODYsMzIuMTVhMzcuMjQsMzcuMjQsMCwwLDEtLjczLDYiLz48cGF0aCBkPSJNMzcuODYsNTEuMUE0Nyw0NywwLDAsMSwzMiw1Ni43Ii8+PHBhdGggZD0iTTMyLDdBMzQuMTQsMzQuMTQsMCwwLDEsNDMuNTcsMzBhMzQuMDcsMzQuMDcsMCwwLDEsLjA5LDQuODUiLz48cGF0aCBkPSJNMzIsN0EzNC4wOSwzNC4wOSwwLDAsMCwyMC4zMSwzMi40NmMwLDE2LjIsNy4yOCwyMSwxMS42NiwyNC4yNCIvPjxsaW5lIHgxPSIxMC4zNyIgeTE9IjE5LjkiIHgyPSI1My43NSIgeTI9IjE5LjkiLz48bGluZSB4MT0iMzIiIHkxPSI2Ljk5IiB4Mj0iMzIiIHkyPSI1Ni43Ii8+PGxpbmUgeDE9IjExLjA1IiB5MT0iNDUuNDgiIHgyPSIzNy4wNCIgeTI9IjQ1LjQ4Ii8+PGxpbmUgeDE9IjcuMTQiIHkxPSIzMi40NiIgeDI9IjU2Ljg2IiB5Mj0iMzEuODUiLz48cGF0aCBkPSJNNTMuNTcsNTcsNTgsNTIuNTZsLTgtOCw0LjU1LTIuOTFhLjM4LjM4LDAsMCwwLS4xMi0uN0wzOS4xNCwzNy4zN2EuMzkuMzksMCwwLDAtLjQ2LjQ2TDQyLDUzLjQxYS4zOS4zOSwwLDAsMCwuNzEuMTNMNDUuNTcsNDlaIi8+PC9zdmc+&logoColor=white" width="10%" /></a>
-    <a align="center">
-        <img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=sanchpet&style=plastic&color=1a1b27" width="12%"></a>
-    <a align="center">
-        <img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/sanchpet?style=plastic&color=1a1b27" width="7%">
-    </a>                            
+    <img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=sanchpet&style=plastic&color=1a1b27" width="12%">
+    <img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/sanchpet?style=plastic&color=1a1b27" width="7%">
 </p>
 
 Hi, welcome to my GitHub profile! 👋
 
 Briefly, I can define myself as DevOps engineer and just a curious person.
+
+These days I'm focused on GitOps and Infrastructure as Code — running my homelab as declarative, version-controlled code (Flux on k3s) and treating self-hosted network infrastructure the same way.
 
 If you want to know more about me, you are more than welcome on my [website](https://sanch.pet).
 
@@ -30,11 +27,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ## GitHub statistics
 
-<a href="">
-  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=12" width="34%"/></a>
-<a href="">
-  <img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
-</a>
+<img align="center" src="https://github-readme-stats-jqie.vercel.app/api/top-langs/?username=sanchpet&layout=compact&theme=tokyonight&langs_count=12" width="34%"/>
+<img align="center" src="https://github-readme-stats-jqie.vercel.app/api?username=sanchpet&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Stats" width="65%"/>
 
 ## My stack
 
@@ -77,14 +71,6 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ![SOPS](https://img.shields.io/badge/SOPS-1a1b27?logo=mozilla&logoColor=white)
 ![mise](https://img.shields.io/badge/mise-1a1b27?logoColor=white)
 ![chezmoi](https://img.shields.io/badge/chezmoi-1a1b27?logoColor=white)
-
-### Things I touched few times or just started learning
-
-![Puppet](https://img.shields.io/badge/Puppet-1a1b27?logo=puppet&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-1a1b27?logo=sonarqubeserver&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-1a1b27?&logo=elasticstack&logoColor=white)
-![Consul](https://img.shields.io/badge/Consul-1a1b27?&logo=consul&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-1a1b27?logo=perl&logoColor=white)
 
 ## Activity
 
