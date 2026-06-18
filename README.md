@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
-- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 day ago)
+- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (today)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (4 days ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (today)
 - [docs: add mise installation instructions](https://github.com/lexfrei/claudeline/pull/25) on [lexfrei/claudeline](https://github.com/lexfrei/claudeline) (today)
 - [fix(settings): restart panel when subscription server settings change](https://github.com/batonogov/terraform-provider-threexui/pull/292) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (1 day ago)
 - [feat: sweb-ru-vps monitoring cluster &#43; vpn-watch (RU reachability vantage)](https://github.com/sanchpet/homelab/pull/39) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(terraform): SOPS-encrypted 3x-ui client list (ger panel config)](https://github.com/sanchpet/homelab/pull/38) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
