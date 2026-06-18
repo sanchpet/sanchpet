@@ -42,17 +42,19 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ![Ansible](https://img.shields.io/badge/Ansible-1a1b27?logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana%20&%20Loki%20&%20Tempo-1a1b27?&logo=grafana&logoColor=white)
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-1a1b27?&logo=VictoriaMetrics&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-1a1b27?&logo=prometheus&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-1a1b27?&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a1b27?&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1a1b27?&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/RHEL%2FDeb--like-1a1b27?&logo=linux&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-1a1b27?logo=terraform&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-1a1b27?logo=opentofu&logoColor=white)
 ![Flux](https://img.shields.io/badge/Flux-1a1b27?&logo=flux&logoColor=white)
 
 ### I have some experience in
 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-1a1b27?&logo=argo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab%20CI-1a1b27?&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a1b27?&logo=githubactions&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-1a1b27?&logo=vault&logoColor=white)
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-1a1b27?&logo=vaultwarden&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-1a1b27?&logo=keycloak&logoColor=white)
@@ -73,6 +75,16 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ![SOPS](https://img.shields.io/badge/SOPS-1a1b27?logo=mozilla&logoColor=white)
 ![mise](https://img.shields.io/badge/mise-1a1b27?logoColor=white)
 ![chezmoi](https://img.shields.io/badge/chezmoi-1a1b27?logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-1a1b27?logo=terraform&logoColor=white)
+![External Secrets](https://img.shields.io/badge/External%20Secrets-1a1b27?logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-1a1b27?logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-1a1b27?logo=kubernetes&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-1a1b27?logo=openwrt&logoColor=white)
+![Xray/VLESS](https://img.shields.io/badge/Xray%2FVLESS-1a1b27?logoColor=white)
+![sing-box](https://img.shields.io/badge/sing--box-1a1b27?logoColor=white)
+![Quartz](https://img.shields.io/badge/Quartz-1a1b27?logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-1a1b27?logo=typst&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?logo=typescript&logoColor=white)
 
 ## Activity
 
