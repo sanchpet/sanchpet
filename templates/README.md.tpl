@@ -49,10 +49,12 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ![Git](https://img.shields.io/badge/Git-1a1b27?&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1a1b27?&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/RHEL%2FDeb--like-1a1b27?&logo=linux&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-1a1b27?logo=terraform&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-1a1b27?logo=opentofu&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-1a1b27?&logo=flux&logoColor=white)
 
 ### I have some experience in
 
-![Flux](https://img.shields.io/badge/Flux-1a1b27?&logo=flux&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-1a1b27?&logo=argo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab%20CI-1a1b27?&logo=gitlab&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-1a1b27?&logo=vault&logoColor=white)
@@ -70,11 +72,14 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ![Go](https://img.shields.io/badge/Go-1a1b27?logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-1a1b27?logo=sharp&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-1a1b27?logo=qemu&logoColor=white)
+![YandexCloud](https://img.shields.io/badge/Yandex%20Cloud-1a1b27?logo=yandexcloud&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-1a1b27?logo=k3s&logoColor=white)
+![SOPS](https://img.shields.io/badge/SOPS-1a1b27?logo=mozilla&logoColor=white)
+![mise](https://img.shields.io/badge/mise-1a1b27?logoColor=white)
+![chezmoi](https://img.shields.io/badge/chezmoi-1a1b27?logoColor=white)
 
 ### Things I touched few times or just started learning
 
-![YandexCloud](https://img.shields.io/badge/Yandex%20Cloud-1a1b27?logo=yandexcloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-1a1b27?logo=terraform&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-1a1b27?logo=puppet&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-1a1b27?logo=sonarqubeserver&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-1a1b27?&logo=elasticstack&logoColor=white)
