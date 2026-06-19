@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [itdoginfo/allow-domains](https://github.com/itdoginfo/allow-domains) - List of blocked domains (today)
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (1 day ago)
 - [itdoginfo/podkop](https://github.com/itdoginfo/podkop) - Dev podkop (1 day ago)
 - [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies (3 days ago)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (4 days ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
