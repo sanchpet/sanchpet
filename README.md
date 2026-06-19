@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (4 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 day ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (5 days ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 week ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (today)
-- [docs: add mise installation instructions](https://github.com/lexfrei/claudeline/pull/25) on [lexfrei/claudeline](https://github.com/lexfrei/claudeline) (today)
-- [fix(settings): restart panel when subscription server settings change](https://github.com/batonogov/terraform-provider-threexui/pull/292) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (1 day ago)
-- [feat: sweb-ru-vps monitoring cluster &#43; vpn-watch (RU reachability vantage)](https://github.com/sanchpet/homelab/pull/39) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (1 day ago)
+- [docs: add mise installation instructions](https://github.com/lexfrei/claudeline/pull/25) on [lexfrei/claudeline](https://github.com/lexfrei/claudeline) (1 day ago)
+- [fix(settings): restart panel when subscription server settings change](https://github.com/batonogov/terraform-provider-threexui/pull/292) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (2 days ago)
+- [feat: sweb-ru-vps monitoring cluster &#43; vpn-watch (RU reachability vantage)](https://github.com/sanchpet/homelab/pull/39) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (today)
-- [itdoginfo/podkop](https://github.com/itdoginfo/podkop) - Dev podkop (today)
-- [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies (2 days ago)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (3 days ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (4 days ago)
+- [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (1 day ago)
+- [itdoginfo/podkop](https://github.com/itdoginfo/podkop) - Dev podkop (1 day ago)
+- [kutovoys/xray-checker](https://github.com/kutovoys/xray-checker) - Xray Checker: A Prometheus exporter for monitoring Xray proxies (3 days ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (4 days ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
