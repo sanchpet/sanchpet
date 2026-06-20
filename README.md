@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(generate-manifest): pin sort to LC_ALL=C for cross-platform determinism](https://github.com/TserenTserenov/FMT-exocortex-template/pull/202) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (today)
+- [fix: replace maintainer-personal §9 with neutral L3 stub in CLAUDE.md](https://github.com/TserenTserenov/FMT-exocortex-template/pull/200) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (today)
 - [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 - [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (2 days ago)
 - [docs: add mise installation instructions](https://github.com/lexfrei/claudeline/pull/25) on [lexfrei/claudeline](https://github.com/lexfrei/claudeline) (2 days ago)
-- [fix(settings): restart panel when subscription server settings change](https://github.com/batonogov/terraform-provider-threexui/pull/292) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (3 days ago)
-- [feat: sweb-ru-vps monitoring cluster &#43; vpn-watch (RU reachability vantage)](https://github.com/sanchpet/homelab/pull/39) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (3 days ago)
 
 ### 📓 Gists I wrote
 
