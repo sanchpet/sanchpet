@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (3 days ago)
-- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (3 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (4 days ago)
+- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (4 days ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(generate-manifest): pin sort to LC_ALL=C for cross-platform determinism](https://github.com/TserenTserenov/FMT-exocortex-template/pull/202) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 day ago)
-- [fix: replace maintainer-personal §9 with neutral L3 stub in CLAUDE.md](https://github.com/TserenTserenov/FMT-exocortex-template/pull/200) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 day ago)
-- [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (3 days ago)
-- [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (3 days ago)
-- [docs: add mise installation instructions](https://github.com/lexfrei/claudeline/pull/25) on [lexfrei/claudeline](https://github.com/lexfrei/claudeline) (3 days ago)
+- [fix(generate-manifest): pin sort to LC_ALL=C for cross-platform determinism](https://github.com/TserenTserenov/FMT-exocortex-template/pull/202) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (2 days ago)
+- [fix: replace maintainer-personal §9 with neutral L3 stub in CLAUDE.md](https://github.com/TserenTserenov/FMT-exocortex-template/pull/200) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (2 days ago)
+- [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (4 days ago)
+- [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (4 days ago)
+- [docs: add mise installation instructions](https://github.com/lexfrei/claudeline/pull/25) on [lexfrei/claudeline](https://github.com/lexfrei/claudeline) (4 days ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [pokrovskiyv/FPF-agent](https://github.com/pokrovskiyv/FPF-agent) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (2 days ago)
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (2 days ago)
-- [itdoginfo/allow-domains](https://github.com/itdoginfo/allow-domains) - List of blocked domains (2 days ago)
-- [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (3 days ago)
-- [itdoginfo/podkop](https://github.com/itdoginfo/podkop) - Dev podkop (3 days ago)
+- [pokrovskiyv/FPF-agent](https://github.com/pokrovskiyv/FPF-agent) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (3 days ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (3 days ago)
+- [itdoginfo/allow-domains](https://github.com/itdoginfo/allow-domains) - List of blocked domains (3 days ago)
+- [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (4 days ago)
+- [itdoginfo/podkop](https://github.com/itdoginfo/podkop) - Dev podkop (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
