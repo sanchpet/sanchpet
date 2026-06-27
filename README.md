@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(gitops): remove orphaned pre-ADR-0001 tree (infrastructure/ &#43; apps/base/anylink)](https://github.com/sanchpet/homelab/pull/47) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(gitops): hoist cert-manager CRDs (remote resource, gated — both clusters)](https://github.com/sanchpet/homelab/pull/49) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [docs(gitops): rewrite kubernetes/README for the ADR-0001 layout](https://github.com/sanchpet/homelab/pull/48) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [chore(gitops): complete migration — remove old tree &#43; rewrite README](https://github.com/sanchpet/homelab/pull/47) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [fix(gitops): usa reconcile blocked — explicit root kustomization (stop autodetect recursion)](https://github.com/sanchpet/homelab/pull/46) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [cutover(ger) → main: migrate ips-ger-vps to ADR-0001 — DO NOT MERGE before usa #44](https://github.com/sanchpet/homelab/pull/45) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [cutover(usa) → main: migrate ips-usa-vps-2 to ADR-0001 (corrected target)](https://github.com/sanchpet/homelab/pull/44) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [cutover(ger): migrate ips-ger-vps to ADR-0001 layout — DO NOT MERGE before usa #42](https://github.com/sanchpet/homelab/pull/43) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
