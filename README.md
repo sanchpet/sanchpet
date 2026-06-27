@@ -90,8 +90,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 week ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 week ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (2 weeks ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(gitops): per-cluster Flux layout (ADR-0001 / WP-050) — catalogs &#43; inert staging](https://github.com/sanchpet/homelab/pull/41) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(generate-manifest): pin sort to LC_ALL=C for cross-platform determinism](https://github.com/TserenTserenov/FMT-exocortex-template/pull/202) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
-- [fix: replace maintainer-personal §9 with neutral L3 stub in CLAUDE.md](https://github.com/TserenTserenov/FMT-exocortex-template/pull/200) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
-- [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 week ago)
-- [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (1 week ago)
+- [chore(gitops): remove orphaned pre-ADR-0001 tree (infrastructure/ &#43; apps/base/anylink)](https://github.com/sanchpet/homelab/pull/47) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [fix(gitops): usa reconcile blocked — explicit root kustomization (stop autodetect recursion)](https://github.com/sanchpet/homelab/pull/46) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [cutover(ger) → main: migrate ips-ger-vps to ADR-0001 — DO NOT MERGE before usa #44](https://github.com/sanchpet/homelab/pull/45) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [cutover(usa) → main: migrate ips-usa-vps-2 to ADR-0001 (corrected target)](https://github.com/sanchpet/homelab/pull/44) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [cutover(ger): migrate ips-ger-vps to ADR-0001 layout — DO NOT MERGE before usa #42](https://github.com/sanchpet/homelab/pull/43) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
