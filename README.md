@@ -90,7 +90,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
 - [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 week ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 week ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
@@ -106,8 +106,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(generate-manifest): pin sort to LC_ALL=C for cross-platform determinism](https://github.com/TserenTserenov/FMT-exocortex-template/pull/202) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (6 days ago)
-- [fix: replace maintainer-personal §9 with neutral L3 stub in CLAUDE.md](https://github.com/TserenTserenov/FMT-exocortex-template/pull/200) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (6 days ago)
+- [fix(generate-manifest): pin sort to LC_ALL=C for cross-platform determinism](https://github.com/TserenTserenov/FMT-exocortex-template/pull/202) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
+- [fix: replace maintainer-personal §9 with neutral L3 stub in CLAUDE.md](https://github.com/TserenTserenov/FMT-exocortex-template/pull/200) on [TserenTserenov/FMT-exocortex-template](https://github.com/TserenTserenov/FMT-exocortex-template) (1 week ago)
 - [feat(threexui): USA panel Terraform onboarding &#43; GER parity](https://github.com/sanchpet/homelab/pull/40) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 week ago)
 - [fix: keep client_id stable so metadata edits update in-place](https://github.com/batonogov/terraform-provider-threexui/pull/298) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (1 week ago)
 - [docs: add mise installation instructions](https://github.com/lexfrei/claudeline/pull/25) on [lexfrei/claudeline](https://github.com/lexfrei/claudeline) (1 week ago)
