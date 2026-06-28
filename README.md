@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(vault): single-node Vault on ips-ger-vps-2 (re-homed onto ADR-0001)](https://github.com/sanchpet/homelab/pull/51) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(gitops): hoist cert-manager CRDs (remote resource, gated — both clusters)](https://github.com/sanchpet/homelab/pull/49) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [docs(gitops): rewrite kubernetes/README for the ADR-0001 layout](https://github.com/sanchpet/homelab/pull/48) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [chore(gitops): complete migration — remove old tree &#43; rewrite README](https://github.com/sanchpet/homelab/pull/47) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [fix(gitops): usa reconcile blocked — explicit root kustomization (stop autodetect recursion)](https://github.com/sanchpet/homelab/pull/46) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [cutover(ger) → main: migrate ips-ger-vps to ADR-0001 — DO NOT MERGE before usa #44](https://github.com/sanchpet/homelab/pull/45) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
