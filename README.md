@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (today)
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (1 day ago)
 - [pokrovskiyv/FPF-agent](https://github.com/pokrovskiyv/FPF-agent) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (1 week ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 week ago)
 - [itdoginfo/allow-domains](https://github.com/itdoginfo/allow-domains) - List of blocked domains (1 week ago)
-- [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
