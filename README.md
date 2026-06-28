@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 week ago)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (2 weeks ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(gitops): hoist cert-manager CRDs (remote resource, gated — both clusters)](https://github.com/sanchpet/homelab/pull/49) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [docs(gitops): rewrite kubernetes/README for the ADR-0001 layout](https://github.com/sanchpet/homelab/pull/48) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [chore(gitops): complete migration — remove old tree &#43; rewrite README](https://github.com/sanchpet/homelab/pull/47) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(gitops): usa reconcile blocked — explicit root kustomization (stop autodetect recursion)](https://github.com/sanchpet/homelab/pull/46) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [cutover(ger) → main: migrate ips-ger-vps to ADR-0001 — DO NOT MERGE before usa #44](https://github.com/sanchpet/homelab/pull/45) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(gitops): hoist cert-manager CRDs (remote resource, gated — both clusters)](https://github.com/sanchpet/homelab/pull/49) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [docs(gitops): rewrite kubernetes/README for the ADR-0001 layout](https://github.com/sanchpet/homelab/pull/48) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [chore(gitops): complete migration — remove old tree &#43; rewrite README](https://github.com/sanchpet/homelab/pull/47) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(gitops): usa reconcile blocked — explicit root kustomization (stop autodetect recursion)](https://github.com/sanchpet/homelab/pull/46) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [cutover(ger) → main: migrate ips-ger-vps to ADR-0001 — DO NOT MERGE before usa #44](https://github.com/sanchpet/homelab/pull/45) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,7 +118,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (today)
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (1 day ago)
 - [pokrovskiyv/FPF-agent](https://github.com/pokrovskiyv/FPF-agent) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (1 week ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 week ago)
 - [itdoginfo/allow-domains](https://github.com/itdoginfo/allow-domains) - List of blocked domains (1 week ago)
