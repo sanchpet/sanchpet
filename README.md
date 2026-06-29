@@ -92,8 +92,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(release): list manifest in SHA256SUMS](https://github.com/sanchpet/terraform-provider-sweb/pull/5) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [feat(terraform): sweb-vps module &#43; infra-hub import unit](https://github.com/sanchpet/homelab/pull/54) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [release-readiness: registry manifest asset &#43; idiomatic timeouts block](https://github.com/sanchpet/terraform-provider-sweb/pull/4) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [docs: generate registry docs (tfplugindocs)](https://github.com/sanchpet/terraform-provider-sweb/pull/3) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [feat(vps): configurator mode for create (--cpu/--ram/--disk)](https://github.com/sanchpet/sweb/pull/6) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [feat(vps): add GetConstructorPlanID (configurator)](https://github.com/sanchpet/sweb-go-sdk/pull/5) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
