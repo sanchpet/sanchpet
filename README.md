@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (5 days ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings &amp; Xray config as code. GitOps for your VPN panel.    (1 week ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (2 weeks ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [docs(claude): align CLAUDE.md with ADR-0001 layout &#43; ADR-0002 bootstrap](https://github.com/sanchpet/homelab/pull/53) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(vault): drop SOPS decryption on the Vault cluster apps](https://github.com/sanchpet/homelab/pull/52) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(vault): single-node Vault on ips-ger-vps-2 (re-homed onto ADR-0001)](https://github.com/sanchpet/homelab/pull/51) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(gitops): hoist cert-manager CRDs (remote resource, gated — both clusters)](https://github.com/sanchpet/homelab/pull/49) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [docs(gitops): rewrite kubernetes/README for the ADR-0001 layout](https://github.com/sanchpet/homelab/pull/48) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [docs(claude): align CLAUDE.md with ADR-0001 layout &#43; ADR-0002 bootstrap](https://github.com/sanchpet/homelab/pull/53) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(vault): drop SOPS decryption on the Vault cluster apps](https://github.com/sanchpet/homelab/pull/52) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(vault): single-node Vault on ips-ger-vps-2 (re-homed onto ADR-0001)](https://github.com/sanchpet/homelab/pull/51) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(gitops): hoist cert-manager CRDs (remote resource, gated — both clusters)](https://github.com/sanchpet/homelab/pull/49) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
+- [docs(gitops): rewrite kubernetes/README for the ADR-0001 layout](https://github.com/sanchpet/homelab/pull/48) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -118,9 +118,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps (today)
-- [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (today)
-- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (1 day ago)
+- [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps (1 day ago)
+- [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (1 day ago)
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (2 days ago)
 - [pokrovskiyv/FPF-agent](https://github.com/pokrovskiyv/FPF-agent) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (1 week ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 week ago)
 
