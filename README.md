@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(release): list manifest in SHA256SUMS](https://github.com/sanchpet/terraform-provider-sweb/pull/5) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [feat(terraform): sweb-vps module &#43; infra-hub import unit](https://github.com/sanchpet/homelab/pull/54) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [release-readiness: registry manifest asset &#43; idiomatic timeouts block](https://github.com/sanchpet/terraform-provider-sweb/pull/4) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [docs: generate registry docs (tfplugindocs)](https://github.com/sanchpet/terraform-provider-sweb/pull/3) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [feat(vps): configurator mode for create (--cpu/--ram/--disk)](https://github.com/sanchpet/sweb/pull/6) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [fix(release): list manifest in SHA256SUMS](https://github.com/sanchpet/terraform-provider-sweb/pull/5) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [feat(terraform): sweb-vps module &#43; infra-hub import unit](https://github.com/sanchpet/homelab/pull/54) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [release-readiness: registry manifest asset &#43; idiomatic timeouts block](https://github.com/sanchpet/terraform-provider-sweb/pull/4) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [docs: generate registry docs (tfplugindocs)](https://github.com/sanchpet/terraform-provider-sweb/pull/3) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [feat(vps): configurator mode for create (--cpu/--ram/--disk)](https://github.com/sanchpet/sweb/pull/6) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,10 +118,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [yandex-cloud/go-sdk](https://github.com/yandex-cloud/go-sdk) - Yandex.Cloud Go SDK (today)
-- [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps (1 day ago)
-- [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (1 day ago)
-- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (2 days ago)
+- [yandex-cloud/go-sdk](https://github.com/yandex-cloud/go-sdk) - Yandex.Cloud Go SDK (1 day ago)
+- [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps (2 days ago)
+- [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (2 days ago)
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (3 days ago)
 - [pokrovskiyv/FPF-agent](https://github.com/pokrovskiyv/FPF-agent) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (1 week ago)
 
 ### 👯 Check out some of my recent followers
