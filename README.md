@@ -107,7 +107,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 🔨 My recent Pull Requests
 
 - [fix(release): list manifest in SHA256SUMS](https://github.com/sanchpet/terraform-provider-sweb/pull/5) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [feat(terraform): sweb-vps module &#43; infra-hub import unit](https://github.com/sanchpet/homelab/pull/54) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(terraform): sweb-vps node-group module &#43; import infra-01](https://github.com/sanchpet/homelab/pull/54) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [release-readiness: registry manifest asset &#43; idiomatic timeouts block](https://github.com/sanchpet/terraform-provider-sweb/pull/4) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
 - [docs: generate registry docs (tfplugindocs)](https://github.com/sanchpet/terraform-provider-sweb/pull/3) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
 - [feat(vps): configurator mode for create (--cpu/--ram/--disk)](https://github.com/sanchpet/sweb/pull/6) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
