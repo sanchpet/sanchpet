@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix: render fractional plan price; bump sweb-go-sdk to v0.2.1](https://github.com/sanchpet/sweb/pull/9) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [fix: bump sweb-go-sdk to v0.2.1 (float64 money fields)](https://github.com/sanchpet/terraform-provider-sweb/pull/8) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [fix: decode money fields as float64 (plan_price, price_per_month)](https://github.com/sanchpet/sweb-go-sdk/pull/7) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat: provision &#43; bootstrap sweb-infra (3-node k3s stacked-HA)](https://github.com/sanchpet/homelab/pull/56) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(r014-02): каркас модуля &#43; read-only RBAC для k8s incident-агента](https://github.com/sanchpet/learning-monorepo/pull/1) on [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) (today)
-- [feat(sandbox): pull incident-agent read-only RBAC from learning-monorepo](https://github.com/sanchpet/homelab/pull/55) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(vps): keep stable computed fields out of the rename plan](https://github.com/sanchpet/terraform-provider-sweb/pull/7) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [feat: add &#39;sweb token&#39; for env-based tooling](https://github.com/sanchpet/sweb/pull/8) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [feat(vps): add &#39;vps rename&#39; command](https://github.com/sanchpet/sweb/pull/7) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (today)
 - [yandex-cloud/go-sdk](https://github.com/yandex-cloud/go-sdk) - Yandex.Cloud Go SDK (2 days ago)
 - [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps (3 days ago)
 - [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (3 days ago)
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (4 days ago)
-- [pokrovskiyv/FPF-agent](https://github.com/pokrovskiyv/FPF-agent) - First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
