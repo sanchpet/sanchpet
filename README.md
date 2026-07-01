@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix: render fractional plan price; bump sweb-go-sdk to v0.2.1](https://github.com/sanchpet/sweb/pull/9) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat: add VPS.GetFirstOrderInfo (getFirstOrderInfo)](https://github.com/sanchpet/sweb-go-sdk/pull/9) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [chore: bump sweb-go-sdk to v0.3.0 (hardened List decode)](https://github.com/sanchpet/terraform-provider-sweb/pull/9) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: reconcile VPS (index) with the real API &#43; FlexInt/FlexFloat](https://github.com/sanchpet/sweb-go-sdk/pull/8) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [fix: fractional price rendering &#43; bump sweb-go-sdk to v0.3.0](https://github.com/sanchpet/sweb/pull/9) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 - [fix: bump sweb-go-sdk to v0.2.1 (float64 money fields)](https://github.com/sanchpet/terraform-provider-sweb/pull/8) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [fix: decode money fields as float64 (plan_price, price_per_month)](https://github.com/sanchpet/sweb-go-sdk/pull/7) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat: provision &#43; bootstrap sweb-infra (3-node k3s stacked-HA)](https://github.com/sanchpet/homelab/pull/56) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(r014-02): каркас модуля &#43; read-only RBAC для k8s incident-агента](https://github.com/sanchpet/learning-monorepo/pull/1) on [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) (today)
 
 ### 📓 Gists I wrote
 
