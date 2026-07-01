@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: &#39;vps change-plan --wait&#39; blocks until the resize settles](https://github.com/sanchpet/sweb/pull/14) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [feat: add VPS.WaitForIdle (poll until current_action settles)](https://github.com/sanchpet/sweb-go-sdk/pull/13) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [fix: bump sweb-go-sdk to v0.6.1 (changePlan planId)](https://github.com/sanchpet/sweb/pull/13) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [fix: changePlan parameter is &#34;planId&#34;, not &#34;vpsPlanId&#34;](https://github.com/sanchpet/sweb-go-sdk/pull/12) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat: &#39;vps change-plan&#39; accepts configurator flags](https://github.com/sanchpet/sweb/pull/12) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.3.0](https://github.com/sanchpet/terraform-provider-sweb/pull/16) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [ci: allow manual release-please runs (workflow_dispatch)](https://github.com/sanchpet/terraform-provider-sweb/pull/15) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/terraform-provider-sweb/pull/14) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/sweb/pull/17) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/sweb-go-sdk/pull/16) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
