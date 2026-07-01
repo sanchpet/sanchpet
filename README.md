@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (2 days ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (2 days ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (2 days ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (3 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(release): list manifest in SHA256SUMS](https://github.com/sanchpet/terraform-provider-sweb/pull/5) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 days ago)
-- [feat(terraform): sweb-vps node-group module &#43; import infra-01](https://github.com/sanchpet/homelab/pull/54) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
-- [release-readiness: registry manifest asset &#43; idiomatic timeouts block](https://github.com/sanchpet/terraform-provider-sweb/pull/4) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 days ago)
-- [docs: generate registry docs (tfplugindocs)](https://github.com/sanchpet/terraform-provider-sweb/pull/3) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 days ago)
-- [feat(vps): configurator mode for create (--cpu/--ram/--disk)](https://github.com/sanchpet/sweb/pull/6) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (2 days ago)
+- [feat(r014-02): каркас модуля &#43; read-only RBAC для k8s incident-агента](https://github.com/sanchpet/learning-monorepo/pull/1) on [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) (today)
+- [feat(sandbox): pull incident-agent read-only RBAC from learning-monorepo](https://github.com/sanchpet/homelab/pull/55) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(vps): keep stable computed fields out of the rename plan](https://github.com/sanchpet/terraform-provider-sweb/pull/7) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: add &#39;sweb token&#39; for env-based tooling](https://github.com/sanchpet/sweb/pull/8) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat(vps): add &#39;vps rename&#39; command](https://github.com/sanchpet/sweb/pull/7) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 
 ### 📓 Gists I wrote
 
