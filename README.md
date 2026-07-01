@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: add VPS.GetFirstOrderInfo (getFirstOrderInfo)](https://github.com/sanchpet/sweb-go-sdk/pull/9) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [chore: bump sweb-go-sdk to v0.3.0 (hardened List decode)](https://github.com/sanchpet/terraform-provider-sweb/pull/9) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [feat: reconcile VPS (index) with the real API &#43; FlexInt/FlexFloat](https://github.com/sanchpet/sweb-go-sdk/pull/8) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [fix: fractional price rendering &#43; bump sweb-go-sdk to v0.3.0](https://github.com/sanchpet/sweb/pull/9) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [fix: bump sweb-go-sdk to v0.2.1 (float64 money fields)](https://github.com/sanchpet/terraform-provider-sweb/pull/8) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: &#39;vps change-plan --wait&#39; blocks until the resize settles](https://github.com/sanchpet/sweb/pull/14) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat: add VPS.WaitForIdle (poll until current_action settles)](https://github.com/sanchpet/sweb-go-sdk/pull/13) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [fix: bump sweb-go-sdk to v0.6.1 (changePlan planId)](https://github.com/sanchpet/sweb/pull/13) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [fix: changePlan parameter is &#34;planId&#34;, not &#34;vpsPlanId&#34;](https://github.com/sanchpet/sweb-go-sdk/pull/12) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat: &#39;vps change-plan&#39; accepts configurator flags](https://github.com/sanchpet/sweb/pull/12) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 
 ### 📓 Gists I wrote
 
