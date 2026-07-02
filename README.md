@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: terraform-owned Cilium CNI &#43; environment-based terraform layout](https://github.com/sanchpet/homelab/pull/58) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [chore(main): release 0.5.3](https://github.com/sanchpet/terraform-provider-sweb/pull/28) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [fix: correct ssh_key description (public key content, not a key id)](https://github.com/sanchpet/terraform-provider-sweb/pull/27) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [chore(main): release 0.5.2](https://github.com/sanchpet/terraform-provider-sweb/pull/26) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [fix: bump sweb-go-sdk to v0.8.2 (local_ip object-shape decode)](https://github.com/sanchpet/terraform-provider-sweb/pull/25) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [chore(main): release 0.9.2](https://github.com/sanchpet/sweb/pull/25) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 
 ### 📓 Gists I wrote
 
