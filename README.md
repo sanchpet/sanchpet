@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(main): release 0.5.0](https://github.com/sanchpet/terraform-provider-sweb/pull/22) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [feat: add sweb_vps_local_network resource (private network attach)](https://github.com/sanchpet/terraform-provider-sweb/pull/21) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [chore(main): release 0.8.0](https://github.com/sanchpet/sweb/pull/19) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [feat: add &#39;vps local-ip&#39; (private network attach/detach/show)](https://github.com/sanchpet/sweb/pull/18) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [chore(main): release 0.8.0](https://github.com/sanchpet/sweb-go-sdk/pull/18) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [chore(main): release 0.5.2](https://github.com/sanchpet/terraform-provider-sweb/pull/26) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [fix: bump sweb-go-sdk to v0.8.2 (local_ip object-shape decode)](https://github.com/sanchpet/terraform-provider-sweb/pull/25) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [chore(main): release 0.9.2](https://github.com/sanchpet/sweb/pull/25) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [fix: bump sweb-go-sdk to v0.8.2 (local_ip object-shape decode)](https://github.com/sanchpet/sweb/pull/24) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.8.2](https://github.com/sanchpet/sweb-go-sdk/pull/22) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
