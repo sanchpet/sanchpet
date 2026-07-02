@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(main): release 0.3.0](https://github.com/sanchpet/terraform-provider-sweb/pull/16) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [ci: allow manual release-please runs (workflow_dispatch)](https://github.com/sanchpet/terraform-provider-sweb/pull/15) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/terraform-provider-sweb/pull/14) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/sweb/pull/17) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/sweb-go-sdk/pull/16) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [chore(main): release 0.3.0](https://github.com/sanchpet/terraform-provider-sweb/pull/16) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [ci: allow manual release-please runs (workflow_dispatch)](https://github.com/sanchpet/terraform-provider-sweb/pull/15) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/terraform-provider-sweb/pull/14) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/sweb/pull/17) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
+- [ci: use RELEASE_PLEASE_TOKEN (PAT) for release-please](https://github.com/sanchpet/sweb-go-sdk/pull/16) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (today)
-- [yandex-cloud/go-sdk](https://github.com/yandex-cloud/go-sdk) - Yandex.Cloud Go SDK (2 days ago)
-- [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps (3 days ago)
-- [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (3 days ago)
-- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (4 days ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (1 day ago)
+- [yandex-cloud/go-sdk](https://github.com/yandex-cloud/go-sdk) - Yandex.Cloud Go SDK (3 days ago)
+- [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps (4 days ago)
+- [controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap](https://github.com/controlplaneio-fluxcd/terraform-kubernetes-flux-operator-bootstrap) - Terraform module to bootstrap Flux Operator on Kubernetes clusters (4 days ago)
+- [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
