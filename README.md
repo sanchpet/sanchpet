@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(vault): pull chart from a ghcr OCI mirror (RU geo-block)](https://github.com/sanchpet/homelab/pull/67) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [fix(k8s-cilium): grant Envoy NET_BIND_SERVICE (full default caps)](https://github.com/sanchpet/homelab/pull/66) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(sweb-infra): Vault (HA raft ×3) — apps layer](https://github.com/sanchpet/homelab/pull/65) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(k8s-cilium): roll cilium pods on config change (values-hash annotation)](https://github.com/sanchpet/homelab/pull/64) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [fix(k8s-cilium): don&#39;t clobber Envoy datapath capabilities](https://github.com/sanchpet/homelab/pull/63) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(k8s-cilium): host-network Gateway API — drop klipper/ServiceLB](https://github.com/sanchpet/homelab/pull/62) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(sweb-infra): config layer — public-tls issuers &#43; Cilium main gateway](https://github.com/sanchpet/homelab/pull/61) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(sweb-infra): platform layer (cert-manager &#43; reloader) &#43; gateway-nginx bundle split](https://github.com/sanchpet/homelab/pull/60) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(flux): seed sweb-infra (self-managed Flux, minimal root)](https://github.com/sanchpet/homelab/pull/59) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
