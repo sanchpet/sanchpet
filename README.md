@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(k8s-cilium): don&#39;t clobber Envoy datapath capabilities](https://github.com/sanchpet/homelab/pull/63) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(k8s-cilium): host-network Gateway API — drop klipper/ServiceLB](https://github.com/sanchpet/homelab/pull/62) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(sweb-infra): config layer — public-tls issuers &#43; Cilium main gateway](https://github.com/sanchpet/homelab/pull/61) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(sweb-infra): platform layer (cert-manager &#43; reloader) &#43; gateway-nginx bundle split](https://github.com/sanchpet/homelab/pull/60) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(flux): seed sweb-infra (self-managed Flux, minimal root)](https://github.com/sanchpet/homelab/pull/59) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat: terraform-owned Cilium CNI &#43; environment-based terraform layout](https://github.com/sanchpet/homelab/pull/58) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [chore(main): release 0.5.3](https://github.com/sanchpet/terraform-provider-sweb/pull/28) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [fix: correct ssh_key description (public key content, not a key id)](https://github.com/sanchpet/terraform-provider-sweb/pull/27) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (today)
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (today)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 day ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 day ago)
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (2 days ago)
-- [yandex-cloud/go-sdk](https://github.com/yandex-cloud/go-sdk) - Yandex.Cloud Go SDK (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
