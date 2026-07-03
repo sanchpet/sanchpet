@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(sweb-infra): platform layer (cert-manager &#43; reloader) &#43; gateway-nginx bundle split](https://github.com/sanchpet/homelab/pull/60) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(flux): seed sweb-infra (self-managed Flux, minimal root)](https://github.com/sanchpet/homelab/pull/59) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat: terraform-owned Cilium CNI &#43; environment-based terraform layout](https://github.com/sanchpet/homelab/pull/58) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [chore(main): release 0.5.3](https://github.com/sanchpet/terraform-provider-sweb/pull/28) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
 - [fix: correct ssh_key description (public key content, not a key id)](https://github.com/sanchpet/terraform-provider-sweb/pull/27) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [chore(main): release 0.5.2](https://github.com/sanchpet/terraform-provider-sweb/pull/26) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
 
 ### 📓 Gists I wrote
 
