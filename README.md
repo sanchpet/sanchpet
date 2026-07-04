@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(sweb-infra): vaultwarden (app-template) — apps layer](https://github.com/sanchpet/homelab/pull/68) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(vault): pull chart from a ghcr OCI mirror (RU geo-block)](https://github.com/sanchpet/homelab/pull/67) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [fix(k8s-cilium): grant Envoy NET_BIND_SERVICE (full default caps)](https://github.com/sanchpet/homelab/pull/66) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [feat(sweb-infra): Vault (HA raft ×3) — apps layer](https://github.com/sanchpet/homelab/pull/65) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [feat(k8s-cilium): roll cilium pods on config change (values-hash annotation)](https://github.com/sanchpet/homelab/pull/64) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [fix(k8s-cilium): don&#39;t clobber Envoy datapath capabilities](https://github.com/sanchpet/homelab/pull/63) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
