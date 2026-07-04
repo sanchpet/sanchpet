@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (2 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (2 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(vault): pull chart from a ghcr OCI mirror (RU geo-block)](https://github.com/sanchpet/homelab/pull/67) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(k8s-cilium): grant Envoy NET_BIND_SERVICE (full default caps)](https://github.com/sanchpet/homelab/pull/66) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(sweb-infra): Vault (HA raft ×3) — apps layer](https://github.com/sanchpet/homelab/pull/65) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(k8s-cilium): roll cilium pods on config change (values-hash annotation)](https://github.com/sanchpet/homelab/pull/64) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(k8s-cilium): don&#39;t clobber Envoy datapath capabilities](https://github.com/sanchpet/homelab/pull/63) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(vault): pull chart from a ghcr OCI mirror (RU geo-block)](https://github.com/sanchpet/homelab/pull/67) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(k8s-cilium): grant Envoy NET_BIND_SERVICE (full default caps)](https://github.com/sanchpet/homelab/pull/66) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(sweb-infra): Vault (HA raft ×3) — apps layer](https://github.com/sanchpet/homelab/pull/65) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(k8s-cilium): roll cilium pods on config change (values-hash annotation)](https://github.com/sanchpet/homelab/pull/64) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(k8s-cilium): don&#39;t clobber Envoy datapath capabilities](https://github.com/sanchpet/homelab/pull/63) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (today)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (today)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 day ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 day ago)
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (2 days ago)
+- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (1 day ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (1 day ago)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (2 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
