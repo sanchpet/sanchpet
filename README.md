@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [refactor(authentik): rename authentik-config → authentik-federation](https://github.com/sanchpet/homelab/pull/77) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat: authentik OIDC apps &#43; fleet Vault KV mount (WP-054 groundwork)](https://github.com/sanchpet/homelab/pull/76) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(authentik): configuration as code — GitHub source &#43; federated admin](https://github.com/sanchpet/homelab/pull/75) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(parents-hub): backport the parents&#39; AmneziaWG reverse-tunnel hub to IaC](https://github.com/sanchpet/homelab/pull/74) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(sweb-infra): authentik SSO/OIDC provider](https://github.com/sanchpet/homelab/pull/72) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(authentik): grant_types for OIDC &#43; read automation token from Vault](https://github.com/sanchpet/homelab/pull/82) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(vault): OIDC auth via authentik &#43; per-user policies — closes WP-054](https://github.com/sanchpet/homelab/pull/81) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [fix(authentik-federation): ignore oidc_jwks_url drift on the GitHub source](https://github.com/sanchpet/homelab/pull/80) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [docs(vault): break-glass runbook for regenerating the root token](https://github.com/sanchpet/homelab/pull/79) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(authentik): dedicated Terraform automation service account](https://github.com/sanchpet/homelab/pull/78) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
@@ -126,11 +126,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👯 Check out some of my recent followers
 
+- [Peefy](https://github.com/Peefy)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [S4IL21](https://github.com/S4IL21)
 - [lkud3](https://github.com/lkud3)
 - [lafrej8962-design](https://github.com/lafrej8962-design)
-- [TimothyZhang7](https://github.com/TimothyZhang7)
 
 ## Contribution graph
 <div style="text-align: center;">
