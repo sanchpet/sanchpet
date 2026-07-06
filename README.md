@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (today)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (3 days ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (3 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (4 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(authentik): configuration as code — GitHub source &#43; federated admin](https://github.com/sanchpet/homelab/pull/75) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(parents-hub): backport the parents&#39; AmneziaWG reverse-tunnel hub to IaC](https://github.com/sanchpet/homelab/pull/74) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(sweb-infra): authentik SSO/OIDC provider](https://github.com/sanchpet/homelab/pull/72) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(sweb-infra): authentik Postgres (CloudNativePG Cluster) — overlay](https://github.com/sanchpet/homelab/pull/70) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(sweb-infra): CloudNativePG operator — hub Postgres substrate](https://github.com/sanchpet/homelab/pull/69) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(authentik): configuration as code — GitHub source &#43; federated admin](https://github.com/sanchpet/homelab/pull/75) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(parents-hub): backport the parents&#39; AmneziaWG reverse-tunnel hub to IaC](https://github.com/sanchpet/homelab/pull/74) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(sweb-infra): authentik SSO/OIDC provider](https://github.com/sanchpet/homelab/pull/72) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(sweb-infra): authentik Postgres (CloudNativePG Cluster) — overlay](https://github.com/sanchpet/homelab/pull/70) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(sweb-infra): CloudNativePG operator — hub Postgres substrate](https://github.com/sanchpet/homelab/pull/69) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (today)
-- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (2 days ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (2 days ago)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
+- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (1 day ago)
+- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (3 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (3 days ago)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (4 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
