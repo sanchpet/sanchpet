@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(observability): VictoriaMetrics metrics spine on the hub (MVP)](https://github.com/sanchpet/homelab/pull/83) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [fix(authentik): grant_types for OIDC &#43; read automation token from Vault](https://github.com/sanchpet/homelab/pull/82) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(vault): OIDC auth via authentik &#43; per-user policies — closes WP-054](https://github.com/sanchpet/homelab/pull/81) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [fix(authentik-federation): ignore oidc_jwks_url drift on the GitHub source](https://github.com/sanchpet/homelab/pull/80) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [docs(vault): break-glass runbook for regenerating the root token](https://github.com/sanchpet/homelab/pull/79) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(authentik): dedicated Terraform automation service account](https://github.com/sanchpet/homelab/pull/78) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. (today)
 - [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (1 day ago)
 - [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (3 days ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (3 days ago)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (4 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
