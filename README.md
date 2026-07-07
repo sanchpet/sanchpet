@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 day ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (4 days ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (4 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (2 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (5 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(observability): VictoriaMetrics metrics spine on the hub (MVP)](https://github.com/sanchpet/homelab/pull/83) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(authentik): grant_types for OIDC &#43; read automation token from Vault](https://github.com/sanchpet/homelab/pull/82) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(vault): OIDC auth via authentik &#43; per-user policies — closes WP-054](https://github.com/sanchpet/homelab/pull/81) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(authentik-federation): ignore oidc_jwks_url drift on the GitHub source](https://github.com/sanchpet/homelab/pull/80) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [docs(vault): break-glass runbook for regenerating the root token](https://github.com/sanchpet/homelab/pull/79) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(observability): VictoriaMetrics metrics spine on the hub (MVP)](https://github.com/sanchpet/homelab/pull/83) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(authentik): grant_types for OIDC &#43; read automation token from Vault](https://github.com/sanchpet/homelab/pull/82) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(vault): OIDC auth via authentik &#43; per-user policies — closes WP-054](https://github.com/sanchpet/homelab/pull/81) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(authentik-federation): ignore oidc_jwks_url drift on the GitHub source](https://github.com/sanchpet/homelab/pull/80) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [docs(vault): break-glass runbook for regenerating the root token](https://github.com/sanchpet/homelab/pull/79) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (today)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. (today)
-- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (1 day ago)
-- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (3 days ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (3 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. (1 day ago)
+- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (2 days ago)
+- [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper (4 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
