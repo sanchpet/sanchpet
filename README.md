@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(vault): vault-kubernetes-policies — Vault k8s auth &#43; ESO policies (WP-055, 1/2)](https://github.com/sanchpet/homelab/pull/89) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(vault): ESO→Vault auth — per-spoke JWT with pinned JWKS (WP-055)](https://github.com/sanchpet/homelab/pull/88) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [fix(observability): raise vmsingle&#43;grafana memory to stop OOM crashloop](https://github.com/sanchpet/homelab/pull/87) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(observability): expose Grafana &#43; authentik SSO (WP-069)](https://github.com/sanchpet/homelab/pull/86) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [docs(adr): ADR-0004 — secret delivery = ESO primary &#43; scenario matrix](https://github.com/sanchpet/homelab/pull/85) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(authentik): register Grafana as an OIDC application](https://github.com/sanchpet/homelab/pull/84) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(observability): VictoriaMetrics metrics spine on the hub (MVP)](https://github.com/sanchpet/homelab/pull/83) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [fix(authentik): grant_types for OIDC &#43; read automation token from Vault](https://github.com/sanchpet/homelab/pull/82) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
