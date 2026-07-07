@@ -91,7 +91,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (2 days ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (5 days ago)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (5 days ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(observability): expose Grafana &#43; authentik SSO (WP-069)](https://github.com/sanchpet/homelab/pull/86) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [docs(adr): ADR-0004 — secret delivery = ESO primary &#43; scenario matrix](https://github.com/sanchpet/homelab/pull/85) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(authentik): register Grafana as an OIDC application](https://github.com/sanchpet/homelab/pull/84) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(observability): VictoriaMetrics metrics spine on the hub (MVP)](https://github.com/sanchpet/homelab/pull/83) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [fix(authentik): grant_types for OIDC &#43; read automation token from Vault](https://github.com/sanchpet/homelab/pull/82) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(vault): OIDC auth via authentik &#43; per-user policies — closes WP-054](https://github.com/sanchpet/homelab/pull/81) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
