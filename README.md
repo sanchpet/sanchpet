@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (2 days ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (5 days ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (5 days ago)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (3 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (6 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(vault): vault-kubernetes-policies — Vault k8s auth &#43; ESO policies (WP-055, 1/2)](https://github.com/sanchpet/homelab/pull/89) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(vault): ESO→Vault auth — per-spoke JWT with pinned JWKS (WP-055)](https://github.com/sanchpet/homelab/pull/88) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [fix(observability): raise vmsingle&#43;grafana memory to stop OOM crashloop](https://github.com/sanchpet/homelab/pull/87) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(observability): expose Grafana &#43; authentik SSO (WP-069)](https://github.com/sanchpet/homelab/pull/86) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [docs(adr): ADR-0004 — secret delivery = ESO primary &#43; scenario matrix](https://github.com/sanchpet/homelab/pull/85) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(vault): vault-kubernetes-policies — Vault k8s auth &#43; ESO policies (WP-055, 1/2)](https://github.com/sanchpet/homelab/pull/89) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(vault): ESO→Vault auth — per-spoke JWT with pinned JWKS (WP-055)](https://github.com/sanchpet/homelab/pull/88) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [fix(observability): raise vmsingle&#43;grafana memory to stop OOM crashloop](https://github.com/sanchpet/homelab/pull/87) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [feat(observability): expose Grafana &#43; authentik SSO (WP-069)](https://github.com/sanchpet/homelab/pull/86) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [docs(adr): ADR-0004 — secret delivery = ESO primary &#43; scenario matrix](https://github.com/sanchpet/homelab/pull/85) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (today)
-- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (1 day ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. (1 day ago)
-- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (2 days ago)
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 day ago)
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (2 days ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. (2 days ago)
+- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
