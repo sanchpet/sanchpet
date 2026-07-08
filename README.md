@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: off-cluster PVC backup via k8up &#43; S3-only (ADR-0003)](https://github.com/sanchpet/homelab/pull/92) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [docs(claude): secrets — Vault&#43;ESO is the app-secret path, no new SOPS](https://github.com/sanchpet/homelab/pull/91) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(eso): External Secrets Operator on the hub &#43; grafana-oidc migration (WP-055, 2/2)](https://github.com/sanchpet/homelab/pull/90) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(vault): vault-kubernetes-policies — Vault k8s auth &#43; ESO policies (WP-055, 1/2)](https://github.com/sanchpet/homelab/pull/89) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [feat(vault): ESO→Vault auth — per-spoke JWT with pinned JWKS (WP-055)](https://github.com/sanchpet/homelab/pull/88) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [fix(observability): raise vmsingle&#43;grafana memory to stop OOM crashloop](https://github.com/sanchpet/homelab/pull/87) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(observability): expose Grafana &#43; authentik SSO (WP-069)](https://github.com/sanchpet/homelab/pull/86) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
