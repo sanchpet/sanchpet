@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [docs(claude): ADRs live privately in the vault, not docs/adr (opsec)](https://github.com/sanchpet/homelab/pull/95) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [docs(adr): 0003 — two-plane network hardening (private secrets mesh)](https://github.com/sanchpet/homelab/pull/94) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat: off-cluster PVC backup via k8up &#43; S3-only (ADR-0003)](https://github.com/sanchpet/homelab/pull/92) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [docs(claude): secrets — Vault&#43;ESO is the app-secret path, no new SOPS](https://github.com/sanchpet/homelab/pull/91) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [feat(eso): External Secrets Operator on the hub &#43; grafana-oidc migration (WP-055, 2/2)](https://github.com/sanchpet/homelab/pull/90) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(vault): vault-kubernetes-policies — Vault k8s auth &#43; ESO policies (WP-055, 1/2)](https://github.com/sanchpet/homelab/pull/89) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
-- [feat(vault): ESO→Vault auth — per-spoke JWT with pinned JWKS (WP-055)](https://github.com/sanchpet/homelab/pull/88) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (2 days ago)
 
 ### 📓 Gists I wrote
 
