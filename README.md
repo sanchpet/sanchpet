@@ -92,9 +92,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (4 days ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 week ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(vaultwarden): icon privacy &#43; tighter login rate-limit (WP-070)](https://github.com/sanchpet/homelab/pull/97) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(vaultwarden): SMTP outgoing mail via SpaceWeb &#43; ESO (WP-070)](https://github.com/sanchpet/homelab/pull/96) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [docs(claude): ADRs live privately in the vault, not docs/adr (opsec)](https://github.com/sanchpet/homelab/pull/95) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [docs(adr): 0003 — two-plane network hardening (private secrets mesh)](https://github.com/sanchpet/homelab/pull/94) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat: off-cluster PVC backup via k8up &#43; S3-only (ADR-0003)](https://github.com/sanchpet/homelab/pull/92) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [docs(claude): secrets — Vault&#43;ESO is the app-secret path, no new SOPS](https://github.com/sanchpet/homelab/pull/91) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (today)
 - [VictoriaMetrics/vmestimator](https://github.com/VictoriaMetrics/vmestimator) - Real-time Cardinality Estimations for VictoriaMetrics\Prometheus  (1 day ago)
 - [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (1 day ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (2 days ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (2 days ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki &amp; ES. (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
