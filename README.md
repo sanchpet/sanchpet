@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (5 days ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [docs: refresh CLAUDE.md — resources/data-source map, create mutex, Assisted-By](https://github.com/sanchpet/terraform-provider-sweb/pull/31) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [docs: refresh CLAUDE.md — command map, command patterns, Assisted-By trailer](https://github.com/sanchpet/sweb/pull/31) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [docs: refresh CLAUDE.md — file map, API conventions, Assisted-By trailer](https://github.com/sanchpet/sweb-go-sdk/pull/27) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [chore(main): release 0.10.0](https://github.com/sanchpet/sweb/pull/30) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [feat: add &#39;vps start|stop|reboot|status&#39; power/state commands](https://github.com/sanchpet/sweb/pull/29) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.7.0](https://github.com/sanchpet/terraform-provider-sweb/pull/35) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [chore(main): release 0.13.0](https://github.com/sanchpet/sweb/pull/37) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat: add sweb_vps_backup_settings resource](https://github.com/sanchpet/terraform-provider-sweb/pull/34) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: add &#39;vps backup&#39; and &#39;vps cloud-backup&#39; commands](https://github.com/sanchpet/sweb/pull/36) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.12.0](https://github.com/sanchpet/sweb-go-sdk/pull/33) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (today)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (today)
 - [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (today)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 day ago)
 - [VictoriaMetrics/vmestimator](https://github.com/VictoriaMetrics/vmestimator) - Real-time Cardinality Estimations for VictoriaMetrics\Prometheus  (2 days ago)
-- [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
