@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (1 day ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (5 days ago)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(ssh): retire the legacy on-disk operator key](https://github.com/sanchpet/homelab/pull/100) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
+- [feat(ssh): rotate the fleet operator key to the agent-held auth key](https://github.com/sanchpet/homelab/pull/99) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
 - [feat(vaultwarden): mobile push notifications via Bitwarden relay &#43; ESO (WP-070)](https://github.com/sanchpet/homelab/pull/98) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [feat(vaultwarden): icon privacy &#43; tighter login rate-limit (WP-070)](https://github.com/sanchpet/homelab/pull/97) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 - [feat(vaultwarden): SMTP outgoing mail via SpaceWeb &#43; ESO (WP-070)](https://github.com/sanchpet/homelab/pull/96) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [docs(claude): ADRs live privately in the vault, not docs/adr (opsec)](https://github.com/sanchpet/homelab/pull/95) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [docs(adr): 0003 — two-plane network hardening (private secrets mesh)](https://github.com/sanchpet/homelab/pull/94) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
 
 ### 📓 Gists I wrote
 
