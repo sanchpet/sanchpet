@@ -91,26 +91,26 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (5 days ago)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 week ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 week ago)
 
 ### 🌱 My latest projects
 
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk).
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0)
-- [sanchpet/homelab](https://github.com/sanchpet/homelab) - Personal infrastructure as code: Ansible node bootstrap &#43; Flux GitOps on k3s
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо.
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc.
 
 ### 🔨 My recent Pull Requests
 
-- [feat(ssh): retire the legacy on-disk operator key](https://github.com/sanchpet/homelab/pull/100) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(ssh): rotate the fleet operator key to the agent-held auth key](https://github.com/sanchpet/homelab/pull/99) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (today)
-- [feat(vaultwarden): mobile push notifications via Bitwarden relay &#43; ESO (WP-070)](https://github.com/sanchpet/homelab/pull/98) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(vaultwarden): icon privacy &#43; tighter login rate-limit (WP-070)](https://github.com/sanchpet/homelab/pull/97) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
-- [feat(vaultwarden): SMTP outgoing mail via SpaceWeb &#43; ESO (WP-070)](https://github.com/sanchpet/homelab/pull/96) on [sanchpet/homelab](https://github.com/sanchpet/homelab) (1 day ago)
+- [chore(main): release 0.5.3](https://github.com/sanchpet/terraform-provider-sweb/pull/28) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 week ago)
+- [fix: correct ssh_key description (public key content, not a key id)](https://github.com/sanchpet/terraform-provider-sweb/pull/27) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 week ago)
+- [chore(main): release 0.5.2](https://github.com/sanchpet/terraform-provider-sweb/pull/26) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 week ago)
+- [fix: bump sweb-go-sdk to v0.8.2 (local_ip object-shape decode)](https://github.com/sanchpet/terraform-provider-sweb/pull/25) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 week ago)
+- [chore(main): release 0.9.2](https://github.com/sanchpet/sweb/pull/25) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 week ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (today)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 day ago)
 - [VictoriaMetrics/vmestimator](https://github.com/VictoriaMetrics/vmestimator) - Real-time Cardinality Estimations for VictoriaMetrics\Prometheus  (2 days ago)
 - [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (2 days ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (3 days ago)
-- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
