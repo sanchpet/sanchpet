@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (today)
 - [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (today)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 day ago)
 - [VictoriaMetrics/vmestimator](https://github.com/VictoriaMetrics/vmestimator) - Real-time Cardinality Estimations for VictoriaMetrics\Prometheus  (2 days ago)
 - [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (2 days ago)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
