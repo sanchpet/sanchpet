@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (6 days ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(main): release 0.7.0](https://github.com/sanchpet/terraform-provider-sweb/pull/35) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [chore(main): release 0.13.0](https://github.com/sanchpet/sweb/pull/37) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
-- [feat: add sweb_vps_backup_settings resource](https://github.com/sanchpet/terraform-provider-sweb/pull/34) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [feat: add &#39;vps backup&#39; and &#39;vps cloud-backup&#39; commands](https://github.com/sanchpet/sweb/pull/36) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
-- [chore(main): release 0.12.0](https://github.com/sanchpet/sweb-go-sdk/pull/33) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (1 day ago)
+- [chore(main): release 0.15.0](https://github.com/sanchpet/sweb/pull/41) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat: multi-account support via credential profiles](https://github.com/sanchpet/sweb/pull/40) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.14.0](https://github.com/sanchpet/sweb/pull/39) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat: add dns command group](https://github.com/sanchpet/sweb/pull/38) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.13.0](https://github.com/sanchpet/sweb-go-sdk/pull/35) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
