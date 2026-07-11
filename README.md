@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(main): release 0.15.0](https://github.com/sanchpet/sweb/pull/41) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [feat: multi-account support via credential profiles](https://github.com/sanchpet/sweb/pull/40) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [chore(main): release 0.14.0](https://github.com/sanchpet/sweb/pull/39) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [feat: add dns command group](https://github.com/sanchpet/sweb/pull/38) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [chore(main): release 0.13.0](https://github.com/sanchpet/sweb-go-sdk/pull/35) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [chore(main): release 0.15.3](https://github.com/sanchpet/sweb/pull/47) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [fix: put DNS record VALUE last and inline its details](https://github.com/sanchpet/sweb/pull/46) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.15.2](https://github.com/sanchpet/sweb/pull/45) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [fix: bound the DNS records VALUE column width](https://github.com/sanchpet/sweb/pull/44) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.15.1](https://github.com/sanchpet/sweb/pull/43) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 
 ### 📓 Gists I wrote
 
