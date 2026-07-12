@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.10.0](https://github.com/sanchpet/terraform-provider-sweb/pull/41) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: add sweb_dns_srv_record for SRV records](https://github.com/sanchpet/terraform-provider-sweb/pull/40) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [chore(main): release 0.9.0](https://github.com/sanchpet/terraform-provider-sweb/pull/39) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [feat: add sweb_dns_record for A/AAAA/CNAME/MX/TXT/NS records](https://github.com/sanchpet/terraform-provider-sweb/pull/38) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [chore(main): release 0.8.0](https://github.com/sanchpet/terraform-provider-sweb/pull/37) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [feat: add domain subdomain/redirect resources and a domain data source](https://github.com/sanchpet/terraform-provider-sweb/pull/36) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [docs: confirm the JSON-RPC error shape against real responses](https://github.com/sanchpet/sweb-go-sdk/pull/43) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
