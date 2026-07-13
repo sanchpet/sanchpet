@@ -90,8 +90,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(monitoring): add monitoring, checks, and contacts services](https://github.com/sanchpet/sweb-go-sdk/pull/60) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(ssl): add VPS SSL-certificate service](https://github.com/sanchpet/sweb-go-sdk/pull/59) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(dbaas): add managed-database service](https://github.com/sanchpet/sweb-go-sdk/pull/58) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(balancer): add load-balancer service](https://github.com/sanchpet/sweb-go-sdk/pull/57) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [chore(api-spec): report SDK method coverage per API object](https://github.com/sanchpet/sweb-go-sdk/pull/56) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [chore(api-spec): refresh coverage board to 100%](https://github.com/sanchpet/sweb-go-sdk/pull/81) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat(sweb): wire M2/M3/M4 services into the facade](https://github.com/sanchpet/sweb-go-sdk/pull/80) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat(partner): add partner-program service](https://github.com/sanchpet/sweb-go-sdk/pull/79) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat(pay): add billing/pay service](https://github.com/sanchpet/sweb-go-sdk/pull/78) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat(persons): add domain-registrant persons service](https://github.com/sanchpet/sweb-go-sdk/pull/77) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
