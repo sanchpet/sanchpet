@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(api-spec): refresh coverage board to 100%](https://github.com/sanchpet/sweb-go-sdk/pull/81) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(sweb): wire M2/M3/M4 services into the facade](https://github.com/sanchpet/sweb-go-sdk/pull/80) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(partner): add partner-program service](https://github.com/sanchpet/sweb-go-sdk/pull/79) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(pay): add billing/pay service](https://github.com/sanchpet/sweb-go-sdk/pull/78) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(persons): add domain-registrant persons service](https://github.com/sanchpet/sweb-go-sdk/pull/77) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [chore(deps): bump sweb-go-sdk to v0.16.1](https://github.com/sanchpet/sweb/pull/76) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.12.0](https://github.com/sanchpet/terraform-provider-sweb/pull/46) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [chore(main): release 0.16.1](https://github.com/sanchpet/sweb-go-sdk/pull/83) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat(mailbox): add sweb_mailbox resource](https://github.com/sanchpet/terraform-provider-sweb/pull/45) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [fix(sdk): decode single-object VH results correctly](https://github.com/sanchpet/sweb-go-sdk/pull/82) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
