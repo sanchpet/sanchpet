@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: add sweb_letsencrypt resource](https://github.com/sanchpet/terraform-provider-sweb/pull/48) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: hosting database, site and cron resources](https://github.com/sanchpet/terraform-provider-sweb/pull/47) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [chore(deps): bump sweb-go-sdk to v0.16.1](https://github.com/sanchpet/sweb/pull/76) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 - [chore(main): release 0.12.0](https://github.com/sanchpet/terraform-provider-sweb/pull/46) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [chore(main): release 0.16.1](https://github.com/sanchpet/sweb-go-sdk/pull/83) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [feat(mailbox): add sweb_mailbox resource](https://github.com/sanchpet/terraform-provider-sweb/pull/45) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [fix(sdk): decode single-object VH results correctly](https://github.com/sanchpet/sweb-go-sdk/pull/82) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
