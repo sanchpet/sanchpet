@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.11.0](https://github.com/sanchpet/terraform-provider-sweb/pull/43) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [docs: show how to export a DNS zone to Terraform](https://github.com/sanchpet/sweb/pull/56) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat: tf-dns-import helper to adopt an existing DNS zone](https://github.com/sanchpet/terraform-provider-sweb/pull/42) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [chore(main): release 0.10.0](https://github.com/sanchpet/terraform-provider-sweb/pull/41) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
 - [feat: add sweb_dns_srv_record for SRV records](https://github.com/sanchpet/terraform-provider-sweb/pull/40) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [chore(main): release 0.9.0](https://github.com/sanchpet/terraform-provider-sweb/pull/39) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [feat: add sweb_dns_record for A/AAAA/CNAME/MX/TXT/NS records](https://github.com/sanchpet/terraform-provider-sweb/pull/38) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [chore(main): release 0.8.0](https://github.com/sanchpet/terraform-provider-sweb/pull/37) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
 
 ### 📓 Gists I wrote
 
