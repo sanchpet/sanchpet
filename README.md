@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: add sweb_letsencrypt resource](https://github.com/sanchpet/terraform-provider-sweb/pull/48) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [feat: hosting database, site and cron resources](https://github.com/sanchpet/terraform-provider-sweb/pull/47) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [chore(deps): bump sweb-go-sdk to v0.16.1](https://github.com/sanchpet/sweb/pull/76) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [chore(main): release 0.12.0](https://github.com/sanchpet/terraform-provider-sweb/pull/46) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [chore(main): release 0.16.1](https://github.com/sanchpet/sweb-go-sdk/pull/83) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [feat: add sweb_letsencrypt resource](https://github.com/sanchpet/terraform-provider-sweb/pull/48) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [feat: hosting database, site and cron resources](https://github.com/sanchpet/terraform-provider-sweb/pull/47) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [chore(deps): bump sweb-go-sdk to v0.16.1](https://github.com/sanchpet/sweb/pull/76) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
+- [chore(main): release 0.12.0](https://github.com/sanchpet/terraform-provider-sweb/pull/46) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [chore(main): release 0.16.1](https://github.com/sanchpet/sweb-go-sdk/pull/83) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (3 days ago)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (3 days ago)
-- [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (3 days ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (4 days ago)
-- [VictoriaMetrics/vmestimator](https://github.com/VictoriaMetrics/vmestimator) - Real-time Cardinality Estimations for VictoriaMetrics\Prometheus  (5 days ago)
+- [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (4 days ago)
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (4 days ago)
+- [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (4 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (5 days ago)
+- [VictoriaMetrics/vmestimator](https://github.com/VictoriaMetrics/vmestimator) - Real-time Cardinality Estimations for VictoriaMetrics\Prometheus  (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
