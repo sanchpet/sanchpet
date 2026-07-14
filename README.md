@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо. (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.13.0](https://github.com/sanchpet/terraform-provider-sweb/pull/50) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: cloud-tier resources — balancer, dbaas_instance, monitoring_check, monitoring_contact](https://github.com/sanchpet/terraform-provider-sweb/pull/49) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [chore(main): release 0.18.0](https://github.com/sanchpet/sweb/pull/78) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [feat: surface the cloud tier — balancer, dbaas, monitoring, cloud ssl](https://github.com/sanchpet/sweb/pull/77) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 - [feat: add sweb_letsencrypt resource](https://github.com/sanchpet/terraform-provider-sweb/pull/48) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [feat: hosting database, site and cron resources](https://github.com/sanchpet/terraform-provider-sweb/pull/47) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [chore(deps): bump sweb-go-sdk to v0.16.1](https://github.com/sanchpet/sweb/pull/76) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
-- [chore(main): release 0.12.0](https://github.com/sanchpet/terraform-provider-sweb/pull/46) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [chore(main): release 0.16.1](https://github.com/sanchpet/sweb-go-sdk/pull/83) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (1 day ago)
 
 ### 📓 Gists I wrote
 
