@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [smixs/pohuy](https://github.com/smixs/pohuy) - Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18&#43; (today)
 - [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (1 week ago)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (1 week ago)
 - [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
-- [VictoriaMetrics/vmestimator](https://github.com/VictoriaMetrics/vmestimator) - Real-time Cardinality Estimations for VictoriaMetrics\Prometheus  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
