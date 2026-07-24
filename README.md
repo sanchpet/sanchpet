@@ -90,7 +90,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (5 days ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 week ago)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 week ago)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 week ago)
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (2 days ago)
-- [smixs/pohuy](https://github.com/smixs/pohuy) - Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18&#43; (4 days ago)
-- [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (1 week ago)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (1 week ago)
-- [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (1 week ago)
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (3 days ago)
+- [smixs/pohuy](https://github.com/smixs/pohuy) - Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18&#43; (5 days ago)
+- [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (2 weeks ago)
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (2 weeks ago)
+- [itruslan/probemap](https://github.com/itruslan/probemap) - Interactive service topology editor with live status from VictoriaMetrics (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
