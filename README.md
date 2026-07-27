@@ -92,25 +92,25 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (today)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 week ago)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 week ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 week ago)
 
 ### 🌱 My latest projects
 
+- [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk).
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0)
 - [sanchpet/learning-monorepo](https://github.com/sanchpet/learning-monorepo) - Учебный код со всех курсов: упражнения и code-along. Доведённые проекты — в отдельных репо.
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc.
 
 ### 🔨 My recent Pull Requests
 
+- [feat: SpaceWeb cert-manager DNS-01 webhook solver](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/1) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (today)
 - [feat: expose REALITY minClientVer/maxClientVer/maxTimediff on reality_settings](https://github.com/batonogov/terraform-provider-threexui/pull/409) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (today)
 - [chore(main): release 0.18.1](https://github.com/sanchpet/sweb/pull/80) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 week ago)
 - [fix: bump SDK v0.16.2 (empty balancer/ssl list) &#43; tolerate isCreateEnable](https://github.com/sanchpet/sweb/pull/79) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 week ago)
 - [chore(main): release 0.14.0](https://github.com/sanchpet/terraform-provider-sweb/pull/52) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 week ago)
-- [feat: make mailbox and database passwords write-only (importable)](https://github.com/sanchpet/terraform-provider-sweb/pull/51) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 week ago)
 
 ### 📓 Gists I wrote
 
