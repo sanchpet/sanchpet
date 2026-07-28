@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (today)
+- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (1 day ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 week ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 week ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: SpaceWeb cert-manager DNS-01 webhook solver](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/1) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (today)
-- [feat: expose REALITY minClientVer/maxClientVer/maxTimediff on reality_settings](https://github.com/batonogov/terraform-provider-threexui/pull/409) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (today)
-- [chore(main): release 0.18.1](https://github.com/sanchpet/sweb/pull/80) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 week ago)
-- [fix: bump SDK v0.16.2 (empty balancer/ssl list) &#43; tolerate isCreateEnable](https://github.com/sanchpet/sweb/pull/79) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 week ago)
-- [chore(main): release 0.14.0](https://github.com/sanchpet/terraform-provider-sweb/pull/52) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 week ago)
+- [feat: SpaceWeb cert-manager DNS-01 webhook solver](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/1) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (1 day ago)
+- [feat: expose REALITY minClientVer/maxClientVer/maxTimediff on reality_settings](https://github.com/batonogov/terraform-provider-threexui/pull/409) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (1 day ago)
+- [chore(main): release 0.18.1](https://github.com/sanchpet/sweb/pull/80) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (2 weeks ago)
+- [fix: bump SDK v0.16.2 (empty balancer/ssl list) &#43; tolerate isCreateEnable](https://github.com/sanchpet/sweb/pull/79) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (2 weeks ago)
+- [chore(main): release 0.14.0](https://github.com/sanchpet/terraform-provider-sweb/pull/52) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
@@ -118,8 +118,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (today)
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (6 days ago)
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (1 day ago)
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 week ago)
 - [smixs/pohuy](https://github.com/smixs/pohuy) - Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18&#43; (1 week ago)
 - [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (2 weeks ago)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (2 weeks ago)
