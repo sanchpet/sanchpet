@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (today)
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (2 days ago)
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 week ago)
 - [smixs/pohuy](https://github.com/smixs/pohuy) - Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18&#43; (1 week ago)
 - [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (2 weeks ago)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
