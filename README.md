@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (today)
 - [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (1 day ago)
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (3 days ago)
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 week ago)
-- [smixs/pohuy](https://github.com/smixs/pohuy) - Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18&#43; (1 week ago)
-- [KeladKaal/ict-administration](https://github.com/KeladKaal/ict-administration) -  (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
