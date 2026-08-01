@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(notch): signal when the turn is yours](https://github.com/sanchpet/agentnotch/pull/6) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (today)
 - [feat!: bootstrap the fork — Claude Code only, SwiftPM, honest licensing](https://github.com/sanchpet/agentnotch/pull/1) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (today)
 - [chore(main): release 0.2.0](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/2) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (4 days ago)
 - [feat: SpaceWeb cert-manager DNS-01 webhook solver](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/1) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (5 days ago)
 - [feat: expose REALITY minClientVer/maxClientVer/maxTimediff on reality_settings](https://github.com/batonogov/terraform-provider-threexui/pull/409) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (5 days ago)
-- [chore(main): release 0.18.1](https://github.com/sanchpet/sweb/pull/80) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
