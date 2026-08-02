@@ -90,8 +90,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (1 day ago)
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (5 days ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (6 days ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (2 weeks ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [chore: start the version line at 0.1.0](https://github.com/sanchpet/notchwatch/pull/4) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (today)
+- [test: pin the logic that has already proved fragile](https://github.com/sanchpet/notchwatch/pull/3) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (today)
 - [feat(notch): signal when the turn is yours](https://github.com/sanchpet/agentnotch/pull/6) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (1 day ago)
 - [feat!: bootstrap the fork — Claude Code only, SwiftPM, honest licensing](https://github.com/sanchpet/agentnotch/pull/1) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (1 day ago)
 - [chore(main): release 0.2.0](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/2) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (5 days ago)
-- [feat: SpaceWeb cert-manager DNS-01 webhook solver](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/1) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (6 days ago)
-- [feat: expose REALITY minClientVer/maxClientVer/maxTimediff on reality_settings](https://github.com/batonogov/terraform-provider-threexui/pull/409) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (6 days ago)
 
 ### 📓 Gists I wrote
 
