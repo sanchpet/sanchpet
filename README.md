@@ -90,8 +90,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (3 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (4 days ago)
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (1 week ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (1 week ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (3 weeks ago)
@@ -106,10 +106,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore: start the version line at 0.1.0](https://github.com/sanchpet/notchwatch/pull/4) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (3 days ago)
-- [test: pin the logic that has already proved fragile](https://github.com/sanchpet/notchwatch/pull/3) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (3 days ago)
-- [feat(notch): signal when the turn is yours](https://github.com/sanchpet/agentnotch/pull/6) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (4 days ago)
-- [feat!: bootstrap the fork — Claude Code only, SwiftPM, honest licensing](https://github.com/sanchpet/agentnotch/pull/1) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (4 days ago)
+- [chore: start the version line at 0.1.0](https://github.com/sanchpet/notchwatch/pull/4) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (4 days ago)
+- [test: pin the logic that has already proved fragile](https://github.com/sanchpet/notchwatch/pull/3) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (4 days ago)
+- [feat(notch): signal when the turn is yours](https://github.com/sanchpet/agentnotch/pull/6) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (5 days ago)
+- [feat!: bootstrap the fork — Claude Code only, SwiftPM, honest licensing](https://github.com/sanchpet/agentnotch/pull/1) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (5 days ago)
 - [chore(main): release 0.2.0](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/2) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (1 week ago)
 
 ### 📓 Gists I wrote
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (today)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (1 day ago)
-- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (1 day ago)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (1 day ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 days ago)
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (1 day ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (2 days ago)
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (2 days ago)
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (2 days ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
