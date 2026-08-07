@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(aws): manage Secrets Manager resource policy only when declared](https://github.com/external-secrets/external-secrets/pull/6807) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [chore: start the version line at 0.1.0](https://github.com/sanchpet/notchwatch/pull/4) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (5 days ago)
 - [test: pin the logic that has already proved fragile](https://github.com/sanchpet/notchwatch/pull/3) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (5 days ago)
 - [feat(notch): signal when the turn is yours](https://github.com/sanchpet/agentnotch/pull/6) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (6 days ago)
 - [feat!: bootstrap the fork — Claude Code only, SwiftPM, honest licensing](https://github.com/sanchpet/agentnotch/pull/1) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (6 days ago)
-- [chore(main): release 0.2.0](https://github.com/sanchpet/cert-manager-webhook-spaceweb/pull/2) on [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) (1 week ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (today)
 - [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (1 day ago)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (2 days ago)
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (3 days ago)
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (3 days ago)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
