@@ -90,7 +90,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (6 days ago)
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (1 week ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (1 week ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(esoctl): bootstrap generator leaves the tree incomplete](https://github.com/external-secrets/external-secrets/pull/6811) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [fix(aws): manage Secrets Manager resource policy only when declared](https://github.com/external-secrets/external-secrets/pull/6807) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
 - [chore: start the version line at 0.1.0](https://github.com/sanchpet/notchwatch/pull/4) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (6 days ago)
 - [test: pin the logic that has already proved fragile](https://github.com/sanchpet/notchwatch/pull/3) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (6 days ago)
 - [feat(notch): signal when the turn is yours](https://github.com/sanchpet/agentnotch/pull/6) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (1 week ago)
-- [feat!: bootstrap the fork — Claude Code only, SwiftPM, honest licensing](https://github.com/sanchpet/agentnotch/pull/1) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (1 week ago)
 
 ### 📓 Gists I wrote
 
