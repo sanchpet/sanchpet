@@ -90,27 +90,27 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (6 days ago)
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (1 week ago)
 - [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (1 week ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (3 weeks ago)
 
 ### 🌱 My latest projects
 
 - [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials.
+- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk).
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0)
 
 ### 🔨 My recent Pull Requests
 
+- [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [docs: correct the design type in the PR template](https://github.com/external-secrets/external-secrets/pull/6813) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [design(generators): propose credential lifetime driving regeneration](https://github.com/external-secrets/external-secrets/pull/6812) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [fix(esoctl): bootstrap generator leaves the tree incomplete](https://github.com/external-secrets/external-secrets/pull/6811) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [fix(aws): manage Secrets Manager resource policy only when declared](https://github.com/external-secrets/external-secrets/pull/6807) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
-- [chore: start the version line at 0.1.0](https://github.com/sanchpet/notchwatch/pull/4) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (6 days ago)
 
 ### 📓 Gists I wrote
 
