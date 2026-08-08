@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (today)
 - [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (today)
 - [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [docs: correct the design type in the PR template](https://github.com/external-secrets/external-secrets/pull/6813) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [design(generators): propose credential lifetime driving regeneration](https://github.com/external-secrets/external-secrets/pull/6812) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
-- [fix(esoctl): bootstrap generator leaves the tree incomplete](https://github.com/external-secrets/external-secrets/pull/6811) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 
 ### 📓 Gists I wrote
 
