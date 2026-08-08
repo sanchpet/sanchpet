@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [docs: correct the design type in the PR template](https://github.com/external-secrets/external-secrets/pull/6813) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
+- [design(generators): propose credential lifetime driving regeneration](https://github.com/external-secrets/external-secrets/pull/6812) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [fix(esoctl): bootstrap generator leaves the tree incomplete](https://github.com/external-secrets/external-secrets/pull/6811) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [fix(aws): manage Secrets Manager resource policy only when declared](https://github.com/external-secrets/external-secrets/pull/6807) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
 - [chore: start the version line at 0.1.0](https://github.com/sanchpet/notchwatch/pull/4) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (6 days ago)
-- [test: pin the logic that has already proved fragile](https://github.com/sanchpet/notchwatch/pull/3) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (6 days ago)
-- [feat(notch): signal when the turn is yours](https://github.com/sanchpet/agentnotch/pull/6) on [sanchpet/agentnotch](https://github.com/sanchpet/agentnotch) (1 week ago)
 
 ### 📓 Gists I wrote
 
