@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (today)
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 day ago)
 - [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (2 days ago)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (3 days ago)
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (4 days ago)
-- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
