@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (today)
 - [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [docs: correct the design type in the PR template](https://github.com/external-secrets/external-secrets/pull/6813) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [design(generators): propose credential lifetime driving regeneration](https://github.com/external-secrets/external-secrets/pull/6812) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
 - [fix(esoctl): bootstrap generator leaves the tree incomplete](https://github.com/external-secrets/external-secrets/pull/6811) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
-- [fix(aws): manage Secrets Manager resource policy only when declared](https://github.com/external-secrets/external-secrets/pull/6807) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (today)
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (today)
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 day ago)
 - [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (2 days ago)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (3 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
