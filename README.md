@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(plugin-api): add deleteProject](https://github.com/super-productivity/super-productivity/pull/9525) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
 - [fix(supersync-chart): mount tmp into the migrate-db init container](https://github.com/super-productivity/super-productivity/pull/9522) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
 - [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (1 day ago)
 - [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 day ago)
 - [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
-- [docs: correct the design type in the PR template](https://github.com/external-secrets/external-secrets/pull/6813) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
 
 ### 📓 Gists I wrote
 
