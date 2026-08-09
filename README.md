@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (today)
-- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (6 days ago)
+- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (1 day ago)
+- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (1 week ago)
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (1 week ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (today)
-- [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (today)
-- [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
-- [docs: correct the design type in the PR template](https://github.com/external-secrets/external-secrets/pull/6813) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
-- [design(generators): propose credential lifetime driving regeneration](https://github.com/external-secrets/external-secrets/pull/6812) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (today)
+- [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (1 day ago)
+- [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 day ago)
+- [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
+- [docs: correct the design type in the PR template](https://github.com/external-secrets/external-secrets/pull/6813) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
+- [design(generators): propose credential lifetime driving regeneration](https://github.com/external-secrets/external-secrets/pull/6812) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (today)
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (today)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 day ago)
-- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (2 days ago)
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (3 days ago)
+- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (1 day ago)
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (1 day ago)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (2 days ago)
+- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (3 days ago)
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
