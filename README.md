@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (1 day ago)
-- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (2 days ago)
+- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster (2 days ago)
 - [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (1 week ago)
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(plugin-api): add deleteProject](https://github.com/super-productivity/super-productivity/pull/9525) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
-- [fix(supersync-chart): mount tmp into the migrate-db init container](https://github.com/super-productivity/super-productivity/pull/9522) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
-- [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (1 day ago)
-- [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 day ago)
-- [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 day ago)
+- [feat(plugin-api): add deleteProject](https://github.com/super-productivity/super-productivity/pull/9525) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 day ago)
+- [fix(supersync-chart): mount tmp into the migrate-db init container](https://github.com/super-productivity/super-productivity/pull/9522) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 day ago)
+- [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (2 days ago)
+- [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (2 days ago)
+- [feat(generators): add ServiceAccountToken generator](https://github.com/external-secrets/external-secrets/pull/6814) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (today)
-- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (1 day ago)
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (1 day ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (2 days ago)
-- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (3 days ago)
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (1 day ago)
+- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (2 days ago)
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (2 days ago)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (3 days ago)
+- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
