@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [imcitius/tgsieve](https://github.com/imcitius/tgsieve) - Terragrunt plans without the wall of text: reads terragrunt&#39;s JSON plan output, hides declared noise, collapses repeats, shows only real changes (today)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (2 days ago)
 - [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (3 days ago)
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (3 days ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
