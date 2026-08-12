@@ -91,10 +91,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (4 days ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (today)
 - [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster (4 days ago)
+- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (4 days ago)
 - [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (1 week ago)
-- [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (2 weeks ago)
 
 ### 🌱 My latest projects
 
