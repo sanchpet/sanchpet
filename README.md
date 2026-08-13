@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (today)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (1 day ago)
 - [AVGVSTVS96/better-github-skill](https://github.com/AVGVSTVS96/better-github-skill) - Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded call each for PR state, review threads, and CI failures. (1 day ago)
 - [imcitius/tgsieve](https://github.com/imcitius/tgsieve) - Terragrunt plans without the wall of text: reads terragrunt&#39;s JSON plan output, hides declared noise, collapses repeats, shows only real changes (2 days ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (3 days ago)
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
