@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(work-context): reset the active context when its project is deleted](https://github.com/super-productivity/super-productivity/pull/9602) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
 - [feat(mekedron/wolt-cli): GitHub artifact attestations config](https://github.com/aquaproj/aqua-registry/pull/58853) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (today)
 - [feat(plugin-api): add deleteProject](https://github.com/super-productivity/super-productivity/pull/9525) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (6 days ago)
 - [fix(supersync-chart): mount tmp into the migrate-db init container](https://github.com/super-productivity/super-productivity/pull/9522) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (6 days ago)
 - [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (1 week ago)
-- [feat(mekedron/wolt-cli): add mekedron/wolt-cli](https://github.com/aquaproj/aqua-registry/pull/58468) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 week ago)
 
 ### 📓 Gists I wrote
 
