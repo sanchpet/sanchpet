@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 day ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (1 day ago)
-- [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) - Free &amp; Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal. (1 week ago)
-- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(work-context): reset the active context when its project is deleted](https://github.com/super-productivity/super-productivity/pull/9602) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 day ago)
-- [feat(mekedron/wolt-cli): GitHub artifact attestations config](https://github.com/aquaproj/aqua-registry/pull/58853) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 day ago)
-- [feat(plugin-api): add deleteProject](https://github.com/super-productivity/super-productivity/pull/9525) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
-- [fix(supersync-chart): mount tmp into the migrate-db init container](https://github.com/super-productivity/super-productivity/pull/9522) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
-- [ci(release): attest build provenance for release artifacts](https://github.com/mekedron/wolt-cli/pull/38) on [mekedron/wolt-cli](https://github.com/mekedron/wolt-cli) (1 week ago)
+- [docs: drop the merge-authority line from contributor instructions](https://github.com/sanchpet/sweb-go-sdk/pull/92) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [docs: drop the merge-authority line from contributor instructions](https://github.com/sanchpet/sweb/pull/83) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [docs: drop the merge-authority line from contributor instructions](https://github.com/sanchpet/terraform-provider-sweb/pull/59) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [chore(main): release 0.14.1](https://github.com/sanchpet/terraform-provider-sweb/pull/58) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [fix: bump sweb-go-sdk to v0.16.3 (single login per apply)](https://github.com/sanchpet/terraform-provider-sweb/pull/57) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 
 ### 📓 Gists I wrote
 
