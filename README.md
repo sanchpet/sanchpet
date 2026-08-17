@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (today)
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (4 days ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (5 days ago)
 - [AVGVSTVS96/better-github-skill](https://github.com/AVGVSTVS96/better-github-skill) - Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded call each for PR state, review threads, and CI failures. (5 days ago)
 - [imcitius/tgsieve](https://github.com/imcitius/tgsieve) - Terragrunt plans without the wall of text: reads terragrunt&#39;s JSON plan output, hides declared noise, collapses repeats, shows only real changes (6 days ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
