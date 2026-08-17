@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (1 day ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(main): release 0.14.2](https://github.com/sanchpet/terraform-provider-sweb/pull/61) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [fix: bump sweb-go-sdk to v0.16.4 (stop retrying a rejected login)](https://github.com/sanchpet/terraform-provider-sweb/pull/60) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [chore(main): release 0.16.4](https://github.com/sanchpet/sweb-go-sdk/pull/96) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [fix: stop re-exchanging credentials the API has rejected](https://github.com/sanchpet/sweb-go-sdk/pull/95) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [docs: drop the merge-authority line from contributor instructions](https://github.com/sanchpet/sweb-go-sdk/pull/92) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
+- [chore(main): release 0.14.2](https://github.com/sanchpet/terraform-provider-sweb/pull/61) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [fix: bump sweb-go-sdk to v0.16.4 (stop retrying a rejected login)](https://github.com/sanchpet/terraform-provider-sweb/pull/60) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
+- [chore(main): release 0.16.4](https://github.com/sanchpet/sweb-go-sdk/pull/96) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (1 day ago)
+- [fix: stop re-exchanging credentials the API has rejected](https://github.com/sanchpet/sweb-go-sdk/pull/95) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (1 day ago)
+- [docs: drop the merge-authority line from contributor instructions](https://github.com/sanchpet/sweb-go-sdk/pull/92) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,11 +118,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (3 days ago)
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (4 days ago)
-- [AVGVSTVS96/better-github-skill](https://github.com/AVGVSTVS96/better-github-skill) - Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded call each for PR state, review threads, and CI failures. (4 days ago)
-- [imcitius/tgsieve](https://github.com/imcitius/tgsieve) - Terragrunt plans without the wall of text: reads terragrunt&#39;s JSON plan output, hides declared noise, collapses repeats, shows only real changes (5 days ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (6 days ago)
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (4 days ago)
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (5 days ago)
+- [AVGVSTVS96/better-github-skill](https://github.com/AVGVSTVS96/better-github-skill) - Optimized GitHub skill for coding agents: fewer tool calls, less context burned, lower cost, faster answers. One bounded call each for PR state, review threads, and CI failures. (5 days ago)
+- [imcitius/tgsieve](https://github.com/imcitius/tgsieve) - Terragrunt plans without the wall of text: reads terragrunt&#39;s JSON plan output, hides declared noise, collapses repeats, shows only real changes (6 days ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
