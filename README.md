@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(kube): join the managed fleet config and notice when it moves](https://github.com/sanchpet/dotfiles/pull/4) on [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) (today)
 - [chore(main): release 0.14.2](https://github.com/sanchpet/terraform-provider-sweb/pull/61) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 days ago)
 - [fix: bump sweb-go-sdk to v0.16.4 (stop retrying a rejected login)](https://github.com/sanchpet/terraform-provider-sweb/pull/60) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 days ago)
 - [chore(main): release 0.16.4](https://github.com/sanchpet/sweb-go-sdk/pull/96) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (2 days ago)
 - [fix: stop re-exchanging credentials the API has rejected](https://github.com/sanchpet/sweb-go-sdk/pull/95) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (2 days ago)
-- [docs: drop the merge-authority line from contributor instructions](https://github.com/sanchpet/sweb-go-sdk/pull/92) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (2 days ago)
 
 ### 📓 Gists I wrote
 
