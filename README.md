@@ -91,10 +91,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (today)
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (3 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (4 days ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (4 days ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [docs(stele): ADR-0015, a skill&#39;s home is its text](https://github.com/sanchpet/adversaria/pull/6) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [docs(skill-add): the harness owns its marketplace clone](https://github.com/sanchpet/adversaria/pull/5) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [chore(machinery): land six commits stranded on a merged branch](https://github.com/sanchpet/adversaria/pull/4) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [chore(skills): think and verify move to the armamentarium marketplace](https://github.com/sanchpet/adversaria/pull/3) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
 - [feat(kube): join the managed fleet config and notice when it moves](https://github.com/sanchpet/dotfiles/pull/4) on [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) (2 days ago)
-- [chore(main): release 0.14.2](https://github.com/sanchpet/terraform-provider-sweb/pull/61) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (4 days ago)
-- [fix: bump sweb-go-sdk to v0.16.4 (stop retrying a rejected login)](https://github.com/sanchpet/terraform-provider-sweb/pull/60) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (4 days ago)
-- [chore(main): release 0.16.4](https://github.com/sanchpet/sweb-go-sdk/pull/96) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (4 days ago)
-- [fix: stop re-exchanging credentials the API has rejected](https://github.com/sanchpet/sweb-go-sdk/pull/95) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (4 days ago)
 
 ### 📓 Gists I wrote
 
