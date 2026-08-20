@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [docs(corp-docs): delegate the lexical layer to /techdoc](https://github.com/sanchpet/adversaria/pull/7) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [docs(stele): ADR-0015, a skill&#39;s home is its text](https://github.com/sanchpet/adversaria/pull/6) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [docs(skill-add): the harness owns its marketplace clone](https://github.com/sanchpet/adversaria/pull/5) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [chore(machinery): land six commits stranded on a merged branch](https://github.com/sanchpet/adversaria/pull/4) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [chore(skills): think and verify move to the armamentarium marketplace](https://github.com/sanchpet/adversaria/pull/3) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [docs(skill-add): a filled cache is not a bound hook](https://github.com/sanchpet/adversaria/pull/12) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [docs(skill-add): the plugin cache is keyed by version, so an update can lie](https://github.com/sanchpet/adversaria/pull/11) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [feat(kernel): verify external links by running something, not by looking](https://github.com/sanchpet/adversaria/pull/10) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [docs(kernel): a pipeline step is worth what its absence leaves behind](https://github.com/sanchpet/adversaria/pull/9) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [docs(corp-docs): length is set by the venue, not by the writer](https://github.com/sanchpet/adversaria/pull/8) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
 
 ### 📓 Gists I wrote
 
