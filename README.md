@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (4 days ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (4 days ago)
+- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (2 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (5 days ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [docs(skill-add): a filled cache is not a bound hook](https://github.com/sanchpet/adversaria/pull/12) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [docs(skill-add): the plugin cache is keyed by version, so an update can lie](https://github.com/sanchpet/adversaria/pull/11) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [feat(kernel): verify external links by running something, not by looking](https://github.com/sanchpet/adversaria/pull/10) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [docs(kernel): a pipeline step is worth what its absence leaves behind](https://github.com/sanchpet/adversaria/pull/9) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
-- [docs(corp-docs): length is set by the venue, not by the writer](https://github.com/sanchpet/adversaria/pull/8) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
+- [docs(skill-add): a filled cache is not a bound hook](https://github.com/sanchpet/adversaria/pull/12) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
+- [docs(skill-add): the plugin cache is keyed by version, so an update can lie](https://github.com/sanchpet/adversaria/pull/11) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
+- [feat(kernel): verify external links by running something, not by looking](https://github.com/sanchpet/adversaria/pull/10) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
+- [docs(kernel): a pipeline step is worth what its absence leaves behind](https://github.com/sanchpet/adversaria/pull/9) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
+- [docs(corp-docs): length is set by the venue, not by the writer](https://github.com/sanchpet/adversaria/pull/8) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -118,9 +118,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (today)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 days ago)
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (3 days ago)
+- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (1 day ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (3 days ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (4 days ago)
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (1 week ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (1 week ago)
 
