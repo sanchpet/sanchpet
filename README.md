@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (today)
 - [feat(tools): let tg_messages_delete reach the scheduled queue](https://github.com/lexfrei/mcp-tg/pull/156) on [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) (today)
 - [docs(skill-add): a filled cache is not a bound hook](https://github.com/sanchpet/adversaria/pull/12) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
 - [docs(skill-add): the plugin cache is keyed by version, so an update can lie](https://github.com/sanchpet/adversaria/pull/11) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
 - [feat(kernel): verify external links by running something, not by looking](https://github.com/sanchpet/adversaria/pull/10) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
-- [docs(kernel): a pipeline step is worth what its absence leaves behind](https://github.com/sanchpet/adversaria/pull/9) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
 
 ### 📓 Gists I wrote
 
