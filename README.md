@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (today)
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 day ago)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (2 days ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (5 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (1 day ago)
+- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (2 days ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (3 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (today)
-- [feat(tools): let tg_messages_delete reach the scheduled queue](https://github.com/lexfrei/mcp-tg/pull/156) on [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) (today)
-- [docs(skill-add): a filled cache is not a bound hook](https://github.com/sanchpet/adversaria/pull/12) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
-- [docs(skill-add): the plugin cache is keyed by version, so an update can lie](https://github.com/sanchpet/adversaria/pull/11) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
-- [feat(kernel): verify external links by running something, not by looking](https://github.com/sanchpet/adversaria/pull/10) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
+- [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 day ago)
+- [feat(tools): let tg_messages_delete reach the scheduled queue](https://github.com/lexfrei/mcp-tg/pull/156) on [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) (1 day ago)
+- [docs(skill-add): a filled cache is not a bound hook](https://github.com/sanchpet/adversaria/pull/12) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 days ago)
+- [docs(skill-add): the plugin cache is keyed by version, so an update can lie](https://github.com/sanchpet/adversaria/pull/11) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 days ago)
+- [feat(kernel): verify external links by running something, not by looking](https://github.com/sanchpet/adversaria/pull/10) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -118,9 +118,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (1 day ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (3 days ago)
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (4 days ago)
+- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (2 days ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (4 days ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (5 days ago)
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (1 week ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (1 week ago)
 
