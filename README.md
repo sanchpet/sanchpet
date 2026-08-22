@@ -90,7 +90,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (1 day ago)
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (2 days ago)
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (3 days ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(supersync): keep live websocket clients out of the stale-device sweep](https://github.com/super-productivity/super-productivity/pull/9691) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
+- [fix(supersync-chart): decouple liveness from database connectivity](https://github.com/super-productivity/super-productivity/pull/9690) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
 - [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 day ago)
 - [feat(tools): let tg_messages_delete reach the scheduled queue](https://github.com/lexfrei/mcp-tg/pull/156) on [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) (1 day ago)
 - [docs(skill-add): a filled cache is not a bound hook](https://github.com/sanchpet/adversaria/pull/12) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 days ago)
-- [docs(skill-add): the plugin cache is keyed by version, so an update can lie](https://github.com/sanchpet/adversaria/pull/11) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 days ago)
-- [feat(kernel): verify external links by running something, not by looking](https://github.com/sanchpet/adversaria/pull/10) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 days ago)
 
 ### 📓 Gists I wrote
 
