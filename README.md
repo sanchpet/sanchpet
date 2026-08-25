@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (3 days ago)
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (4 days ago)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (5 days ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (4 days ago)
+- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (5 days ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(fleet): roles and reporting discipline for a fleet of sessions](https://github.com/sanchpet/armamentarium/pull/1) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (today)
-- [fix(supersync): keep live websocket clients out of the stale-device sweep](https://github.com/super-productivity/super-productivity/pull/9691) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (2 days ago)
-- [fix(supersync-chart): decouple liveness from database connectivity](https://github.com/super-productivity/super-productivity/pull/9690) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (2 days ago)
-- [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (3 days ago)
-- [feat(tools): let tg_messages_delete reach the scheduled queue](https://github.com/lexfrei/mcp-tg/pull/156) on [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) (3 days ago)
+- [feat(fleet): roles and reporting discipline for a fleet of sessions](https://github.com/sanchpet/armamentarium/pull/1) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (1 day ago)
+- [fix(supersync): keep live websocket clients out of the stale-device sweep](https://github.com/super-productivity/super-productivity/pull/9691) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (3 days ago)
+- [fix(supersync-chart): decouple liveness from database connectivity](https://github.com/super-productivity/super-productivity/pull/9690) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (3 days ago)
+- [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (4 days ago)
+- [feat(tools): let tg_messages_delete reach the scheduled queue](https://github.com/lexfrei/mcp-tg/pull/156) on [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) (4 days ago)
 
 ### 📓 Gists I wrote
 
@@ -118,9 +118,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 day ago)
-- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (4 days ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (6 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (2 days ago)
+- [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (5 days ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 week ago)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript (1 week ago)
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (1 week ago)
 
