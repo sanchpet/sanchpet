@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(plugin-api): add addTaskRepeatCfg and updateTaskRepeatCfg](https://github.com/super-productivity/super-productivity/pull/9798) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
 - [feat(fleet): roles and reporting discipline for a fleet of sessions](https://github.com/sanchpet/armamentarium/pull/1) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (5 days ago)
 - [fix(supersync): keep live websocket clients out of the stale-device sweep](https://github.com/super-productivity/super-productivity/pull/9691) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
 - [fix(supersync-chart): decouple liveness from database connectivity](https://github.com/super-productivity/super-productivity/pull/9690) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
 - [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 week ago)
-- [feat(tools): let tg_messages_delete reach the scheduled queue](https://github.com/lexfrei/mcp-tg/pull/156) on [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) (1 week ago)
 
 ### 📓 Gists I wrote
 
