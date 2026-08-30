@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (1 day ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (5 days ago)
-- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (5 days ago)
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (2 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (6 days ago)
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (6 days ago)
 - [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (1 week ago)
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 week ago)
 
@@ -106,8 +106,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(plugin-api): add addTaskRepeatCfg and updateTaskRepeatCfg](https://github.com/super-productivity/super-productivity/pull/9798) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
-- [feat(fleet): roles and reporting discipline for a fleet of sessions](https://github.com/sanchpet/armamentarium/pull/1) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (5 days ago)
+- [feat(plugin-api): add addTaskRepeatCfg and updateTaskRepeatCfg](https://github.com/super-productivity/super-productivity/pull/9798) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 day ago)
+- [feat(fleet): roles and reporting discipline for a fleet of sessions](https://github.com/sanchpet/armamentarium/pull/1) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (6 days ago)
 - [fix(supersync): keep live websocket clients out of the stale-device sweep](https://github.com/super-productivity/super-productivity/pull/9691) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
 - [fix(supersync-chart): decouple liveness from database connectivity](https://github.com/super-productivity/super-productivity/pull/9690) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
 - [feat: add skyhook-io/radar](https://github.com/aquaproj/aqua-registry/pull/59208) on [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) (1 week ago)
@@ -118,10 +118,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale. (4 days ago)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (4 days ago)
-- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow (4 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (6 days ago)
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale. (5 days ago)
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (5 days ago)
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow (5 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
 - [werf/nelm](https://github.com/werf/nelm) - Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced. (1 week ago)
 
 ### 👯 Check out some of my recent followers
