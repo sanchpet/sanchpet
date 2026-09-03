@@ -93,8 +93,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (4 days ago)
 
 ### 🌱 My latest projects
 
