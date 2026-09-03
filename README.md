@@ -127,11 +127,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👯 Check out some of my recent followers
 
+- [kapitanov](https://github.com/kapitanov)
 - [akemoon](https://github.com/akemoon)
 - [lexfrei](https://github.com/lexfrei)
 - [Raicchuu](https://github.com/Raicchuu)
 - [Peefy](https://github.com/Peefy)
-- [S4IL21](https://github.com/S4IL21)
 
 ## Contribution graph
 <div style="text-align: center;">
