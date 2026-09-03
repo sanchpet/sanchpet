@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (3 days ago)
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (5 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials. (4 days ago)
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (6 days ago)
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) - aqua&#39;s Standard Registry (1 week ago)
 - [lexfrei/mcp-tg](https://github.com/lexfrei/mcp-tg) - MCP server for Telegram Client API (MTProto) (1 week ago)
 
@@ -106,20 +106,20 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(keycloak-admin-rotation): learn the admin password rotation mechanism on a stand](https://github.com/sanchpet/k8s-lab/pull/1) on [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) (1 day ago)
-- [docs: record why the tool is retired](https://github.com/sanchpet/notchwatch/pull/5) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (3 days ago)
-- [feat(plugin-api): add addTaskRepeatCfg and updateTaskRepeatCfg](https://github.com/super-productivity/super-productivity/pull/9798) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (4 days ago)
+- [feat(keycloak-admin-rotation): learn the admin password rotation mechanism on a stand](https://github.com/sanchpet/k8s-lab/pull/1) on [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) (2 days ago)
+- [docs: record why the tool is retired](https://github.com/sanchpet/notchwatch/pull/5) on [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) (4 days ago)
+- [feat(plugin-api): add addTaskRepeatCfg and updateTaskRepeatCfg](https://github.com/super-productivity/super-productivity/pull/9798) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (5 days ago)
 - [feat(fleet): roles and reporting discipline for a fleet of sessions](https://github.com/sanchpet/armamentarium/pull/1) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (1 week ago)
 - [fix(supersync): keep live websocket clients out of the stale-device sweep](https://github.com/super-productivity/super-productivity/pull/9691) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
 
 ### 📓 Gists I wrote
 
-- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (1 day ago)
+- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (2 days ago)
 - [Telegram message template for Alertmanager &amp; how to add it to your receiver in alertmanager.yml](https://gist.github.com/7641275a42243d3667b3146c5402be40) (2 years ago)
 
 ### ⭐ Recent Stars
 
-- [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes (today)
+- [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes (1 day ago)
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale. (1 week ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (1 week ago)
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow (1 week ago)
