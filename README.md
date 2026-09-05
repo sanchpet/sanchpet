@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (today)
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (1 day ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 day ago)
+- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (1 day ago)
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. (2 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (2 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (2 days ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,21 +106,21 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (today)
-- [chore(main): release 0.15.0](https://github.com/sanchpet/terraform-provider-sweb/pull/70) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [feat: add the sweb_vps_ip resource for day-2 additional IPs](https://github.com/sanchpet/terraform-provider-sweb/pull/69) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (1 day ago)
-- [chore(main): release 0.19.0](https://github.com/sanchpet/sweb/pull/92) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
-- [feat(mail): add mailbox purpose verb](https://github.com/sanchpet/sweb/pull/91) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (1 day ago)
+- [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 day ago)
+- [chore(main): release 0.15.0](https://github.com/sanchpet/terraform-provider-sweb/pull/70) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 days ago)
+- [feat: add the sweb_vps_ip resource for day-2 additional IPs](https://github.com/sanchpet/terraform-provider-sweb/pull/69) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (2 days ago)
+- [chore(main): release 0.19.0](https://github.com/sanchpet/sweb/pull/92) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (2 days ago)
+- [feat(mail): add mailbox purpose verb](https://github.com/sanchpet/sweb/pull/91) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (2 days ago)
 
 ### 📓 Gists I wrote
 
-- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (3 days ago)
+- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (4 days ago)
 - [Telegram message template for Alertmanager &amp; how to add it to your receiver in alertmanager.yml](https://gist.github.com/7641275a42243d3667b3146c5402be40) (2 years ago)
 
 ### ⭐ Recent Stars
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (today)
-- [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes (2 days ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 day ago)
+- [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes (3 days ago)
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale. (1 week ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (1 week ago)
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow (1 week ago)
