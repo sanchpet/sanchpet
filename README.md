@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(focus-mode): scope the Pomodoro work duration to the run #9645](https://github.com/super-productivity/super-productivity/pull/9951) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
 - [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (2 days ago)
 - [chore(main): release 0.15.0](https://github.com/sanchpet/terraform-provider-sweb/pull/70) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (3 days ago)
 - [feat: add the sweb_vps_ip resource for day-2 additional IPs](https://github.com/sanchpet/terraform-provider-sweb/pull/69) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (3 days ago)
 - [chore(main): release 0.19.0](https://github.com/sanchpet/sweb/pull/92) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (3 days ago)
-- [feat(mail): add mailbox purpose verb](https://github.com/sanchpet/sweb/pull/91) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (3 days ago)
 
 ### 📓 Gists I wrote
 
