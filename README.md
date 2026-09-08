@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
-- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (3 days ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (4 days ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (4 days ago)
+- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
+- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (4 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (5 days ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,24 +106,24 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(focus-mode): scope the Pomodoro work duration to the run #9645](https://github.com/super-productivity/super-productivity/pull/9951) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 day ago)
-- [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (3 days ago)
-- [chore(main): release 0.15.0](https://github.com/sanchpet/terraform-provider-sweb/pull/70) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (4 days ago)
-- [feat: add the sweb_vps_ip resource for day-2 additional IPs](https://github.com/sanchpet/terraform-provider-sweb/pull/69) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (4 days ago)
-- [chore(main): release 0.19.0](https://github.com/sanchpet/sweb/pull/92) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (4 days ago)
+- [fix(focus-mode): scope the Pomodoro work duration to the run #9645](https://github.com/super-productivity/super-productivity/pull/9951) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (2 days ago)
+- [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (4 days ago)
+- [chore(main): release 0.15.0](https://github.com/sanchpet/terraform-provider-sweb/pull/70) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (5 days ago)
+- [feat: add the sweb_vps_ip resource for day-2 additional IPs](https://github.com/sanchpet/terraform-provider-sweb/pull/69) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (5 days ago)
+- [chore(main): release 0.19.0](https://github.com/sanchpet/sweb/pull/92) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (5 days ago)
 
 ### 📓 Gists I wrote
 
-- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (6 days ago)
+- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (1 week ago)
 - [Telegram message template for Alertmanager &amp; how to add it to your receiver in alertmanager.yml](https://gist.github.com/7641275a42243d3667b3146c5402be40) (2 years ago)
 
 ### ⭐ Recent Stars
 
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (today)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (3 days ago)
-- [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes (5 days ago)
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale. (1 week ago)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (1 week ago)
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (1 day ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (4 days ago)
+- [kubernetes-sigs/node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes (6 days ago)
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale. (2 weeks ago)
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
