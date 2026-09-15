@@ -90,8 +90,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (1 day ago)
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 week ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 week ago)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 week ago)
@@ -106,22 +106,22 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (today)
-- [fix(deps): update Go module dependencies](https://github.com/sanchpet/youtube-playlist-filler/pull/5) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (today)
-- [build: switch dependency updates from Dependabot to Renovate](https://github.com/sanchpet/youtube-playlist-filler/pull/4) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (today)
+- [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 day ago)
+- [fix(deps): update Go module dependencies](https://github.com/sanchpet/youtube-playlist-filler/pull/5) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 day ago)
+- [build: switch dependency updates from Dependabot to Renovate](https://github.com/sanchpet/youtube-playlist-filler/pull/4) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 day ago)
 - [fix(focus-mode): scope the Pomodoro work duration to the run #9645](https://github.com/super-productivity/super-productivity/pull/9951) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
 - [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
 
 ### 📓 Gists I wrote
 
-- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (1 week ago)
+- [containerd — маршрут изучения от Linux-примитивов до внутренностей демона (срез 01.09.2026)](https://gist.github.com/972def5a458fdf17cd864cae8b3f5d2d) (2 weeks ago)
 - [Telegram message template for Alertmanager &amp; how to add it to your receiver in alertmanager.yml](https://gist.github.com/7641275a42243d3667b3146c5402be40) (2 years ago)
 
 ### ⭐ Recent Stars
 
-- [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts. (6 days ago)
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (6 days ago)
-- [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (6 days ago)
+- [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts. (1 week ago)
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (1 week ago)
+- [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (1 week ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (1 week ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 week ago)
 
