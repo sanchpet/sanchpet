@@ -90,8 +90,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (3 days ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
+- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (4 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 week ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (2 weeks ago)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (2 weeks ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (3 days ago)
-- [fix(deps): update Go module dependencies](https://github.com/sanchpet/youtube-playlist-filler/pull/5) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (3 days ago)
-- [build: switch dependency updates from Dependabot to Renovate](https://github.com/sanchpet/youtube-playlist-filler/pull/4) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (3 days ago)
+- [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (4 days ago)
+- [fix(deps): update Go module dependencies](https://github.com/sanchpet/youtube-playlist-filler/pull/5) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (4 days ago)
+- [build: switch dependency updates from Dependabot to Renovate](https://github.com/sanchpet/youtube-playlist-filler/pull/4) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (4 days ago)
 - [fix(focus-mode): scope the Pomodoro work duration to the run #9645](https://github.com/super-productivity/super-productivity/pull/9951) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 week ago)
-- [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
+- [ci: fall back to GITHUB_TOKEN when the release PAT is absent](https://github.com/sanchpet/youtube-playlist-filler/pull/1) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
@@ -123,7 +123,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (1 week ago)
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (1 week ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (1 week ago)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 week ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
