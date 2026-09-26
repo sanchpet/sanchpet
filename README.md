@@ -91,26 +91,26 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (today)
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 day ago)
 - [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (1 week ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (3 weeks ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (3 weeks ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (3 weeks ago)
 
 ### 🌱 My latest projects
 
+- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code
 - [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob.
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных.
 - [sanchpet/notchwatch](https://github.com/sanchpet/notchwatch) - Claude Code session state in your Mac notch: what it is doing now, how full each context is, and when the turn is yours. Reads local files only — no network, no credentials.
-- [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) - Local Kubernetes stands: methods x envs x scenarios, for testing infrastructure components before a real cluster
 
 ### 🔨 My recent Pull Requests
 
+- [feat: allowlist-gated Telegram responder for Claude Code](https://github.com/sanchpet/dispositif/pull/1) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (today)
 - [Add `--password-command` flag](https://github.com/int128/kubelogin/pull/1666) on [int128/kubelogin](https://github.com/int128/kubelogin) (1 day ago)
 - [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
 - [fix(deps): update Go module dependencies](https://github.com/sanchpet/youtube-playlist-filler/pull/5) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
 - [build: switch dependency updates from Dependabot to Renovate](https://github.com/sanchpet/youtube-playlist-filler/pull/4) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
-- [fix(focus-mode): scope the Pomodoro work duration to the run #9645](https://github.com/super-productivity/super-productivity/pull/9951) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
