@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(runner): keep the typing indicator alive for the whole run](https://github.com/sanchpet/dispositif/pull/4) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (today)
 - [feat: allowlist-gated Telegram responder for Claude Code](https://github.com/sanchpet/dispositif/pull/1) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (today)
 - [Add `--password-command` flag](https://github.com/int128/kubelogin/pull/1666) on [int128/kubelogin](https://github.com/int128/kubelogin) (1 day ago)
 - [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
 - [fix(deps): update Go module dependencies](https://github.com/sanchpet/youtube-playlist-filler/pull/5) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
-- [build: switch dependency updates from Dependabot to Renovate](https://github.com/sanchpet/youtube-playlist-filler/pull/4) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
 
 ### 📓 Gists I wrote
 
