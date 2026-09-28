@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (2 days ago)
-- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (1 week ago)
+- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (3 days ago)
+- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (2 weeks ago)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (3 weeks ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(runner): let restricted runs use their tools, and never answer with silence](https://github.com/sanchpet/dispositif/pull/6) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (today)
-- [feat(runner): keep the typing indicator alive for the whole run](https://github.com/sanchpet/dispositif/pull/4) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 day ago)
-- [feat: allowlist-gated Telegram responder for Claude Code](https://github.com/sanchpet/dispositif/pull/1) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 day ago)
-- [Add `--password-command` flag](https://github.com/int128/kubelogin/pull/1666) on [int128/kubelogin](https://github.com/int128/kubelogin) (2 days ago)
-- [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (1 week ago)
+- [fix(runner): let restricted runs use their tools, and never answer with silence](https://github.com/sanchpet/dispositif/pull/6) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 day ago)
+- [feat(runner): keep the typing indicator alive for the whole run](https://github.com/sanchpet/dispositif/pull/4) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 days ago)
+- [feat: allowlist-gated Telegram responder for Claude Code](https://github.com/sanchpet/dispositif/pull/1) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 days ago)
+- [Add `--password-command` flag](https://github.com/int128/kubelogin/pull/1666) on [int128/kubelogin](https://github.com/int128/kubelogin) (3 days ago)
+- [feat: maintain several playlists from one run](https://github.com/sanchpet/youtube-playlist-filler/pull/6) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
@@ -119,11 +119,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (3 days ago)
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (4 days ago)
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts. (2 weeks ago)
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (2 weeks ago)
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (2 weeks ago)
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 weeks ago)
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
