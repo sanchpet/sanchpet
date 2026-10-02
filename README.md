@@ -119,11 +119,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (today)
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (today)
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes. (2 days ago)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (1 week ago)
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts. (3 weeks ago)
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
