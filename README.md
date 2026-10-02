@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (2 days ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 week ago)
 - [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (2 weeks ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (4 weeks ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (4 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(memory): admission by cost of forgetting, a ceiling and an exit](https://github.com/sanchpet/adversaria/pull/13) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (today)
 - [feat(runner): comment on channel posts and note the owner privately](https://github.com/sanchpet/dispositif/pull/8) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 days ago)
 - [fix(runner): let restricted runs use their tools, and never answer with silence](https://github.com/sanchpet/dispositif/pull/6) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (5 days ago)
 - [feat(runner): keep the typing indicator alive for the whole run](https://github.com/sanchpet/dispositif/pull/4) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (6 days ago)
 - [feat: allowlist-gated Telegram responder for Claude Code](https://github.com/sanchpet/dispositif/pull/1) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (6 days ago)
-- [Add `--password-command` flag](https://github.com/int128/kubelogin/pull/1666) on [int128/kubelogin](https://github.com/int128/kubelogin) (1 week ago)
 
 ### 📓 Gists I wrote
 
@@ -119,11 +119,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (today)
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes. (2 days ago)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl (1 week ago)
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts. (3 weeks ago)
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (3 weeks ago)
-- [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
