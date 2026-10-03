@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(plugin-api): read project folders and move projects into them](https://github.com/super-productivity/super-productivity/pull/10490) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (today)
 - [feat(memory): admission by cost of forgetting, a ceiling and an exit](https://github.com/sanchpet/adversaria/pull/13) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (1 day ago)
 - [feat(runner): comment on channel posts and note the owner privately](https://github.com/sanchpet/dispositif/pull/8) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (3 days ago)
 - [fix(runner): let restricted runs use their tools, and never answer with silence](https://github.com/sanchpet/dispositif/pull/6) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (6 days ago)
 - [feat(runner): keep the typing indicator alive for the whole run](https://github.com/sanchpet/dispositif/pull/4) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 week ago)
-- [feat: allowlist-gated Telegram responder for Claude Code](https://github.com/sanchpet/dispositif/pull/1) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 week ago)
 
 ### 📓 Gists I wrote
 
