@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (today)
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (2 days ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
-- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (4 days ago)
 - [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (2 weeks ago)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 month ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(poll): answer a forward and its comment with one run](https://github.com/sanchpet/dispositif/pull/10) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (today)
 - [feat(plugin-api): read project folders and move projects into them](https://github.com/super-productivity/super-productivity/pull/10490) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (1 day ago)
 - [feat(memory): admission by cost of forgetting, a ceiling and an exit](https://github.com/sanchpet/adversaria/pull/13) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 days ago)
 - [feat(runner): comment on channel posts and note the owner privately](https://github.com/sanchpet/dispositif/pull/8) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (4 days ago)
 - [fix(runner): let restricted runs use their tools, and never answer with silence](https://github.com/sanchpet/dispositif/pull/6) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 week ago)
-- [feat(runner): keep the typing indicator alive for the whole run](https://github.com/sanchpet/dispositif/pull/4) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 week ago)
 
 ### 📓 Gists I wrote
 
