@@ -90,7 +90,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (5 days ago)
 - [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (1 week ago)
 - [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (3 weeks ago)
