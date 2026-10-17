@@ -90,27 +90,27 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/hypomnemata-template](https://github.com/sanchpet/hypomnemata-template) - Snapshot of a personal exocortex over Claude Code and Obsidian: invariant contract, ADR log, rituals, gates (RU) (today)
+- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (2 days ago)
 - [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (1 week ago)
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных. (2 weeks ago)
-- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (1 month ago)
 
 ### 🌱 My latest projects
 
+- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action
+- [sanchpet/hypomnemata-template](https://github.com/sanchpet/hypomnemata-template) - Snapshot of a personal exocortex over Claude Code and Obsidian: invariant contract, ADR log, rituals, gates (RU)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet
 - [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code
 - [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob.
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository
-- [sanchpet/adversaria](https://github.com/sanchpet/adversaria) - Рабочий экзокортекс инженера: markdown-vault под git, Obsidian, агент. Шаблон без данных.
 
 ### 🔨 My recent Pull Requests
 
+- [fix: tag releases with the bare version](https://github.com/sanchpet/obsidian-tg-drop/pull/3) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (today)
+- [feat: send the current note to Telegram as a file](https://github.com/sanchpet/obsidian-tg-drop/pull/1) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (today)
 - [feat(poll): answer a forward and its comment with one run](https://github.com/sanchpet/dispositif/pull/10) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 week ago)
 - [feat(plugin-api): read project folders and move projects into them](https://github.com/super-productivity/super-productivity/pull/10490) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (2 weeks ago)
 - [feat(memory): admission by cost of forgetting, a ceiling and an exit](https://github.com/sanchpet/adversaria/pull/13) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 weeks ago)
-- [feat(runner): comment on channel posts and note the owner privately](https://github.com/sanchpet/dispositif/pull/8) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 weeks ago)
-- [fix(runner): let restricted runs use their tools, and never answer with silence](https://github.com/sanchpet/dispositif/pull/6) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
