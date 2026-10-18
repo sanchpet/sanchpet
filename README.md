@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/hypomnemata-template](https://github.com/sanchpet/hypomnemata-template) - Snapshot of a personal exocortex over Claude Code and Obsidian: invariant contract, ADR log, rituals, gates (RU) (today)
-- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (2 days ago)
-- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (1 week ago)
+- [sanchpet/hypomnemata-template](https://github.com/sanchpet/hypomnemata-template) - Snapshot of a personal exocortex over Claude Code and Obsidian: invariant contract, ADR log, rituals, gates (RU) (1 day ago)
+- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (3 days ago)
+- [sanchpet/dispositif](https://github.com/sanchpet/dispositif) - Allowlist-gated Telegram responder for Claude Code (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -106,9 +106,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix: tag releases with the bare version](https://github.com/sanchpet/obsidian-tg-drop/pull/3) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (today)
-- [feat: send the current note to Telegram as a file](https://github.com/sanchpet/obsidian-tg-drop/pull/1) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (today)
-- [feat(poll): answer a forward and its comment with one run](https://github.com/sanchpet/dispositif/pull/10) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (1 week ago)
+- [fix: tag releases with the bare version](https://github.com/sanchpet/obsidian-tg-drop/pull/3) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (1 day ago)
+- [feat: send the current note to Telegram as a file](https://github.com/sanchpet/obsidian-tg-drop/pull/1) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (1 day ago)
+- [feat(poll): answer a forward and its comment with one run](https://github.com/sanchpet/dispositif/pull/10) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 weeks ago)
 - [feat(plugin-api): read project folders and move projects into them](https://github.com/super-productivity/super-productivity/pull/10490) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (2 weeks ago)
 - [feat(memory): admission by cost of forgetting, a ceiling and an exit](https://github.com/sanchpet/adversaria/pull/13) on [sanchpet/adversaria](https://github.com/sanchpet/adversaria) (2 weeks ago)
 
@@ -119,10 +119,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 day ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (4 days ago)
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4 days ago)
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents. (4 days ago)
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (2 days ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (5 days ago)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (5 days ago)
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents. (5 days ago)
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI. (1 week ago)
 
 ### 👯 Check out some of my recent followers
