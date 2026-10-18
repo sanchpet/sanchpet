@@ -93,7 +93,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
 - [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (today)
 - [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (1 day ago)
 - [sanchpet/hypomnemata-template](https://github.com/sanchpet/hypomnemata-template) - Snapshot of a personal exocortex over Claude Code and Obsidian: invariant contract, ADR log, rituals, gates (RU) (1 day ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: race calendar MVP with four sources and a static site](https://github.com/sanchpet/races/pull/1) on [sanchpet/races](https://github.com/sanchpet/races) (today)
 - [feat: prototype the garden on Quartz v5](https://github.com/sanchpet/garden/pull/1) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 - [fix: tag releases with the bare version](https://github.com/sanchpet/obsidian-tg-drop/pull/3) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (1 day ago)
 - [feat: send the current note to Telegram as a file](https://github.com/sanchpet/obsidian-tg-drop/pull/1) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (1 day ago)
 - [feat(poll): answer a forward and its comment with one run](https://github.com/sanchpet/dispositif/pull/10) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 weeks ago)
-- [feat(plugin-api): read project folders and move projects into them](https://github.com/super-productivity/super-productivity/pull/10490) on [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
