@@ -93,8 +93,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
 - [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (today)
 - [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (1 day ago)
-- [sanchpet/hypomnemata-template](https://github.com/sanchpet/hypomnemata-template) - Snapshot of a personal exocortex over Claude Code and Obsidian: invariant contract, ADR log, rituals, gates (RU) (1 day ago)
 
 ### 🌱 My latest projects
 
