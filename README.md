@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(picks): define races no source lists, fail on unmatched picks](https://github.com/sanchpet/races/pull/2) on [sanchpet/races](https://github.com/sanchpet/races) (today)
 - [feat: race calendar MVP with four sources and a static site](https://github.com/sanchpet/races/pull/1) on [sanchpet/races](https://github.com/sanchpet/races) (1 day ago)
 - [feat: prototype the garden on Quartz v5](https://github.com/sanchpet/garden/pull/1) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 - [fix: tag releases with the bare version](https://github.com/sanchpet/obsidian-tg-drop/pull/3) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (2 days ago)
 - [feat: send the current note to Telegram as a file](https://github.com/sanchpet/obsidian-tg-drop/pull/1) on [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) (2 days ago)
-- [feat(poll): answer a forward and its comment with one run](https://github.com/sanchpet/dispositif/pull/10) on [sanchpet/dispositif](https://github.com/sanchpet/dispositif) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
