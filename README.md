@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (today)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (1 day ago)
-- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (4 days ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (2 days ago)
+- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: explain the two languages when hovering the switch](https://github.com/sanchpet/garden/pull/8) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat: give the garden its own icon and link cards](https://github.com/sanchpet/garden/pull/7) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat: hide the folder listing under home notes](https://github.com/sanchpet/garden/pull/6) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(core): hand each content index reader its own copy](https://github.com/sanchpet/garden/pull/5) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat: serve the garden in Russian and English](https://github.com/sanchpet/garden/pull/4) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat: explain the two languages when hovering the switch](https://github.com/sanchpet/garden/pull/8) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat: give the garden its own icon and link cards](https://github.com/sanchpet/garden/pull/7) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat: hide the folder listing under home notes](https://github.com/sanchpet/garden/pull/6) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix(core): hand each content index reader its own copy](https://github.com/sanchpet/garden/pull/5) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat: serve the garden in Russian and English](https://github.com/sanchpet/garden/pull/4) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -119,9 +119,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (today)
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (today)
-- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (5 days ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 day ago)
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (1 day ago)
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (6 days ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 week ago)
 
