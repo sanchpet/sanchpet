@@ -91,10 +91,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (today)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
 - [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (1 day ago)
 - [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (2 days ago)
-- [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [chore: remove LinkedIn profile template](https://github.com/sanchpet/cv/pull/2) on [sanchpet/cv](https://github.com/sanchpet/cv) (today)
+- [feat(cv): October 2026 refresh with TradingView, open source and named employers](https://github.com/sanchpet/cv/pull/1) on [sanchpet/cv](https://github.com/sanchpet/cv) (today)
 - [feat: explain the two languages when hovering the switch](https://github.com/sanchpet/garden/pull/8) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 - [feat: give the garden its own icon and link cards](https://github.com/sanchpet/garden/pull/7) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 - [feat: hide the folder listing under home notes](https://github.com/sanchpet/garden/pull/6) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [fix(core): hand each content index reader its own copy](https://github.com/sanchpet/garden/pull/5) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat: serve the garden in Russian and English](https://github.com/sanchpet/garden/pull/4) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 
 ### 📓 Gists I wrote
 
