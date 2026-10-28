@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (3 days ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
-- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (5 days ago)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (6 days ago)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (6 days ago)
+- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (4 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (5 days ago)
+- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (6 days ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (1 week ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(site): mark races that are already under way](https://github.com/sanchpet/races/pull/8) on [sanchpet/races](https://github.com/sanchpet/races) (3 days ago)
-- [chore: remove LinkedIn profile template](https://github.com/sanchpet/cv/pull/2) on [sanchpet/cv](https://github.com/sanchpet/cv) (5 days ago)
-- [feat(cv): October 2026 refresh with TradingView, open source and named employers](https://github.com/sanchpet/cv/pull/1) on [sanchpet/cv](https://github.com/sanchpet/cv) (5 days ago)
-- [feat: explain the two languages when hovering the switch](https://github.com/sanchpet/garden/pull/8) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
-- [feat: give the garden its own icon and link cards](https://github.com/sanchpet/garden/pull/7) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
+- [feat(site): mark races that are already under way](https://github.com/sanchpet/races/pull/8) on [sanchpet/races](https://github.com/sanchpet/races) (4 days ago)
+- [chore: remove LinkedIn profile template](https://github.com/sanchpet/cv/pull/2) on [sanchpet/cv](https://github.com/sanchpet/cv) (6 days ago)
+- [feat(cv): October 2026 refresh with TradingView, open source and named employers](https://github.com/sanchpet/cv/pull/1) on [sanchpet/cv](https://github.com/sanchpet/cv) (6 days ago)
+- [feat: explain the two languages when hovering the switch](https://github.com/sanchpet/garden/pull/8) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
+- [feat: give the garden its own icon and link cards](https://github.com/sanchpet/garden/pull/7) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
 
 ### 📓 Gists I wrote
 
@@ -119,8 +119,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (6 days ago)
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (6 days ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (1 week ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 week ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 weeks ago)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (2 weeks ago)
