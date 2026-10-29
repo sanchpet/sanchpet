@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (4 days ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (5 days ago)
-- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (6 days ago)
+- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (5 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (6 days ago)
+- [sanchpet/cv](https://github.com/sanchpet/cv) - My CV (1 week ago)
 - [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (1 week ago)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 week ago)
 
@@ -106,9 +106,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(site): mark races that are already under way](https://github.com/sanchpet/races/pull/8) on [sanchpet/races](https://github.com/sanchpet/races) (4 days ago)
-- [chore: remove LinkedIn profile template](https://github.com/sanchpet/cv/pull/2) on [sanchpet/cv](https://github.com/sanchpet/cv) (6 days ago)
-- [feat(cv): October 2026 refresh with TradingView, open source and named employers](https://github.com/sanchpet/cv/pull/1) on [sanchpet/cv](https://github.com/sanchpet/cv) (6 days ago)
+- [feat(site): mark races that are already under way](https://github.com/sanchpet/races/pull/8) on [sanchpet/races](https://github.com/sanchpet/races) (5 days ago)
+- [chore: remove LinkedIn profile template](https://github.com/sanchpet/cv/pull/2) on [sanchpet/cv](https://github.com/sanchpet/cv) (1 week ago)
+- [feat(cv): October 2026 refresh with TradingView, open source and named employers](https://github.com/sanchpet/cv/pull/1) on [sanchpet/cv](https://github.com/sanchpet/cv) (1 week ago)
 - [feat: explain the two languages when hovering the switch](https://github.com/sanchpet/garden/pull/8) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
 - [feat: give the garden its own icon and link cards](https://github.com/sanchpet/garden/pull/7) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
 
