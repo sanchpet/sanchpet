@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (today)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: show a footnote beside its mark on hover](https://github.com/sanchpet/garden/pull/11) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(brand): add the Telegram avatar](https://github.com/sanchpet/garden/pull/10) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat: make home notes a single column of text](https://github.com/sanchpet/garden/pull/9) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 - [docs: drop the Assisted-By trailer convention](https://github.com/sanchpet/sweb-go-sdk/pull/113) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 - [docs: drop the Assisted-By trailer convention](https://github.com/sanchpet/terraform-provider-sweb/pull/76) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
-- [docs: drop the Assisted-By trailer convention](https://github.com/sanchpet/sweb/pull/97) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [docs: drop the Assisted-By trailer convention](https://github.com/sanchpet/armamentarium/pull/2) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (today)
-- [feat(site): mark races that are already under way](https://github.com/sanchpet/races/pull/8) on [sanchpet/races](https://github.com/sanchpet/races) (1 week ago)
 
 ### 📓 Gists I wrote
 
