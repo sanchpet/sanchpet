@@ -91,10 +91,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (today)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
 - [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
 - [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: show a footnote beside its mark on hover](https://github.com/sanchpet/garden/pull/11) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(brand): add the Telegram avatar](https://github.com/sanchpet/garden/pull/10) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat: make home notes a single column of text](https://github.com/sanchpet/garden/pull/9) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [docs: drop the Assisted-By trailer convention](https://github.com/sanchpet/sweb-go-sdk/pull/113) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
-- [docs: drop the Assisted-By trailer convention](https://github.com/sanchpet/terraform-provider-sweb/pull/76) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat: give a note a cover image, beside its title and in link previews](https://github.com/sanchpet/garden/pull/14) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat: drop the left sidebar, keep the theme toggle beside the language switch](https://github.com/sanchpet/garden/pull/13) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat: put a note&#39;s annotation, tags and last edit under its title](https://github.com/sanchpet/garden/pull/12) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 
 ### 📓 Gists I wrote
 
