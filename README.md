@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (today)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (1 day ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (1 day ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (2 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(share): redirect stubs by JS only](https://github.com/sanchpet/garden/pull/19) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat: give a note a cover image, beside its title and in link previews](https://github.com/sanchpet/garden/pull/14) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat: drop the left sidebar, keep the theme toggle beside the language switch](https://github.com/sanchpet/garden/pull/13) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix(share): redirect stubs by JS only](https://github.com/sanchpet/garden/pull/19) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
+- [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
+- [feat: give a note a cover image, beside its title and in link previews](https://github.com/sanchpet/garden/pull/14) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
+- [feat: drop the left sidebar, keep the theme toggle beside the language switch](https://github.com/sanchpet/garden/pull/13) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -122,8 +122,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (1 week ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (2 weeks ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 weeks ago)
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (2 weeks ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 weeks ago)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
