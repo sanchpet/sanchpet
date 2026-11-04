@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (2 days ago)
 - [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (2 days ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (3 days ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (3 days ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(dialectic): the blind solver and discriminator method](https://github.com/sanchpet/armamentarium/pull/3) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (today)
 - [fix(share): redirect stubs by JS only](https://github.com/sanchpet/garden/pull/19) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
 - [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (3 days ago)
 - [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (3 days ago)
 - [feat: give a note a cover image, beside its title and in link previews](https://github.com/sanchpet/garden/pull/14) on [sanchpet/garden](https://github.com/sanchpet/garden) (3 days ago)
-- [feat: drop the left sidebar, keep the theme toggle beside the language switch](https://github.com/sanchpet/garden/pull/13) on [sanchpet/garden](https://github.com/sanchpet/garden) (3 days ago)
 
 ### 📓 Gists I wrote
 
