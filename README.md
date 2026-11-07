@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(inbound): validate configs whose dynamic blocks are not yet known](https://github.com/batonogov/terraform-provider-threexui/pull/495) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (today)
 - [feat(dialectic): the blind solver and discriminator method](https://github.com/sanchpet/armamentarium/pull/3) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (3 days ago)
 - [fix(share): redirect stubs by JS only](https://github.com/sanchpet/garden/pull/19) on [sanchpet/garden](https://github.com/sanchpet/garden) (5 days ago)
 - [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
 - [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
-- [feat: give a note a cover image, beside its title and in link previews](https://github.com/sanchpet/garden/pull/14) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
 
 ### 📓 Gists I wrote
 
