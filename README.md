@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (3 days ago)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (5 days ago)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (5 days ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (6 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (4 days ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (6 days ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (6 days ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(inbound): validate configs whose dynamic blocks are not yet known](https://github.com/batonogov/terraform-provider-threexui/pull/495) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (today)
-- [feat(dialectic): the blind solver and discriminator method](https://github.com/sanchpet/armamentarium/pull/3) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (3 days ago)
-- [fix(share): redirect stubs by JS only](https://github.com/sanchpet/garden/pull/19) on [sanchpet/garden](https://github.com/sanchpet/garden) (5 days ago)
-- [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
-- [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
+- [fix(inbound): validate configs whose dynamic blocks are not yet known](https://github.com/batonogov/terraform-provider-threexui/pull/495) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (1 day ago)
+- [feat(dialectic): the blind solver and discriminator method](https://github.com/sanchpet/armamentarium/pull/3) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (4 days ago)
+- [fix(share): redirect stubs by JS only](https://github.com/sanchpet/garden/pull/19) on [sanchpet/garden](https://github.com/sanchpet/garden) (6 days ago)
+- [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
+- [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
 
 ### 📓 Gists I wrote
 
