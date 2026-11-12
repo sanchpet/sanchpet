@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (3 days ago)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
+- [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) - Terraform provider for 3x-ui (Xray/VLESS/Reality/WireGuard) — manage inbounds, clients, panel settings, cluster nodes &amp; Xray config as code. GitOps for your VPN panel. (4 days ago)
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 week ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 week ago)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 week ago)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - Engine of «Учусь мыслить», the digital garden at sanch.pet — Quartz v5 with local plugins (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(inbound): validate configs whose dynamic blocks are not yet known](https://github.com/batonogov/terraform-provider-threexui/pull/495) on [batonogov/terraform-provider-threexui](https://github.com/batonogov/terraform-provider-threexui) (4 days ago)
-- [feat(dialectic): the blind solver and discriminator method](https://github.com/sanchpet/armamentarium/pull/3) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (1 week ago)
-- [fix(share): redirect stubs by JS only](https://github.com/sanchpet/garden/pull/19) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
-- [feat: publish share links for Telegram on l.sanch.pet](https://github.com/sanchpet/garden/pull/17) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
-- [feat: drop the breadcrumbs](https://github.com/sanchpet/garden/pull/16) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 week ago)
+- [chore(main): release 0.15.1](https://github.com/sanchpet/terraform-provider-sweb/pull/80) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [fix: bump sweb-go-sdk to v0.18.1 (decode live getAvailableConfig)](https://github.com/sanchpet/terraform-provider-sweb/pull/79) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [chore(main): release 0.19.1](https://github.com/sanchpet/sweb/pull/101) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [fix(deps): bump sweb-go-sdk to v0.18.1](https://github.com/sanchpet/sweb/pull/100) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
+- [chore(main): release 0.18.1](https://github.com/sanchpet/sweb-go-sdk/pull/118) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
@@ -122,8 +122,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (3 weeks ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (3 weeks ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (3 weeks ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (4 weeks ago)
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (4 weeks ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
+- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
