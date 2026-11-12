@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [[rabbitmq-cluster-operator] Add serviceMonitor.bearerTokenFile option](https://github.com/CloudPirates-io/helm-charts/pull/1913) on [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) (today)
 - [chore(main): release 0.15.1](https://github.com/sanchpet/terraform-provider-sweb/pull/80) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [fix: bump sweb-go-sdk to v0.18.1 (decode live getAvailableConfig)](https://github.com/sanchpet/terraform-provider-sweb/pull/79) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
 - [chore(main): release 0.19.1](https://github.com/sanchpet/sweb/pull/101) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 - [fix(deps): bump sweb-go-sdk to v0.18.1](https://github.com/sanchpet/sweb/pull/100) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
-- [chore(main): release 0.18.1](https://github.com/sanchpet/sweb-go-sdk/pull/118) on [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) (today)
 
 ### 📓 Gists I wrote
 
