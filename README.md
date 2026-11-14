@@ -90,27 +90,27 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
+- [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) - Terraform module: Cilium as a kube-proxy-free CNI on an existing cluster, with Gateway API and host firewall (today)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
-- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (2 days ago)
+- [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) - some of my ansible roles for infra that I share publicly. (today)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
 
 ### 🌱 My latest projects
 
+- [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) - Terraform module: Cilium as a kube-proxy-free CNI on an existing cluster, with Gateway API and host firewall
+- [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) - some of my ansible roles for infra that I share publicly.
 - [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet
 - [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov
 - [sanchpet/obsidian-tg-drop](https://github.com/sanchpet/obsidian-tg-drop) - Obsidian plugin: send the current note to a Telegram chat as a file in one action
-- [sanchpet/hypomnemata-template](https://github.com/sanchpet/hypomnemata-template) - Snapshot of a personal exocortex over Claude Code and Obsidian: invariant contract, ADR log, rituals, gates (RU)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet
 
 ### 🔨 My recent Pull Requests
 
-- [feat: keep Obsidian-only blocks off the page](https://github.com/sanchpet/garden/pull/31) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(races): seat the checkboxes and let every bib answer the pointer](https://github.com/sanchpet/garden/pull/30) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat: show the race calendar on a note](https://github.com/sanchpet/garden/pull/28) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat!: publish a feed instead of a site](https://github.com/sanchpet/races/pull/9) on [sanchpet/races](https://github.com/sanchpet/races) (today)
-- [feat(radar): make the scope a full disc with every named sector](https://github.com/sanchpet/garden/pull/27) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [chore: keep release numbers out of versions.tf comments](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/5) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (today)
+- [feat!: install Gateway API CRDs from a chart vendored in the module](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/3) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (today)
+- [feat: Cilium module for k3s on bare VPS](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/1) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (today)
+- [chore: pre-commit hooks and gitattributes](https://github.com/sanchpet/ansible-collection-infra/pull/4) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (today)
+- [fix: start releases at 0.1.0](https://github.com/sanchpet/ansible-collection-infra/pull/3) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (today)
 
 ### 📓 Gists I wrote
 
