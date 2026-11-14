@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
+- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (2 days ago)
-- [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software (2 days ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat: keep Obsidian-only blocks off the page](https://github.com/sanchpet/garden/pull/31) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [fix(races): seat the checkboxes and let every bib answer the pointer](https://github.com/sanchpet/garden/pull/30) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat: show the race calendar on a note](https://github.com/sanchpet/garden/pull/28) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat!: publish a feed instead of a site](https://github.com/sanchpet/races/pull/9) on [sanchpet/races](https://github.com/sanchpet/races) (today)
 - [feat(radar): make the scope a full disc with every named sector](https://github.com/sanchpet/garden/pull/27) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat: draw a personal tech radar as a Bases view](https://github.com/sanchpet/garden/pull/25) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat: draw the book catalogue as a bookcase](https://github.com/sanchpet/garden/pull/23) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(header): pull the title closer to the logo](https://github.com/sanchpet/garden/pull/22) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(header): show valve on the home page, not as a link, and enlarge it](https://github.com/sanchpet/garden/pull/21) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 
 ### 📓 Gists I wrote
 
