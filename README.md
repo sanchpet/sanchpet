@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) - Terraform module: Cilium as a kube-proxy-free CNI on an existing cluster, with Gateway API and host firewall (today)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
-- [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) - some of my ansible roles for infra that I share publicly. (today)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) - Terraform module: Cilium as a kube-proxy-free CNI on an existing cluster, with Gateway API and host firewall (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
+- [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) - some of my ansible roles for infra that I share publicly. (1 day ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore: keep release numbers out of versions.tf comments](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/5) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (today)
-- [feat!: install Gateway API CRDs from a chart vendored in the module](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/3) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (today)
-- [feat: Cilium module for k3s on bare VPS](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/1) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (today)
-- [chore: pre-commit hooks and gitattributes](https://github.com/sanchpet/ansible-collection-infra/pull/4) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (today)
-- [fix: start releases at 0.1.0](https://github.com/sanchpet/ansible-collection-infra/pull/3) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (today)
+- [chore: keep release numbers out of versions.tf comments](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/5) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (1 day ago)
+- [feat!: install Gateway API CRDs from a chart vendored in the module](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/3) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (1 day ago)
+- [feat: Cilium module for k3s on bare VPS](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/1) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (1 day ago)
+- [chore: pre-commit hooks and gitattributes](https://github.com/sanchpet/ansible-collection-infra/pull/4) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (1 day ago)
+- [fix: start releases at 0.1.0](https://github.com/sanchpet/ansible-collection-infra/pull/3) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -121,7 +121,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (3 weeks ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (3 weeks ago)
-- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (4 weeks ago)
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 month ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 month ago)
 
