@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
-- [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) - Terraform module: Cilium as a kube-proxy-free CNI on an existing cluster, with Gateway API and host firewall (1 day ago)
+- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (2 days ago)
+- [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) - Terraform module: Cilium as a kube-proxy-free CNI on an existing cluster, with Gateway API and host firewall (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat: GitHub Actions identity in Yandex Cloud over OIDC](https://github.com/sanchpet/terraform-yandex-github-oidc/pull/1) on [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) (today)
-- [chore: keep release numbers out of versions.tf comments](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/5) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (1 day ago)
-- [feat!: install Gateway API CRDs from a chart vendored in the module](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/3) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (1 day ago)
-- [feat: Cilium module for k3s on bare VPS](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/1) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (1 day ago)
-- [chore: pre-commit hooks and gitattributes](https://github.com/sanchpet/ansible-collection-infra/pull/4) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (1 day ago)
+- [feat: GitHub Actions identity in Yandex Cloud over OIDC](https://github.com/sanchpet/terraform-yandex-github-oidc/pull/1) on [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) (1 day ago)
+- [chore: keep release numbers out of versions.tf comments](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/5) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (2 days ago)
+- [feat!: install Gateway API CRDs from a chart vendored in the module](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/3) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (2 days ago)
+- [feat: Cilium module for k3s on bare VPS](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/1) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (2 days ago)
+- [chore: pre-commit hooks and gitattributes](https://github.com/sanchpet/ansible-collection-infra/pull/4) on [sanchpet/ansible-collection-infra](https://github.com/sanchpet/ansible-collection-infra) (2 days ago)
 
 ### 📓 Gists I wrote
 
