@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
 - [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (2 days ago)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [fix(bookcase): show covers on shelved books and pull a hovered book further](https://github.com/sanchpet/garden/pull/35) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(bookcase): nudge a book forward under the pointer](https://github.com/sanchpet/garden/pull/34) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [chore: keep Excalidraw drawing sources off the site](https://github.com/sanchpet/garden/pull/33) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [chore: keep the Obsidian-side library base off the site](https://github.com/sanchpet/garden/pull/32) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 - [feat: reference upstream plugins at a pinned commit](https://github.com/sanchpet/armamentarium/pull/4) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (1 day ago)
-- [feat: GitHub Actions identity in Yandex Cloud over OIDC](https://github.com/sanchpet/terraform-yandex-github-oidc/pull/1) on [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) (2 days ago)
-- [chore: keep release numbers out of versions.tf comments](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/5) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (3 days ago)
-- [feat!: install Gateway API CRDs from a chart vendored in the module](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/3) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (3 days ago)
-- [feat: Cilium module for k3s on bare VPS](https://github.com/sanchpet/terraform-kubernetes-cilium/pull/1) on [sanchpet/terraform-kubernetes-cilium](https://github.com/sanchpet/terraform-kubernetes-cilium) (3 days ago)
 
 ### 📓 Gists I wrote
 
