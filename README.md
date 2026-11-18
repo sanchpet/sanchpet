@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (2 days ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (2 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
+- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(bookcase): show covers on shelved books and pull a hovered book further](https://github.com/sanchpet/garden/pull/35) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(bookcase): nudge a book forward under the pointer](https://github.com/sanchpet/garden/pull/34) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [chore: keep Excalidraw drawing sources off the site](https://github.com/sanchpet/garden/pull/33) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [chore: keep the Obsidian-side library base off the site](https://github.com/sanchpet/garden/pull/32) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat: reference upstream plugins at a pinned commit](https://github.com/sanchpet/armamentarium/pull/4) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (1 day ago)
+- [fix(bookcase): show covers on shelved books and pull a hovered book further](https://github.com/sanchpet/garden/pull/35) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(bookcase): nudge a book forward under the pointer](https://github.com/sanchpet/garden/pull/34) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [chore: keep Excalidraw drawing sources off the site](https://github.com/sanchpet/garden/pull/33) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [chore: keep the Obsidian-side library base off the site](https://github.com/sanchpet/garden/pull/32) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat: reference upstream plugins at a pinned commit](https://github.com/sanchpet/armamentarium/pull/4) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -119,9 +119,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (1 day ago)
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (3 weeks ago)
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (3 weeks ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (2 days ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (4 weeks ago)
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (4 weeks ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 month ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 
