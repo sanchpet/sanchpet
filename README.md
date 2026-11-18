@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(scenarios): reproduce descheduler stale node snapshot and one-shot error loop](https://github.com/sanchpet/k8s-lab/pull/2) on [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) (today)
 - [fix(bookcase): show covers on shelved books and pull a hovered book further](https://github.com/sanchpet/garden/pull/35) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 - [feat(bookcase): nudge a book forward under the pointer](https://github.com/sanchpet/garden/pull/34) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 - [chore: keep Excalidraw drawing sources off the site](https://github.com/sanchpet/garden/pull/33) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 - [chore: keep the Obsidian-side library base off the site](https://github.com/sanchpet/garden/pull/32) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat: reference upstream plugins at a pinned commit](https://github.com/sanchpet/armamentarium/pull/4) on [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) (2 days ago)
 
 ### 📓 Gists I wrote
 
