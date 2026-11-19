@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (today)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (2 days ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
-- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (3 days ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of «Учусь мыслить», the digital garden at sanch.pet (1 day ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (3 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
+- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(drawing): inline marked SVG drawings so their links work](https://github.com/sanchpet/garden/pull/36) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(descheduler): exit after a failed pass when the interval is 0](https://github.com/kubernetes-sigs/descheduler/pull/1946) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (today)
-- [feat(scenarios): reproduce descheduler stale node snapshot and one-shot error loop](https://github.com/sanchpet/k8s-lab/pull/2) on [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) (today)
-- [fix(bookcase): show covers on shelved books and pull a hovered book further](https://github.com/sanchpet/garden/pull/35) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(bookcase): nudge a book forward under the pointer](https://github.com/sanchpet/garden/pull/34) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(drawing): inline marked SVG drawings so their links work](https://github.com/sanchpet/garden/pull/36) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix(descheduler): exit after a failed pass when the interval is 0](https://github.com/kubernetes-sigs/descheduler/pull/1946) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (1 day ago)
+- [feat(scenarios): reproduce descheduler stale node snapshot and one-shot error loop](https://github.com/sanchpet/k8s-lab/pull/2) on [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) (1 day ago)
+- [fix(bookcase): show covers on shelved books and pull a hovered book further](https://github.com/sanchpet/garden/pull/35) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
+- [feat(bookcase): nudge a book forward under the pointer](https://github.com/sanchpet/garden/pull/34) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -119,7 +119,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (2 days ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (3 days ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (4 weeks ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (4 weeks ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 month ago)
