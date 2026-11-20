@@ -90,7 +90,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (4 days ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [feat(announce): announce new texts in Telegram from the publication feed](https://github.com/sanchpet/garden/pull/39) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(feed): publish an Atom feed of posts and evergreen texts per language](https://github.com/sanchpet/garden/pull/38) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 - [feat(site): name the site sanchpet in both languages](https://github.com/sanchpet/garden/pull/37) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 - [feat(drawing): inline marked SVG drawings so their links work](https://github.com/sanchpet/garden/pull/36) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
 - [fix(descheduler): exit after a failed pass when the interval is 0](https://github.com/kubernetes-sigs/descheduler/pull/1946) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (2 days ago)
-- [feat(scenarios): reproduce descheduler stale node snapshot and one-shot error loop](https://github.com/sanchpet/k8s-lab/pull/2) on [sanchpet/k8s-lab](https://github.com/sanchpet/k8s-lab) (2 days ago)
-- [fix(bookcase): show covers on shelved books and pull a hovered book further](https://github.com/sanchpet/garden/pull/35) on [sanchpet/garden](https://github.com/sanchpet/garden) (3 days ago)
 
 ### 📓 Gists I wrote
 
