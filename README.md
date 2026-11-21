@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (4 days ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
-- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (5 days ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (2 days ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (5 days ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (5 days ago)
+- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(announce): announce new texts in Telegram from the publication feed](https://github.com/sanchpet/garden/pull/39) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(feed): publish an Atom feed of posts and evergreen texts per language](https://github.com/sanchpet/garden/pull/38) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(site): name the site sanchpet in both languages](https://github.com/sanchpet/garden/pull/37) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(drawing): inline marked SVG drawings so their links work](https://github.com/sanchpet/garden/pull/36) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
-- [fix(descheduler): exit after a failed pass when the interval is 0](https://github.com/kubernetes-sigs/descheduler/pull/1946) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (2 days ago)
+- [feat(announce): announce new texts in Telegram from the publication feed](https://github.com/sanchpet/garden/pull/39) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(feed): publish an Atom feed of posts and evergreen texts per language](https://github.com/sanchpet/garden/pull/38) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(site): name the site sanchpet in both languages](https://github.com/sanchpet/garden/pull/37) on [sanchpet/garden](https://github.com/sanchpet/garden) (2 days ago)
+- [feat(drawing): inline marked SVG drawings so their links work](https://github.com/sanchpet/garden/pull/36) on [sanchpet/garden](https://github.com/sanchpet/garden) (3 days ago)
+- [fix(descheduler): exit after a failed pass when the interval is 0](https://github.com/kubernetes-sigs/descheduler/pull/1946) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (3 days ago)
 
 ### 📓 Gists I wrote
 
@@ -119,7 +119,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (4 days ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (5 days ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 month ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal (1 month ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 month ago)
