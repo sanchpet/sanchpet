@@ -91,8 +91,8 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 ### 👷 Check out what I'm currently working on
 
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
 - [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
 - [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(cover): keep the cover small in a link popover](https://github.com/sanchpet/garden/pull/52) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(cards): a link preview card drawn from the page](https://github.com/sanchpet/garden/pull/51) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [refactor(share): drop the share stubs, announce the page itself](https://github.com/sanchpet/garden/pull/50) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat!: rewrite the bot in Go](https://github.com/sanchpet/churkabot-tg/pull/3) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (today)
-- [style(theme): darker, cooler ground for the dark page](https://github.com/sanchpet/garden/pull/49) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(stream): show a note&#39;s pictures small, and hold pictures to the screen](https://github.com/sanchpet/garden/pull/62) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [fix(announce): wait for every replica before sending](https://github.com/sanchpet/garden/pull/61) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(announce): attach a note&#39;s picture to its Telegram post](https://github.com/sanchpet/garden/pull/60) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(bookcase): link the list with the case, search, dates](https://github.com/sanchpet/garden/pull/59) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(bookcase): a list of the books beside the case](https://github.com/sanchpet/garden/pull/58) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 
 ### 📓 Gists I wrote
 
@@ -119,11 +119,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [pdb-operator/pdb-operator](https://github.com/pdb-operator/pdb-operator) - Intelligent Pod Disruption Budget Management for Kubernetes (today)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (today)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (today)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (1 day ago)
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (1 day ago)
-- [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in support for multi-tenancy. (1 day ago)
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (6 days ago)
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
