@@ -90,9 +90,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
 - [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
 - [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (1 week ago)
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(announce): the hub channel is verified](https://github.com/sanchpet/garden/pull/48) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [fix(feed): keep a note&#39;s paragraphs apart](https://github.com/sanchpet/garden/pull/47) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(announce): post a note without a preview, its page behind a phrase](https://github.com/sanchpet/garden/pull/46) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [fix(publish): retry the Pages deployment once](https://github.com/sanchpet/garden/pull/45) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(stream): a page of what happened in the garden, and notes](https://github.com/sanchpet/garden/pull/44) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix(cover): keep the cover small in a link popover](https://github.com/sanchpet/garden/pull/52) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(cards): a link preview card drawn from the page](https://github.com/sanchpet/garden/pull/51) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [refactor(share): drop the share stubs, announce the page itself](https://github.com/sanchpet/garden/pull/50) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat!: rewrite the bot in Go](https://github.com/sanchpet/churkabot-tg/pull/3) on [sanchpet/churkabot-tg](https://github.com/sanchpet/churkabot-tg) (today)
+- [style(theme): darker, cooler ground for the dark page](https://github.com/sanchpet/garden/pull/49) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 
 ### 📓 Gists I wrote
 
