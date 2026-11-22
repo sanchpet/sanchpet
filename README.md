@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (today)
-- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (6 days ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
+- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [chore(announce): the hub channel is verified](https://github.com/sanchpet/garden/pull/48) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(feed): keep a note&#39;s paragraphs apart](https://github.com/sanchpet/garden/pull/47) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(announce): post a note without a preview, its page behind a phrase](https://github.com/sanchpet/garden/pull/46) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(publish): retry the Pages deployment once](https://github.com/sanchpet/garden/pull/45) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(stream): a page of what happened in the garden, and notes](https://github.com/sanchpet/garden/pull/44) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [chore(announce): the hub channel is verified](https://github.com/sanchpet/garden/pull/48) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix(feed): keep a note&#39;s paragraphs apart](https://github.com/sanchpet/garden/pull/47) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(announce): post a note without a preview, its page behind a phrase](https://github.com/sanchpet/garden/pull/46) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix(publish): retry the Pages deployment once](https://github.com/sanchpet/garden/pull/45) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(stream): a page of what happened in the garden, and notes](https://github.com/sanchpet/garden/pull/44) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -119,10 +119,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (today)
-- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (today)
-- [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in support for multi-tenancy. (today)
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (5 days ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (1 day ago)
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (1 day ago)
+- [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in support for multi-tenancy. (1 day ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (6 days ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 month ago)
 
 ### 👯 Check out some of my recent followers
