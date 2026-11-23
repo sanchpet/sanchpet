@@ -90,10 +90,10 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (today)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
+- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
+- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (2 days ago)
 - [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (1 week ago)
 
 ### 🌱 My latest projects
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(stream): show a note&#39;s pictures small, and hold pictures to the screen](https://github.com/sanchpet/garden/pull/62) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(announce): wait for every replica before sending](https://github.com/sanchpet/garden/pull/61) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(announce): attach a note&#39;s picture to its Telegram post](https://github.com/sanchpet/garden/pull/60) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(bookcase): link the list with the case, search, dates](https://github.com/sanchpet/garden/pull/59) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(bookcase): a list of the books beside the case](https://github.com/sanchpet/garden/pull/58) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(stream): show a note&#39;s pictures small, and hold pictures to the screen](https://github.com/sanchpet/garden/pull/62) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix(announce): wait for every replica before sending](https://github.com/sanchpet/garden/pull/61) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(announce): attach a note&#39;s picture to its Telegram post](https://github.com/sanchpet/garden/pull/60) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(bookcase): link the list with the case, search, dates](https://github.com/sanchpet/garden/pull/59) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [feat(bookcase): a list of the books beside the case](https://github.com/sanchpet/garden/pull/58) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
 
 ### 📓 Gists I wrote
 
@@ -119,11 +119,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [pdb-operator/pdb-operator](https://github.com/pdb-operator/pdb-operator) - Intelligent Pod Disruption Budget Management for Kubernetes (today)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (today)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (today)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (1 day ago)
-- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (1 day ago)
+- [pdb-operator/pdb-operator](https://github.com/pdb-operator/pdb-operator) - Intelligent Pod Disruption Budget Management for Kubernetes (1 day ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (1 day ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 day ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (2 days ago)
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
