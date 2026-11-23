@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
-- [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (1 day ago)
-- [sanchpet/armamentarium](https://github.com/sanchpet/armamentarium) - Claude Code plugin marketplace: reasoning and verification skills that work in any repository (2 days ago)
-- [sanchpet/terraform-yandex-github-oidc](https://github.com/sanchpet/terraform-yandex-github-oidc) - Yandex Cloud: service account for GitHub Actions over OIDC (workload identity federation), no static keys (1 week ago)
+- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (today)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (today)
+- [Benature/obsidian-metadata-hider](https://github.com/Benature/obsidian-metadata-hider) - Hide metadata property if its value is empty (today)
+- [sanchpet/sweb-go-sdk](https://github.com/sanchpet/sweb-go-sdk) - Go client for the SpaceWeb (sweb.ru) hosting API (JSON-RPC 2.0) (today)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (today)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(stream): show a note&#39;s pictures small, and hold pictures to the screen](https://github.com/sanchpet/garden/pull/62) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [fix(announce): wait for every replica before sending](https://github.com/sanchpet/garden/pull/61) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(announce): attach a note&#39;s picture to its Telegram post](https://github.com/sanchpet/garden/pull/60) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(bookcase): link the list with the case, search, dates](https://github.com/sanchpet/garden/pull/59) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
-- [feat(bookcase): a list of the books beside the case](https://github.com/sanchpet/garden/pull/58) on [sanchpet/garden](https://github.com/sanchpet/garden) (1 day ago)
+- [fix: render settings controls in the declarative settings tab](https://github.com/Benature/obsidian-metadata-hider/pull/22) on [Benature/obsidian-metadata-hider](https://github.com/Benature/obsidian-metadata-hider) (today)
+- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/youtube-playlist-filler/pull/8) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (today)
+- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/terraform-provider-threexui/pull/1) on [sanchpet/terraform-provider-threexui](https://github.com/sanchpet/terraform-provider-threexui) (today)
+- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/terraform-provider-sweb/pull/81) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (today)
+- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/sweb/pull/102) on [sanchpet/sweb](https://github.com/sanchpet/sweb) (today)
 
 ### 📓 Gists I wrote
 
