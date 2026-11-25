@@ -90,7 +90,7 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (1 day ago)
 - [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (2 days ago)
 - [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (2 days ago)
@@ -127,11 +127,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👯 Check out some of my recent followers
 
-- [boldotter921](https://github.com/boldotter921)
 - [h1mal1a1](https://github.com/h1mal1a1)
 - [kapitanov](https://github.com/kapitanov)
 - [akemoon](https://github.com/akemoon)
 - [lexfrei](https://github.com/lexfrei)
+- [Raicchuu](https://github.com/Raicchuu)
 
 ## Contribution graph
 <div style="text-align: center;">
