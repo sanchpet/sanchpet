@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
 - [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
+- [amilima/legacy](https://github.com/amilima/legacy) - Первая версия сайта amilima, на память (today)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
 - [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (4 days ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(i18n): pick the language before the site root is drawn](https://github.com/sanchpet/garden/pull/69) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(style): tablet sketches on the page&#39;s ground, pencil following the theme](https://github.com/sanchpet/garden/pull/68) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(site): serve Mermaid&#39;s modules as .js](https://github.com/sanchpet/garden/pull/67) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(site): serve fonts and third-party libraries from the site itself](https://github.com/sanchpet/garden/pull/66) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(style): keep a note&#39;s picture width and fit small drawings to a phone](https://github.com/sanchpet/garden/pull/65) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [ci: open an issue when upstream Quartz moves past UPSTREAM](https://github.com/sanchpet/garden/pull/81) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(cursor): drop the system cursor switch](https://github.com/sanchpet/garden/pull/80) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [chore: take upstream Quartz fixes up to 92fa358](https://github.com/sanchpet/garden/pull/79) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [feat(cursor): draw the pointer as the owner&#39;s pencil](https://github.com/sanchpet/garden/pull/78) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [chore: make the repo describe the garden, not Quartz](https://github.com/sanchpet/garden/pull/77) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 
 ### 📓 Gists I wrote
 
@@ -119,11 +119,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (today)
 - [pdb-operator/pdb-operator](https://github.com/pdb-operator/pdb-operator) - Intelligent Pod Disruption Budget Management for Kubernetes (5 days ago)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (5 days ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (5 days ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (6 days ago)
-- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
