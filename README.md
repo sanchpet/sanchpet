@@ -90,11 +90,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 👷 Check out what I'm currently working on
 
-- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
-- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (2 days ago)
-- [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (3 days ago)
-- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (3 days ago)
-- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (3 days ago)
+- [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (1 day ago)
+- [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (3 days ago)
+- [sanchpet/cert-manager-webhook-spaceweb](https://github.com/sanchpet/cert-manager-webhook-spaceweb) - cert-manager ACME DNS-01 webhook solver for SpaceWeb (sweb.ru) DNS — enables wildcard certificates for sweb-hosted zones (4 days ago)
+- [sanchpet/sweb](https://github.com/sanchpet/sweb) - CLI for the SpaceWeb (sweb.ru) hosting API — kubectl/yc-style, on sweb-go-sdk (4 days ago)
+- [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) - Terraform provider for the SpaceWeb (sweb.ru) hosting API — manage VPS declaratively (Plugin Framework, on sweb-go-sdk). (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [fix(latex): read a lone dollar as text, the way Obsidian does](https://github.com/sanchpet/garden/pull/63) on [sanchpet/garden](https://github.com/sanchpet/garden) (3 days ago)
-- [fix: render settings controls in the declarative settings tab](https://github.com/Benature/obsidian-metadata-hider/pull/22) on [Benature/obsidian-metadata-hider](https://github.com/Benature/obsidian-metadata-hider) (3 days ago)
-- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/youtube-playlist-filler/pull/8) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (3 days ago)
-- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/terraform-provider-threexui/pull/1) on [sanchpet/terraform-provider-threexui](https://github.com/sanchpet/terraform-provider-threexui) (3 days ago)
-- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/terraform-provider-sweb/pull/81) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (3 days ago)
+- [fix(latex): read a lone dollar as text, the way Obsidian does](https://github.com/sanchpet/garden/pull/63) on [sanchpet/garden](https://github.com/sanchpet/garden) (4 days ago)
+- [fix: render settings controls in the declarative settings tab](https://github.com/Benature/obsidian-metadata-hider/pull/22) on [Benature/obsidian-metadata-hider](https://github.com/Benature/obsidian-metadata-hider) (4 days ago)
+- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/youtube-playlist-filler/pull/8) on [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) (4 days ago)
+- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/terraform-provider-threexui/pull/1) on [sanchpet/terraform-provider-threexui](https://github.com/sanchpet/terraform-provider-threexui) (4 days ago)
+- [ci: release with the GitHub App token instead of a PAT](https://github.com/sanchpet/terraform-provider-sweb/pull/81) on [sanchpet/terraform-provider-sweb](https://github.com/sanchpet/terraform-provider-sweb) (4 days ago)
 
 ### 📓 Gists I wrote
 
@@ -119,11 +119,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### ⭐ Recent Stars
 
-- [pdb-operator/pdb-operator](https://github.com/pdb-operator/pdb-operator) - Intelligent Pod Disruption Budget Management for Kubernetes (4 days ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (4 days ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (4 days ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (5 days ago)
-- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (5 days ago)
+- [pdb-operator/pdb-operator](https://github.com/pdb-operator/pdb-operator) - Intelligent Pod Disruption Budget Management for Kubernetes (5 days ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (5 days ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (5 days ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (6 days ago)
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations. (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
