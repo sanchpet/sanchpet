@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
+- [perf(fonts): cut Literata to the weights and optical sizes the site sets](https://github.com/sanchpet/garden/pull/125) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [perf(fonts): hash font file names so they can be cached forever](https://github.com/sanchpet/garden/pull/124) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 - [fix(core): resolve the content index&#39;s address when the page loads](https://github.com/sanchpet/garden/pull/123) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 - [perf: lazy content index, metric-matched fallback fonts, stable covers](https://github.com/sanchpet/garden/pull/122) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 - [perf(publish): ETag files derived from content](https://github.com/sanchpet/garden/pull/121) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [perf(publish): precompress text files with brotli](https://github.com/sanchpet/garden/pull/120) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [perf(graph): load d3 and pixi.js only after the page, near the graph](https://github.com/sanchpet/garden/pull/119) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 
 ### 📓 Gists I wrote
 
