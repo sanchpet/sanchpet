@@ -92,9 +92,9 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 - [sanchpet/garden](https://github.com/sanchpet/garden) - sanch.pet is a digital garden of Aleksandr Petrov (today)
 - [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts) - Texts of my digital garden at sanch.pet (today)
+- [sanchpet/races](https://github.com/sanchpet/races) - World trail and road race calendar aggregator — races.sanch.pet (today)
 - [amilima/legacy](https://github.com/amilima/legacy) - Первая версия сайта amilima, на память (1 day ago)
 - [sanchpet/dotfiles](https://github.com/sanchpet/dotfiles) - My MacOS dotfiles managed with chezmoi - mise, omz, brew, etc. (4 days ago)
-- [sanchpet/youtube-playlist-filler](https://github.com/sanchpet/youtube-playlist-filler) - One-shot Go reconciler that keeps a private YouTube playlist stocked with long-form uploads from a fixed set of channels; runs as a Kubernetes CronJob. (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -106,11 +106,11 @@ Also, check out [devops-cases](https://github.com/inview-club/devops-cases), the
 
 ### 🔨 My recent Pull Requests
 
-- [feat(toc): one rest length, a veil while docked, names over the page](https://github.com/sanchpet/garden/pull/107) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(contents): the dashes swell like a dock under the pointer](https://github.com/sanchpet/garden/pull/106) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(contents): pencil dashes in the left margin instead of the right column](https://github.com/sanchpet/garden/pull/105) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [feat(feed): a click copies the subscribe command](https://github.com/sanchpet/garden/pull/104) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
-- [fix(feed): hide what an extension injects, drop the duplicate address](https://github.com/sanchpet/garden/pull/103) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [fix(core): resolve the content index&#39;s address when the page loads](https://github.com/sanchpet/garden/pull/123) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [perf: lazy content index, metric-matched fallback fonts, stable covers](https://github.com/sanchpet/garden/pull/122) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [perf(publish): ETag files derived from content](https://github.com/sanchpet/garden/pull/121) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [perf(publish): precompress text files with brotli](https://github.com/sanchpet/garden/pull/120) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
+- [perf(graph): load d3 and pixi.js only after the page, near the graph](https://github.com/sanchpet/garden/pull/119) on [sanchpet/garden](https://github.com/sanchpet/garden) (today)
 
 ### 📓 Gists I wrote
 
